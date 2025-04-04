@@ -1,6 +1,22 @@
-# Empyrion Localization
+# Empyrion: Galactic Survival (Reforged Eden 2)
 =============================================
 
-Локализация для игры Empyrion: Galactic Survival
+Languages:
 
-Модификация: Reforged Eden 2
+- [x] English [FULL]
+- [ ] Deutsch 
+- [ ] Français
+- [ ] Italiano
+- [ ] Spanish
+- [ ] Portuguese (Euro)
+- [ ] Portuguese (Brazil)
+- [ ] Polish
+- [x] Russian [DRAFT]
+- [ ] Japanese
+- [ ] Chinese (simplified)
+- [ ] Chinese (traditional)
+- [ ] Korean
+- [ ] Turkish
+- [ ] Greek
+- [ ] Dutch
+- [ ] Vietnames
