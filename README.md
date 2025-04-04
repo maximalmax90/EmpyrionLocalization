@@ -1,4 +1,5 @@
 # Empyrion Localization
 =============================================
 
-Здесь будет публиковаться локализация для игры Empyrion: Galactic Survival
+Локализация для игры Empyrion: Galactic Survival
+Модификация: Reforged Eden 2
