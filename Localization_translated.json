@@ -2293,8 +2293,8 @@
     },
     {
         "AkuaFruit": {
-            "English": "Ahax Fruit",
-            "Russian": "Плод Ахэкс"
+            "English": "Azure Jewelfruit",
+            "Russian": "Азурный Джуэлфрут"
         }
     },
     {
@@ -8557,8 +8557,8 @@
     },
     {
         "ScienceEquipment": {
-            "English": "Science Equipment",
-            "Russian": "Научное оборудование"
+            "English": "Scientific Equipment",
+            "Russian": "Научное Оборудование"
         }
     },
     {
@@ -10777,8 +10777,8 @@
     },
     {
         "ConcreteFullDestroyedRemoteEffect": {
-            "English": "Concrete Block (Signal) - Destroyed",
-            "Russian": "Блок Бетона (Сигнал) - Уничтожен"
+            "English": "Concrete Blocks (Signal) - Destroyed",
+            "Russian": "Бетонные Блоки (Сигнал) - Разрушены"
         }
     },
     {
@@ -13225,8 +13225,8 @@
     },
     {
         "itmFilters": {
-            "English": "Air Filters used in air reprocessing, filtration and terraforming operations.",
-            "Russian": "Воздушные фильтры используются в операциях по переработке воздуха, фильтрации и терраформированию."
+            "English": "Disposable filters used in both reprocessing, filtration and terraforming operations.",
+            "Russian": "Одноразовые фильтры используются как при переработке, так и при фильтрации и операциях по терраформированию."
         }
     },
     {
@@ -13237,8 +13237,8 @@
     },
     {
         "itmScienceEquipment": {
-            "English": "Advanced scanning equipment and lab supplies.",
-            "Russian": "Передовая сканирующая аппаратура и лабораторное оборудование."
+            "English": "Modular scientific equipment and general lab supplies. Depending on how it's used, it could be used for anything from medical research to studying deep space anomalies.",
+            "Russian": "Модульное научное оборудование и общий лабораторный инвентарь. В зависимости от того, как оно используется, его можно использовать для чего угодно - от медицинских исследований до изучения аномалий глубокого космоса."
         }
     },
     {
@@ -13663,8 +13663,8 @@
     },
     {
         "bkiTurretHVPlasmaT2": {
-            "English": "[sup]An advanced 40MJ surface-to-air energy weapon mounted to a reinforced auto-tracking turret base that superheats a cell of unstable plasma mix and propels it like a railgun at a target.[/sup]\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "[sup]Продвинутое 40MJ поверхностно-воздушное энергетическое оружие, установленное на укрепленной автоследящейся турельной базе, которое перегревает ячейку неустойчивой плазменной смеси и выстреливает её как из рельсотрона в цель.[/sup]\n[c][00FF00]+25% Урон от взрыва против Блоков брони[-][/c]\n[c][FF0000]Низкий урон от удара[-][/c]\n[c][FF00FF]10,000 Урона щиту в минуту[-][/c]\n[c][FF8000]40,000 Урона в минуту[-][/c]"
+            "English": "[sup]An advanced 55MJ surface-to-air energy weapon mounted to a reinforced auto-tracking turret base that superheats a cell of unstable plasma mix and propels it like a railgun at a target.[/sup]\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "[sup]Передовой 55МДж зенитный энергетический пушечный комплекс, установленный на усиленной базе автонаводящей башни, который сверхнагревает ячейку нестабильной плазменной смеси и выстреливает ею подобно рельсовому пушке по цели.[/sup]\\n[c][00FF00]+25% Урон от взрыва по бронеблокам[-][/c]\\n[c][FF0000]Низкий урон при ударе[-][/c]\\n[c][FF00FF]10 000 ед. урона щиту в минуту[-][/c]\\n[c][FF8000]40 000 ед. урона в минуту[-][/c]"
         }
     },
     {
@@ -14023,26 +14023,26 @@
     },
     {
         "bkiWeaponCVPlasmaT1": {
-            "English": "A 50MJ Plasma Cannon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target using electromagnetic rails.\\n[c][FFBB00]Can only be used in Space\\n+25% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "50МДж Плазменная Пушка, использующая каскадный лазерный массив для нагрева плазмы Эреструм, подвешенной в магнитном поле, и запуск её по назначенному целям с использованием электромагнитных рельс.\\n[c][FFBB00]Может использоваться только в космосе\\n+25% Урон от взрыва против Металлических Блоков Брони[-][/c]\\n[c][FF0000]Низкий Урон от удара[-][/c]\\n[c][FF00FF]10,000 Урона по Щитам в минуту[-][/c]\\n[c][FF8000]40,000 Урона в минуту[-][/c]"
+            "English": "A 50MJ Plasma Cannon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target using electromagnetic rails.\\n[c][FFBB00]Can only be used in Space\\n+10% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "50МДж Плазменная пушка, использующая каскадную лазерную матрицу для сверхнагрева эреструм плазмы, подвешенной в магнитном поле, и запуска ее в назначенную цель с помощью электромагнитных рельсов.\\n[c][FFBB00]Может быть использована только в Космосе\\n+10% Ущерба от взрыва по Блокам Броневой Арматуры[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]10 000 ущерба щиту в минуту[-][/c]\\n[c][FF8000]40 000 ущерба в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2Group": {
-            "English": "100 Megajoule Medium Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "100 Мегаджоуль Средние Плазменные Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Можно использовать только в Космосе[-][/c]\\n[c][00FF00]+25% Ущерба Взрыва против Блоков Броневой Стали[-][/c]\\n[c][FF0000]Низкий Ущерб от Удара[-][/c]\\n[c][FF00FF]20,000 Единиц Ущерба Щита в минуту[-][/c]\\n[c][FF8000]80,000 Единиц Ущерба в минуту[-][/c]"
+            "English": "100 Megajoule Medium Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "100 Мегаджоуль Средние Плазменные Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Может быть использовано только в Космосе[-][/c]\\n[c][00FF00]+17.5% Урон Взрыва по Блокам Брони из Металла[-][/c]\\n[c][FF0000]Низкий Урон от Удара[-][/c]\\n[c][FF00FF]20,000 Единиц Урона Щита в Минуту[-][/c]\\n[c][FF8000]80,000 Единиц Урона в Минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2": {
-            "English": "A pair of 100MJ Medium Plasma Cannons embedded in an armored turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Пара 100MJ Средних Плазменных Пушек, встроенных в бронированную турельную установку, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% Устойчивость к взрывам\\n+25% Урон от взрывов по Блокам Металлической Брони[-][/c]\\n[c][FF0000]Низкий Урон от удара[-][/c]\\n[c][FF00FF]20,000 Урона Щиту в минуту[-][/c]\\n[c][FF8000]80,000 Урона в минуту[-][/c]"
+            "English": "A pair of 100MJ Medium Plasma Cannons embedded in an armored turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Пара 100МДж средних плазменных пушек, встроенных в бронированную башенную установку, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% сопротивление взрыву\\n+17.5% ущерб от взрыва против блоков брони из металла[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]20 000 ущерба щиту в минуту[-][/c]\\n[c][FF8000]80 000 ущерба в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2V2": {
-            "English": "An alternating 4-barrel assembly of 100MJ Medium Plasma Cannons embedded in an linear frame that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Чередующаяся 4-ствольная сборка 100МДж средних плазменных пушек, встроенных в линейную раму, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% урона взрыва по блокам брони из металла[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]\\n[c][FF8000]80 000 урона в минуту[-][/c]"
+            "English": "An alternating 4-barrel assembly of 100MJ Medium Plasma Cannons embedded in an linear frame that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Чередующаяся 4-ствольная сборка 100МДж средних плазменных пушек, встроенных в линейную раму, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00] Может использоваться только в космосе[-][/c]\\n[c][00FF00]+17.5% урона взрыва по металлическим бронеблокам[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]\\n[c][FF8000]80 000 урона в минуту[-][/c]"
         }
     },
     {
@@ -14503,8 +14503,8 @@
     },
     {
         "itmPrefabHousing": {
-            "English": "Flat-packed Prefab Housing modules commonly used in the wake of environmental disasters or during the construction period of outlying colonies.\\nThey're not the most spacious or comfortable, but it's better than a tent.",
-            "Russian": "Плоские упакованные модули жилых помещений, часто используемые вслед за экологическими катастрофами или во время строительства отдаленных колоний.\\nОни не самые просторные и комфортные, но лучше чем палатка."
+            "English": "Flat-packed Prefab Housing modules commonly used in the construction period of outlying colonies or as emergency shelter.\\nMultiple units can be assembled together to provide comfortable long-term housing for comparatively low cost.",
+            "Russian": "Плоскоупакованные модули предфабрицированного жилья обычно используются в период строительства отдаленных колоний или в качестве аварийного убежища.\\nНесколько единиц можно собрать вместе, чтобы обеспечить комфортное долгосрочное проживание при относительно низкой стоимости."
         }
     },
     {
@@ -17569,14 +17569,14 @@
     },
     {
         "itmCVPlasmaCannonChargeT1": {
-            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Plasma Cannons.\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "Эреструм Гель, взвешенный в одноразовом металлическом корпусе, который можно перегреть с помощью каскадного лазерного массива.\\nИспользуется в качестве боеприпасов в плазменных пушках класса военных кораблей.\\n[c][00FF00]+25% урона взрыва по блокам брони[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]10 000 единиц урона щита в минуту[-][/c]"
+            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Plasma Cannons.\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "Erestrum Gel, взвешенный в одноразовом металлическом корпусе, который можно перегреть с помощью каскадной лазерной матрицы.\\nИспользуется в качестве боеприпаса в пушках класса боевых кораблей Плазменных Пушек.\\n[c][00FF00]+10% Урона Взрыва по Блокам Брони[-][/c]\\n[c][FF0000]Низкий Урон при Воздействии[-][/c]\\n[c][FF00FF]10,000 Единиц Урона Щита в Минуту[-][/c]"
         }
     },
     {
         "itmCVPlasmaCannonChargeT2": {
-            "English": "A Magnesium-doped Erestrum gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Advanced Plasma Cannons.\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
-            "Russian": "Магниевая смесь геля Эреструм в одноразовом металлическом корпусе, который можно нагреть с помощью каскадного лазерного массива.\\nИспользуется в качестве боеприпасов для плазменных пушек класса крейсеров Продвинутый Плазма Канон.\\n[c][00FF00]+25% Урон от взрыва против Блоки Инопланетного Корпуса[-][/c]\\n[c][FF0000]Низкий урон при попадании[-][/c]\\n[c][FF00FF]20,000 Урона по щитам в минуту[-][/c]"
+            "English": "A Magnesium-doped Erestrum gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Advanced Plasma Cannons.\\n[c][00FF00]+17.5% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
+            "Russian": "Магний-допированная смесь геля Эреструм, взвешенная в одноразовом металлическом корпусе, который можно сверх нагреть с помощью каскадного лазерного массива.\\nИспользуется в качестве боеприпасов в корабельных классах передовых плазменных пушек.\\n[c][00FF00]+17.5% Ущерб от взрыва по блокам брони[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]20,000 ед. ущерба щиту в минуту[-][/c]"
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 29)[-][/c]",
-            "Russian": "INVENTORY [c][00ffff](РЕ2 Build 29)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 30)[-][/c]",
+            "Russian": "INVENTORY [c][00ffff](РЕ2 Build 30)[-][/c]"
         }
     },
     {
@@ -21799,8 +21799,8 @@
     },
     {
         "cpgEffects": {
-            "English": "Effect Projectors",
-            "Russian": "Проекторы Эффектов"
+            "English": "Special Effects",
+            "Russian": "Специальные Эффекты"
         }
     },
     {
@@ -24247,8 +24247,8 @@
     },
     {
         "Eden_CrystalZascosiumL": {
-            "English": "Energized Zascosium",
-            "Russian": "Энергизированный Заскосиум"
+            "English": "Zacosite Crystal Formation",
+            "Russian": "Закоситовый Кристаллический Формацион"
         }
     },
     {
@@ -24343,20 +24343,8 @@
     },
     {
         "Eden_HematiteOreinfo": {
-            "English": "An iron oxide ore commonly found in Hematite asteroids.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nCan be packaged into an Ore Shipment in the Decoration tab of your constructor for use in mining missions.\\n\\nUsed in Tier 1 mining missions.",
-            "Russian": "Железная руда, часто встречающаяся в астероидах Гематит.\n\nНекоторые лица и горнодобывающие корпорации могут быть заинтересованы в этом, но она не используется ни в одном известном рецепте конструктора или не торгуется.\nМожет быть упакована в Орудную Посылку во вкладке \"Украшение\" вашего конструктора для использования в горнодобывающих миссиях.\n\nИспользуется в миссиях по добыче 1-го уровня."
-        }
-    },
-    {
-        "Eden_HematiteShipment": {
-            "English": "Hematite Ore Shipment",
-            "Russian": "Гематитовая Рудная Поставка"
-        }
-    },
-    {
-        "Eden_HematiteShipmentinfo": {
-            "English": "A shipment of packaged Hematite Ore.\\nCertain individuals in mining sites may be interested in this. Must be in your personal inventory to turn in.\\nUsed in T1 Mining Missions.",
-            "Russian": "Отправка упакованного Гематитового Руды.\nНекоторые люди на горных участках могут быть заинтересованы в этом. Должно быть в вашем личном инвентаре для сдачи.\nИспользуется в миссиях T1 по добыче полезных ископаемых."
+            "English": "An iron oxide ore commonly found in Hematite asteroids.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nUsed in Tier 1 mining missions.",
+            "Russian": "Железная руда оксида, обычно встречающаяся в астероидах Гематита.\\n\\nОпределенные лица и горнодобывающие корпорации могут быть заинтересованы в этом, но оно не используется ни в одном известном конструкторском рецепте или широко обменивается.\\n\\nИспользуется в миссиях по добыче Tier 1."
         }
     },
     {
@@ -24367,20 +24355,8 @@
     },
     {
         "Eden_IlmeniteOreinfo": {
-            "English": "An iron-titanium oxide.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nCan be packaged into an Ore Shipment in the Decoration tab of your constructor for use in mining missions.\\n\\nUsed in Tier 2 mining missions.",
-            "Russian": "Железо-титановый оксид.\n\nНекоторые люди и горнодобывающие корпорации могут быть заинтересованы в этом, но оно не используется ни в одном из известных рецептов конструктора или часто не обменивается.\n\nМожно упаковать в груз руды в разделе \"Украшения\" вашего конструктора для использования в горнодобывающих миссиях.\n\nИспользуется в миссиях по добыче 2-го уровня."
-        }
-    },
-    {
-        "Eden_IlmeniteShipment": {
-            "English": "Ilmenite Ore Shipment",
-            "Russian": "Ильменитовая Рудная Поставка"
-        }
-    },
-    {
-        "Eden_IlmeniteShipmentinfo": {
-            "English": "A shipment of packaged Ilmenite Ore.\\nCertain individuals in mining sites may be interested in this. Must be in your personal inventory to turn in.\\nUsed in T2 Mining Missions.",
-            "Russian": "Отправка упакованной руды Ильменит.\\nНекоторые люди на горных участках могут быть заинтересованы в этом. Должно быть в вашем личном инвентаре для сдачи.\\nИспользуется в миссиях T2 Mining."
+            "English": "An iron-titanium oxide.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nUsed in Tier 2 mining missions.",
+            "Russian": "Железо-титановый оксид.\\n\\nОпределенные лица и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется в известных рецептах конструкторов или обычно не торгуется.\\n\\nИспользуется в миссиях по добыче полезных ископаемых 2-го уровня."
         }
     },
     {
@@ -24391,20 +24367,8 @@
     },
     {
         "Eden_PyrolusiteOreinfo": {
-            "English": "A mineral consisting of manganese dioxide.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nCan be packaged into an Ore Shipment in the Decoration tab of your constructor for use in mining missions.\\n\\nUsed in Tier 3 mining missions.",
-            "Russian": "Минерал, состоящий из диоксида марганца.\n\nНекоторые люди и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется ни в одном известном рецепте конструктора или часто обменивается на что-либо.\n\nМожет быть упакован в груз минералов в разделе \"Украшение\" вашего конструктора для использования в горнодобывающих миссиях.\n\nИспользуется в миссиях по добыче полезных ископаемых 3-го уровня."
-        }
-    },
-    {
-        "Eden_PyrolusiteShipment": {
-            "English": "Pyrolusite Ore Shipment",
-            "Russian": "Пиролюзитовая Рудная Партия"
-        }
-    },
-    {
-        "Eden_PyrolusiteShipmentinfo": {
-            "English": "A shipment of packaged Pyrolusite Ore.\\nCertain individuals in mining sites may be interested in this. Must be in your personal inventory to turn in.\\nUsed in T3 Mining Missions.",
-            "Russian": "Отправка упакованного рудника пиролюзита.\nНекоторые лица на горных участках могут быть заинтересованы в этом. Должно быть в вашем личном инвентаре для сдачи.\nИспользуется в миссиях T3 Mining."
+            "English": "A mineral consisting of manganese dioxide.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nUsed in Tier 3 mining missions.",
+            "Russian": "Минерал, состоящий из диоксида марганца.\\n\\nОпределенные лица и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется в известных рецептах конструкторов или обычно не обменивается.\\n\\nИспользуется в миссиях по добыче полезных ископаемых 3-го уровня."
         }
     },
     {
@@ -24415,20 +24379,8 @@
     },
     {
         "Eden_ChromiteOreinfo": {
-            "English": "An oxide mineral composed of chromium, iron, and oxygen.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nCan be packaged into an Ore Shipment in the Decoration tab of your constructor for use in mining missions.\\n\\nUsed in Tier 4 mining missions.",
-            "Russian": "Минерал оксида, состоящий из хрома, железа и кислорода.\n\nНекоторые люди и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется ни в одном известном рецепте конструктора или часто обменивается на что-либо.\n\nМожет быть упакован в груз руды в разделе \"Декоративные элементы\" вашего конструктора для использования в горнодобывающих миссиях.\n\nИспользуется в миссиях по добыче полезных ископаемых 4-го уровня."
-        }
-    },
-    {
-        "Eden_ChromiteShipment": {
-            "English": "Chromite Ore Shipment",
-            "Russian": "Хромитовая Рудная Отгрузка"
-        }
-    },
-    {
-        "Eden_ChromiteShipmentinfo": {
-            "English": "A shipment of packaged Chromite Ore.\\nCertain individuals in mining sites may be interested in this. Must be in your personal inventory to turn in.\\nUsed in T4 Mining Missions.",
-            "Russian": "Отправка упакованной хромовой руды.\nНекоторые люди на горнодобывающих участках могут быть заинтересованы в этом. Должно быть в вашем личном инвентаре для сдачи.\nИспользуется в миссиях T4 по добыче полезных ископаемых."
+            "English": "An oxide mineral composed of chromium, iron, and oxygen.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n\\nUsed in Tier 4 mining missions.",
+            "Russian": "Оксидный минерал, состоящий из хрома, железа и кислорода.\\n\\nОпределенные лица и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется в известных рецептах конструкторов или не торгуется обычно.\\n\\nИспользуется в миссиях по добыче полезных ископаемых 4-го уровня."
         }
     },
     {
@@ -25129,26 +25081,26 @@
     },
     {
         "Eden_TradeColT1": {
-            "English": "Small Sealed Package [c][4CA5FF](Colonists)[-][/c]",
-            "Russian": "Маленький запечатанный пакет [c][4CA5FF](Колонисты)[/c]"
+            "English": "Sealed Courier Package [c][4CA5FF](Colonists)[-][/c]",
+            "Russian": "Закрытый Почтовый Пакет [c][4CA5FF](Колонисты)[-][/c]"
         }
     },
     {
         "Eden_TradeColT1info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][4CA5FF]Colonists[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Neutral\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 5000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 10% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][4CA5FF]Колонисты[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Нейтральная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 5000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 10% от залога\\n\\nГерметичный контейнер, помеченный для доставки конкретному получателю. Купите этот предмет за его залог и затем доставите в центр распределения на торговой станции в секторе территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте свою подключенную панели инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][4CA5FF]Colonists[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][4CA5FF]Колонисты[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставить в орбитальный центр распределения получательной фракции, найденный в секторе торговой станции внутри их галактической территории."
         }
     },
     {
         "Eden_TradeColT2": {
-            "English": "Medium Sealed Package [c][4CA5FF](Colonists)[-][/c]",
-            "Russian": "Средний Герметичный Пакет [c][4CA5FF](Колонисты)[-][/c]"
+            "English": "Sealed Rush Courier Package [c][4CA5FF](Colonists)[-][/c]",
+            "Russian": "Закрытый пакет экспресс-доставки Курьера [c][4CA5FF](Колонисты)[-][/c]"
         }
     },
     {
         "Eden_TradeColT2info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][4CA5FF]Colonists[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Friendly\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 40000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 15% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][4CA5FF]Колонисты[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Дружелюбная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 40000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 15% от залога\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет за его залог и затем доставите в центр распределения в секторе торговой станции на территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][4CA5FF]Colonists[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.\\n\\n[c][FF0000]The delivery window for this package is limited. It will be converted into a standard package if you do not deliver it before the perish timer runs out.[-][/c]",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][4CA5FF]Колонисты[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации.\\nДоставьте в орбитальный центр распределения фракции-получателя, расположенный в секторе торговой станции внутри их галактической территории.\\n\\n[c][FF0000]Время доставки этого пакета ограничено. Он будет преобразован в стандартный пакет, если вы не доставите его до истечения времени периш-таймера.[-][/c]"
         }
     },
     {
@@ -25165,26 +25117,26 @@
     },
     {
         "Eden_TradePolarisT1": {
-            "English": "Small Sealed Package [c][E59933](Polaris)[-][/c]",
-            "Russian": "Маленький запечатанный пакет [c][E59933](Полярис)[-][/c]"
+            "English": "Sealed Courier Package [c][E59933](Polaris)[-][/c]",
+            "Russian": "Закрытый пакет курьера [c][E59933](Полярис)[-][/c]"
         }
     },
     {
         "Eden_TradePolarisT1info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][E59933]Polaris[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Neutral\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 5000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 10% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][E59933]Полярис[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Нейтральная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 5000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 10% от заложенного имущества\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет по его стоимости и затем доставите в центр распределения на торговой станции в секторе территории фракции получателя для возврата вашего заложенного имущества плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][E59933]Polaris[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][E59933]Полярис[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставьте в орбитальный центр распределения фракции получателя, найденный в секторе торговой станции внутри их галактической территории."
         }
     },
     {
         "Eden_TradePolarisT2": {
-            "English": "Medium Sealed Package [c][E59933](Polaris)[-][/c]",
-            "Russian": "Средний Герметичный Пакет [c][E59933](Полярис)[-][/c]"
+            "English": "Sealed Rush Courier Package [c][E59933](Polaris)[-][/c]",
+            "Russian": "Заказанный пакет экспресс-доставки [c][E59933](Полярис)[-][/c]"
         }
     },
     {
         "Eden_TradePolarisT2info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][E59933]Polaris[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Friendly\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 40000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 15% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][E59933]Полярис[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Дружелюбная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 40000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 15% от залога\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет по его залогу, а затем доставите в центр распределения в торговом секторе станции в территорию фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов для покупки или продажи этого пакета."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][E59933]Polaris[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.\\n\\n[c][FF0000]The delivery window for this package is limited. It will be converted into a standard package if you do not deliver it before the perish timer runs out.[-][/c]",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][E59933]Полярис[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставьте в орбитальный центр распределения получательной фракции, найденный в секторе торговой станции внутри их галактической территории.\\n\\n[c][FF0000]Время доставки этого пакета ограничено. Он будет преобразован в стандартный пакет, если вы не доставите его до истечения времени срока годности.[-][/c]"
         }
     },
     {
@@ -25201,26 +25153,26 @@
     },
     {
         "Eden_TradeZiraxT1": {
-            "English": "Small Sealed Package [c][FF0000](Zirax)[-][/c]",
-            "Russian": "Маленький запечатанный пакет [c][FF0000](Зиракс)[-][/c]"
+            "English": "Sealed Courier Package [c][FF0000](Zirax)[-][/c]",
+            "Russian": "Закрытый Курьерский Пакет [c][FF0000](Zirax)[-][/c]"
         }
     },
     {
         "Eden_TradeZiraxT1info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FF0000]Zirax[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Neutral\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 5000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 12% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FF0000]Зиракс[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Нейтральная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 5000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 12% от залога\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет за его залог и затем доставите в центр распределения в секторе торговой станции в территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FF0000]Zirax[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FF0000]Зиракс[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставьте в орбитальный центр распределения фракции-получателя, найденного в секторе торговой станции внутри их галактической территории."
         }
     },
     {
         "Eden_TradeZiraxT2": {
-            "English": "Medium Sealed Package [c][FF0000](Zirax)[-][/c]",
-            "Russian": "Средний Герметичный Пакет [c][FF0000](Зиракс)[-][/c]"
+            "English": "Sealed Rush Courier Package [c][FF0000](Zirax)[-][/c]",
+            "Russian": "Закрытый пакет экспресс-доставки Курьер [c][FF0000](Зиракс)[-][/c]"
         }
     },
     {
         "Eden_TradeZiraxT2info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FF0000]Zirax[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Friendly\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 40000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 18% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FF0000]Зиракс[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Дружелюбный\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 40000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 18% от залога\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет за его залог и затем доставите в центр распределения в секторе торговой станции на территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте свою подключенную панель инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FF0000]Zirax[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.\\n\\n[c][FF0000]The delivery window for this package is limited. It will be converted into a standard package if you do not deliver it before the perish timer runs out.[-][/c]",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FF0000]Зиракс[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставьте в орбитальный центр распределения фракции получателя, найденный в секторе торговой станции внутри их галактической территории.\\n\\n[c][FF0000]Время доставки этого пакета ограничено. Он будет преобразован в стандартный пакет, если вы не доставите его до истечения времени перистра.[-][/c]"
         }
     },
     {
@@ -25237,26 +25189,26 @@
     },
     {
         "Eden_TradePiratesT1": {
-            "English": "Small Sealed Package [c][FFFF00](Pirates)[-][/c]",
-            "Russian": "Маленький запечатанный пакет [c][FFFF00](Пираты)[-][/c]"
+            "English": "Sealed Courier Package [c][FFFF00](Pirates)[-][/c]",
+            "Russian": "Закрытый Курьерский Пакет [c][FFFF00](Пираты)[-][/c]"
         }
     },
     {
         "Eden_TradePiratesT1info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FFFF00]Pirates[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Neutral\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 5000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 12% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FFFF00]Пираты[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Нейтральная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 5000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 12% от залога\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет за его залог и затем доставите в центр распределения на торговой станции в секторе территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов для покупки или продажи этого пакета."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FFFF00]Pirates[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FFFF00]Пираты[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации.\\nДоставить в орбитальный центр распределения фракции получателя, расположенный в секторе торговой станции внутри их галактической территории."
         }
     },
     {
         "Eden_TradePiratesT2": {
-            "English": "Medium Sealed Package [c][FFFF00](Pirates)[-][/c]",
-            "Russian": "Средний Герметичный Пакет [c][FFFF00](Пираты)[-][/c]"
+            "English": "Sealed Rush Courier Package [c][FFFF00](Pirates)[-][/c]",
+            "Russian": "Закрытый пакет экспресс-доставки Rush Courier [c][FFFF00](Пираты)[-][/c]"
         }
     },
     {
         "Eden_TradePiratesT2info": {
-            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FFFF00]Pirates[-][/c]\\n[c][FFFFFF][b]Required reputation:[-][/c][/b] Friendly\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n[c][FFFFFF][b]Collateral:[-][/c][/b] 40000\\n[c][FFFFFF][b]Payment:[-][/c][/b] 18% of collateral\\n\\nA sealed container marked for delivery to a specific recipient. Purchase this item for its collateral and then deliver to a distribution center in a trading station sector in the recipient faction's territory for a return of your collateral plus an additional payment.\\n\\nUse your connected toolbar to buy or sell this package.",
-            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FFFF00]Пираты[-][/c]\\n[c][FFFFFF][b]Требуемая репутация:[-][/c][/b] Дружелюбная\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n[c][FFFFFF][b]Залог:[-][/c][/b] 40000\\n[c][FFFFFF][b]Оплата:[-][/c][/b] 18% залоговой стоимости\\n\\nГерметичный контейнер, предназначенный для доставки конкретному получателю. Купите этот предмет за его залоговую стоимость и затем доставите в центр распределения на торговой станции в секторе территории фракции получателя для возврата вашего залога плюс дополнительная оплата.\\n\\nИспользуйте подключенную панель инструментов, чтобы купить или продать этот пакет."
+            "English": "[c][FFFFFF][b]Faction:[-][/c][/b] [c][FFFF00]Pirates[-][/c]\\n[c][FFFFFF][b]Destination:[-][/c][/b] Distribution Center\\n\\nA sealed container marked for delivery to a specific recipient.\\nObtained from Trade Federation Distribution Headquarters.\\nTake to an orbital Distribution Center of the recipient faction found within a Trading Station sector inside their galactic territory.\\n\\n[c][FF0000]The delivery window for this package is limited. It will be converted into a standard package if you do not deliver it before the perish timer runs out.[-][/c]",
+            "Russian": "[c][FFFFFF][b]Фракция:[-][/c][/b] [c][FFFF00]Пираты[-][/c]\\n[c][FFFFFF][b]Назначение:[-][/c][/b] Центр распределения\\n\\nЗапечатанный контейнер, помеченный для доставки конкретному получателю.\\nПолучено из штаб-квартиры Торговой федерации по распределению.\\nДоставьте в орбитальный центр распределения фракции получателя, найденный в секторе торговой станции внутри их галактической территории.\\n\\n[c][FF0000]Время доставки этого пакета ограничено. Он будет преобразован в стандартный пакет, если вы не доставите его до истечения времени перистра.[-][/c]"
         }
     },
     {
@@ -26551,8 +26503,8 @@
     },
     {
         "Eden_Cryopodinfo": {
-            "English": "You are suffering from the effects of prolonged cryosleep.",
-            "Russian": "Вы страдаете от последствий длительного криосна."
+            "English": "You are suffering from the effects of cryo shock.",
+            "Russian": "Вы страдаете от последствий крио-шока."
         }
     },
     {
@@ -26971,146 +26923,146 @@
     },
     {
         "Eden_DeliveryColonistsSellT1": {
-            "English": "Colonists Small Delivery Contracts",
-            "Russian": "Колонисты Малые Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryColonistsSellT2": {
-            "English": "Colonists Medium Delivery Contracts",
-            "Russian": "Колонисты: Средние Договоры на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryColonistsSellT3": {
-            "English": "Colonists Large Delivery Contracts",
-            "Russian": "Колонисты Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisSellT1": {
-            "English": "Polaris Small Delivery Contracts",
-            "Russian": "Полярис Малые Контракты Доставки"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisSellT2": {
-            "English": "Polaris Medium Delivery Contracts",
-            "Russian": "Polaris Средние Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisSellT3": {
-            "English": "Polaris Large Delivery Contracts",
-            "Russian": "Полярис Крупные Договоры Поставки"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxSellT1": {
-            "English": "Zirax Small Delivery Contracts",
-            "Russian": "Зиракс Малые Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxSellT2": {
-            "English": "Zirax Medium Delivery Contracts",
-            "Russian": "Зиракс Контракты Средней Доставки"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxSellT3": {
-            "English": "Zirax Large Delivery Contracts",
-            "Russian": "Зиракс Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesSellT1": {
-            "English": "Shady Small Delivery Contracts",
-            "Russian": "Тёмные Малые Контракты На Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesSellT2": {
-            "English": "Shady Medium Delivery Contracts",
-            "Russian": "Теневые Средние Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesSellT3": {
-            "English": "Shady Large Delivery Contracts",
-            "Russian": "Тёмные Крупные Договоры Поставки"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryColonistsT1": {
-            "English": "Small Delivery Contracts",
-            "Russian": "Малые Договоры на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryColonistsT2": {
-            "English": "Medium Delivery Contracts",
-            "Russian": "Контракты на доставку среднего класса"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryColonistsT3": {
-            "English": "Large Delivery Contracts",
-            "Russian": "Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisT1": {
-            "English": "Small Delivery Contracts",
-            "Russian": "Малые Договоры на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisT2": {
-            "English": "Medium Delivery Contracts",
-            "Russian": "Контракты на доставку среднего класса"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPolarisT3": {
-            "English": "Large Delivery Contracts",
-            "Russian": "Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxT1": {
-            "English": "Small Delivery Contracts",
-            "Russian": "Малые Договоры на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxT2": {
-            "English": "Medium Delivery Contracts",
-            "Russian": "Контракты на доставку среднего класса"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryZiraxT3": {
-            "English": "Large Delivery Contracts",
-            "Russian": "Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesT1": {
-            "English": "Small Delivery Contracts",
-            "Russian": "Малые Договоры на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesT2": {
-            "English": "Medium Delivery Contracts",
-            "Russian": "Контракты на доставку среднего класса"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
         "Eden_DeliveryPiratesT3": {
-            "English": "Large Delivery Contracts",
-            "Russian": "Большие Контракты на Доставку"
+            "English": "[c][FF0000]Deprecated Trader\\nPlease ignore[-][/c]",
+            "Russian": "[c][FF0000]Устаревший Торговец\\nПожалуйста, игнорируйте[-][/c]"
         }
     },
     {
@@ -29403,6 +29355,222 @@
         "bkiAutoRepairDevice": {
             "English": "The central terminal for automated repairs of all damaged blocks on a base or vessel.\\n[c][00FF00]Requires Repair Charges[-][/c]\\n[c][FFD837]Cannot be used while in combat or with an active shield[-][/c]\\n[c][FF0000]Does not replace lost blocks[-][/c]",
             "Russian": "Центральный терминал для автоматического ремонта всех поврежденных блоков на базе или судне.\\n[c][00FF00]Требует зарядов ремонта[-][/c]\\n[c][FFD837]Не может быть использован во время боя или с активным щитом[-][/c]\\n[c][FF0000]Не заменяет потерянные блоки[-][/c]"
+        }
+    },
+    {
+        "itmAkuaFruit": {
+            "English": "A blue, jewel-like fruit native to several heavily forested planets that is desired in many offworld markets. The difficulty in artificial cultivation has resulted in high prices and frequent smuggling.",
+            "Russian": "Синий, похожий на драгоценный камень фрукт, родом с нескольких сильно зalesоненных планет, который пользуется спросом во многих внешних рынках. Трудности в искусственном культивировании привели к высоким ценам и частому контрабанде."
+        }
+    },
+    {
+        "itmGatlingRoundCVT3": {
+            "English": "A 35mm explosive shell designed for use in the Phalanx Vulcan Cannon. It features a Tungsten-Sathium tip for improved penetration.\\n[c][00FF00]+100% Damage vs Entities[-][/c]\\n[c][FF0000]Cannot be used in Atmosphere[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
+            "Russian": "35-мм взрывная оболочка, предназначенная для использования в пушке Phalanx Vulcan. Она оснащена вольфрамово-сахиевым наконечником для улучшения проникновения.\\n[c][00FF00]+100% Урон по объектам[-][/c]\\n[c][FF0000]Не может быть использовано в атмосфере[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]"
+        }
+    },
+    {
+        "bkiWeaponCVVulcanT3": {
+            "English": "An experimental super-heavy rotary cannon system equipped with rapid cooling and reloading designed for use in vaccuum. The design was deemed inefficient for official naval use, despite its efficacy.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+100% Impact Damage vs Entities\\n+25% Reload Speed[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]128,420 Damage per minute[-][/c]",
+            "Russian": "Экспериментальная сверхтяжелая система вращающегося орудия, оснащенная быстрым охлаждением и перезарядкой, предназначенная для использования в вакууме. Конструкция была признана неэффективной для официального военно-морского использования, несмотря на ее эффективность.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+100% урона от удара по объектам\\n+25% скорость перезарядки[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]\\n[c][FF8000]128 420 урона в минуту[-][/c]"
+        }
+    },
+    {
+        "WeaponCVHeavyVulcanT3": {
+            "English": "Phalanx Battery (Heavy)",
+            "Russian": "Фаланговая батарея (Тяжелая)"
+        }
+    },
+    {
+        "VulcanCVT3Weapon": {
+            "English": "Heavy Vulcan (Phalanx)",
+            "Russian": "Тяжелый Вулкан (Фаланга)"
+        }
+    },
+    {
+        "35mmVulcanShell": {
+            "English": "[c][FFF300]35mm Phalanx Shell[-][/c]",
+            "Russian": "[c][FFF300]35мм снаряд Фаланга[-][/c]"
+        }
+    },
+    {
+        "AlienBushRedFronds": {
+            "English": "Red Palm",
+            "Russian": "Красная Пальма"
+        }
+    },
+    {
+        "Eden_EffectsBlock_Waterfall": {
+            "English": "Effect Projector (Waterfall)",
+            "Russian": "Эффект Проектор (Водопад)"
+        }
+    },
+    {
+        "Eden_EffectsBlock_Waterfallinfo": {
+            "English": "Projects a hologram of liquid using a mesh of nanites and light. Size can be changed via multitool.",
+            "Russian": "Проектирует голограмму жидкости с помощью сетки нанитов и света. Размер можно изменить через мультитул."
+        }
+    },
+    {
+        "Eden_EffectsBlock_Lavafall": {
+            "English": "Effect Projector (Lavafall)",
+            "Russian": "Проектор Эффекта (Лавапад)"
+        }
+    },
+    {
+        "ConsoleAdvancedV4": {
+            "English": "Auxiliary Crew Station",
+            "Russian": "Вспомогательная Станция Экипажа"
+        }
+    },
+    {
+        "CockpitCanopyV1": {
+            "English": "Canopy Forcefield",
+            "Russian": "Наклонная Защитная Поле"
+        }
+    },
+    {
+        "bkiCockpitCanopy": {
+            "English": "A forcefield that can be placed over an existing cockpit for additional protection from weapon fire without impeding movement by the pilot.\\n[c][FF0000]Not fully airtight[-][/c]",
+            "Russian": "Поле защиты, которое можно размещать над существующей кабиной для дополнительной защиты от огнестрельного оружия без препятствования движению пилота.\\n[c][FF0000]Не полностью герметичный[-][/c]"
+        }
+    },
+    {
+        "MissionContainer": {
+            "English": "[c][00FFFF]Mission Container[-][/c]",
+            "Russian": "[c][00FFFF]Контейнер Миссии[-][/c]"
+        }
+    },
+    {
+        "bkiMissionContainer": {
+            "English": "Super-Storage Container for drop-off missions capable of holding anything.\\n[c][FF0000]NOT FOR PLAYER USE[-][/c]",
+            "Russian": "Супер-контейнер для хранения для миссий по сбросу, способный содержать все что угодно.\\n[c][FF0000]НЕ ДЛЯ ИСПОЛЬЗОВАНИЯ ИГРОКОМ[-][/c]"
+        }
+    },
+    {
+        "Eden_ForcefieldOneWay1x1": {
+            "English": "[c][FF0000]One Way Forcefield (1x1)[-][/c]",
+            "Russian": "[c][FF0000]Одностороннее Поле Силы (1х1)[-][/c]"
+        }
+    },
+    {
+        "Eden_ForcefieldOneWay1x1info": {
+            "English": "A one way forcefield that can be placed in doorways and halls and can be controlled via signals.\\nThe emitter base is automatically hidden if the forcefield is on.",
+            "Russian": "Одностороннее силовое поле, которое можно устанавливать в дверных проёмах и коридорах и управлять им с помощью сигналов.\\nБаза эмиттера автоматически скрывается, если силовое поле включено."
+        }
+    },
+    {
+        "Eden_ShuttleBlocks": {
+            "English": "Shuttle Launchpads (POI)",
+            "Russian": "Стартовые площадки шаттла (POI)"
+        }
+    },
+    {
+        "Eden_Oldtraderinfo": {
+            "English": "[c][FF0000]This trader is no longer used.[-][/c]\\n[c][FFFF00]The POI this trader has spawned in was updated but the update may only apply to newly generated star systems. POIs in unexplored star systems will have the correct trader but POIs in existing star systems might not.If you are seeing this message please DO NOT report this issue to the scenario developers.[-][/c]",
+            "Russian": "[c][FF0000]Этот торговец больше не используется.[-][/c]\\n[c][FFFF00]Точка интереса, в которой появился этот торговец, была обновлена, но обновление может применяться только к новым генерируемым звездным системам. Точки интереса в непросмотренных звездных системах будут иметь правильного торговца, но точки интереса в существующих звездных системах могут не иметь. Если вы видите это сообщение, пожалуйста, НЕ сообщайте об этой проблеме разработчикам сценария.[-][/c]"
+        }
+    },
+    {
+        "bplBlueprintTitle": {
+            "English": "BLUEPRINTS\\n[c][FF0000]Use only RE2 compatible blueprints![-][/c]",
+            "Russian": "ЧЕРТЕЖИ\\n[c][FF0000]Используйте только совместимые с RE2 чертежи![-][/c]"
+        }
+    },
+    {
+        "fctReducedProductionTime": {
+            "English": "Add devices/blocks to shorten production time. [c][FFFFFF]Blueprint will appear at TOP of Blueprint Library when finished.[-][/c]",
+            "Russian": "Добавляйте устройства/блоки для сокращения времени производства! [c][FFFFFF]После завершения работы чертеж появится в верхней части библиотеки чертежей.[-][/c]"
+        }
+    },
+    {
+        "bplCompleted": {
+            "English": "[c][00FFFF]Completed[-][/c]",
+            "Russian": "Завершено"
+        }
+    },
+    {
+        "mnuDeposits": {
+            "English": "Deposits:                                 [c][A9A9A9][i]Discovered / Total[/i][-][/c]",
+            "Russian": "Месторождения:                                 [c][A9A9A9][i]Обнаружено / Всего[/i][-][/c]"
+        }
+    },
+    {
+        "mnuMeteoritesRandom": {
+            "English": "Random resource meteors:",
+            "Russian": "Случайные ресурсные метеоры:"
+        }
+    },
+    {
+        "mnuMeteoritesDepletion": {
+            "English": "Ore deposits replenished by meteors:",
+            "Russian": "Залежи руд, восполняемые метеоритами:"
+        }
+    },
+    {
+        "bmCrystalBasin": {
+            "English": "Crystal Basin",
+            "Russian": "Кристальный Бассейн"
+        }
+    },
+    {
+        "bmCrystalFormation": {
+            "English": "Crystal Formation",
+            "Russian": "Кристаллическая Формация"
+        }
+    },
+    {
+        "Eden_TurretSlowDamage": {
+            "English": "Environmental Damage Turret (Radiation)",
+            "Russian": "Ущерб Окружающей Среде Башня (Радиация)"
+        }
+    },
+    {
+        "Eden_TurretSlowDamageinfo": {
+            "English": "Small turrets for use in scenario design to add environmental hazards to playfields.\\nCannot be interacted with once placed. Use selection tool in creative mode to remove. Use decals to hide.",
+            "Russian": "Маленькие башенки для использования в дизайне сценариев, чтобы добавить опасности окружающей среды на игровые поля.\\nНе могут быть использованы после размещения. Используйте инструмент выбора в творческом режиме, чтобы удалить. Используйте декали, чтобы спрятать."
+        }
+    },
+    {
+        "Eden_TurretAsteroidDamage": {
+            "English": "Environmental Damage Turret (Asteroid)",
+            "Russian": "Экологический Ущерб Башня (Астероид)"
+        }
+    },
+    {
+        "Eden_ZacositeOre": {
+            "English": "Zacosite Crystal",
+            "Russian": "Закоситовый Кристалл"
+        }
+    },
+    {
+        "Eden_ZacositeOreinfo": {
+            "English": "A chunk of pentaxid and zascosium infused crystal.\\n\\nCertain individuals and mining corporations may be interested in this but it's not used in any known constructor recipes or commonly traded for.\\n[c][ff0000]The volatile nature of the crystal will cause it to quickly decay into zasocium ore.[-][/c]\\n\\nUsed in Tier 4 mining missions.",
+            "Russian": "Фрагмент кристалла, наполненного пентаксидом и заскоцием.\\n\\nОпределенные лица и горнодобывающие корпорации могут быть заинтересованы в этом, но он не используется в известных рецептах конструкторов или часто обменивается на другие ресурсы.\\n[c][ff0000]Лабильная природа кристалла вызовет его быстрое разложение до руды зascoция.[-][/c]\\n\\nИспользуется в миссиях по добыче полезных ископаемых 4-го уровня."
+        }
+    },
+    {
+        "Eden_CrystalSlugOrange": {
+            "English": "Silica Limax",
+            "Russian": "Силика Лимакс"
+        }
+    },
+    {
+        "Eden_CrystalSlugBlue": {
+            "English": "Cryslica Limax",
+            "Russian": "Крислика Лимакс"
+        }
+    },
+    {
+        "Eden_SpacialDistortionEffect": {
+            "English": "Spacial Distortion",
+            "Russian": "Пространственное Искажение"
+        }
+    },
+    {
+        "Eden_SpacialDistortionEffectinfo": {
+            "English": "You feel disoriented.",
+            "Russian": "Вы чувствуете себя дезориентированным."
         }
     }
 ]

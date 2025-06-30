@@ -29251,8 +29251,8 @@
     },
     {
         "eden_pda_UO0GSCk": {
-            "English": "[c][00afff][-][/c]\\n[c][ffffff][-][/c][c][00afff]Rarity:[-][/c]\\nRare\\n[c][00afff][-][/c]\\n[c][00afff]Source:[-][/c]\\nRare on Lava, Molten, and Hell planets. Rare on cracked lava and molten lava moons.\\n\\n[c][00afff]Notes:[-][/c]\\nMagmacite is a rare, highly magnetic ore that can be found floating above lava lakes.\\nIt must be refined in a Furnace.\\nIt's used to create Magnetic Plates and other specialized devices.\\nDoes not show on map resource display.\\nAppears as a POI floating above lava lakes.\\nCannot be auto-mined.\\n\\n[c][969696]Tags: [-][/c][c][969696]Magmacite Ore, Magmacite Ingot.[-][/c]",
-            "Russian": "[c][00afff][-][/c]\\n[c][ffffff][-][/c][c][00afff]Редкость:[-][/c]\\nРедкий\\n[c][00afff][-][/c]\\n[c][00afff]Источник:[-][/c]\\nРедкий на планетах Лава, Мagma и Ад. Редкий на поврежденных лунных озерах лавы и магмы.\\n\\n[c][00afff]Примечания:[-][/c]\\nМагмацит - это редкая, высокомагнитная руда, которую можно найти, плавающую над озерами лавы.\\nЕе необходимо переработать в печи.\\nИспользуется для создания магнитных пластин и других специализированных устройств.\\nНе отображается на дисплее ресурсов карты.\\nПоявляется как точка интереса, плавающая над озерами лавы.\\nНельзя добывать автоматически.\\n\\n[c][969696]Теги: [-][/c][c][969696]Руда Магмацит, Слиток Магмацита.[-][/c]"
+            "English": "[c][00afff][-][/c]\\n[c][ffffff][-][/c][c][00afff]Rarity:[-][/c]\\nRare\\n[c][00afff][-][/c]\\n[c][00afff]Source:[-][/c]\\nRare on Lava, Molten, Hell , and Frozen Inferno planets. Rare on cracked lava and molten lava moons.\\n\\n[c][00afff]Notes:[-][/c]\\nMagmacite is a rare, highly magnetic ore that can be found floating above lava lakes.\\nIt must be refined in a Furnace.\\nIt's used to create Magnetic Plates and other specialized devices.\\nDoes not show on map resource display.\\nAppears as a POI floating above lava lakes.\\nCannot be auto-mined.\\n\\n[c][969696]Tags: [-][/c][c][969696]Magmacite Ore, Magmacite Ingot.[-][/c]",
+            "Russian": "[c][00afff][-][/c]\\n[c][ffffff][-][/c][c][00afff]Редкость:[-][/c]\\nРедкий\\n[c][00afff][-][/c]\\n[c][00afff]Источник:[-][/c]\\nРедкий на планетах Лава, Расплавленная, Ад и Замороженный Ад. Редкий на треснувших лавовых и расплавленных лавовых спутниках.\\n\\n[c][00afff]Примечания:[-][/c]\\nМагмацит — это редкая, сильно магнитная руда, которую можно найти плавающей над лавовыми озерами. Ее необходимо перерабатывать в Печи. Она используется для создания Магнитных Плит и других специализированных устройств. Не отображается на карте ресурсов. Появляется как точка интереса, плавающая над лавовыми озерами. Не может быть автоматически добыта.\\n\\n[c][969696]Теги: [-][/c][c][969696]Руда Магмацит, Слиток Магмацит.[-][/c]"
         }
     },
     {
@@ -32083,8 +32083,8 @@
     },
     {
         "eden_pda_mKC8hie": {
-            "English": "[c][ffff00]Mining Assessment:[-][/c] EdenSpace_POI_MiningT1_1",
-            "Russian": "[c][ffff00]Оценка Добычи:[-][/c] EdenSpace_POI_MiningT1_1"
+            "English": "[c][9d520b]Assessment:[-][/c] EdenSpace_POI_MiningT1_1",
+            "Russian": "[c][9d520b]Оценка:[-][/c] ЭденСпейс_ТочкаИнтереса_ДобычаТ1_1"
         }
     },
     {
@@ -32473,8 +32473,8 @@
     },
     {
         "eden_pda_CqGumuK": {
-            "English": "[c][ffff00]Mining Assessment:[-][/c] EdenSpace_POI_MiningT1_2",
-            "Russian": "[c][ffff00]Оценка добычи:[-][/c] EdenSpace_POI_MiningT1_2"
+            "English": "[c][9d520b]Assessment:[-][/c] EdenSpace_POI_MiningT1_2",
+            "Russian": "[c][9d520b]Оценка:[-][/c] EdenSpace_POI_MiningT1_2"
         }
     },
     {
@@ -47197,8 +47197,8 @@
     },
     {
         "eden_pda_3iSeaWG": {
-            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Commander, a reminder that it is important to use blueprints that are compatible with Reforged Eden 2.[-][/c]\\n[c][abd1ff]Blueprints designed for vanilla or Reforged Eden 1 may not work very well.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Role specific ships may work better than trying to make a ship that can do everything.[-][/c]\\n[c][abd1ff]A mining ship won't be that good at combat and a combat ship won't be that good at mining.[-][/c]\\n[c][abd1ff]Use the right tool for the job.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Consider checking the Steam Workshop for blueprints if you are not comfortable making your own.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]If you need a refresher on the blueprint factory or any other subject, [-][/c][c][abd1ff]you can find one in the [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Press the [-][/c][c][ffff00](?)[-][/c][c][abd1ff] icon in the upper right corner to view a help screen.[-][/c]",
-            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Командир, напоминание о том, что важно использовать чертежи, совместимые с Reforged Eden 2.[-][/c]\\n[c][abd1ff]Чертежи, разработанные для vanilla или Reforged Eden 1, могут не работать очень хорошо.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Корабли, предназначенные для конкретных ролей, могут работать лучше, чем попытка создать корабль, который может делать все.[-][/c]\\n[c][abd1ff]Горный корабль не будет очень хорош в бою, а боевой корабль не будет очень хорош в горном деле.[-][/c]\\n[c][abd1ff]Используйте правильный инструмент для работы.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Рассмотрите возможность проверки Steam Workshop для чертежей, если вы не чувствуете себя комфортно, создавая свои собственные.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Если вам нужен повторный курс по фабрике чертежей или любой другой теме, [-][/c][c][abd1ff]вы можете найти его в [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Нажмите на [-][/c][c][ffff00](?)[-][/c][c][abd1ff] иконку в правом верхнем углу, чтобы просмотреть экран помощи.[-][/c]"
+            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Commander, a reminder that it is important to use blueprints that are compatible with Reforged Eden 2.[-][/c]\\n[c][abd1ff]Blueprints designed for vanilla or Reforged Eden 1 may not work very well.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Role specific ships may work better than trying to make a ship that can do everything.[-][/c]\\n[c][abd1ff]A mining ship won't be that good at combat and a combat ship won't be that good at mining.[-][/c]\\n[c][abd1ff]Use the right tool for the job.[-][/c]\\n[c][abd1ff]After completing a blueprint in the factory it will be available to spawn at the top of the Blueprint Library list.[-][/c]\\n[c][abd1ff]Consider checking the Steam Workshop for blueprints if you are not comfortable making your own.[-][/c]\\n\\n[c][abd1ff]If you need a refresher on the blueprint factory or any other subject, [-][/c][c][abd1ff]you can find one in the [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Press the [-][/c][c][ffff00](?)[-][/c][c][abd1ff] icon in the upper right corner to view a help screen.[-][/c]",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Командир, напоминание о том, что важно использовать чертежи, совместимые с Reforged Eden 2.[-][/c]\\n[c][abd1ff]Чертежи, разработанные для vanilla или Reforged Eden 1, могут не работать очень хорошо.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Корабли с конкретными ролями могут работать лучше, чем попытка создать корабль, который может делать всё.[-][/c]\\n[c][abd1ff]Горнодобывающий корабль не будет очень хорош в бою, а боевой корабль не будет очень хорош в горнодобывании.[-][/c]\\n[c][abd1ff]Используйте правильный инструмент для работы.[-][/c]\\n[c][abd1ff]После завершения чертежа на заводе он будет доступен для вызова в начале списка библиотеки чертежей.[-][/c]\\n[c][abd1ff]Рассмотрите возможность проверки Steam Workshop для чертежей, если вы не комфортно чувствуете себя при создании своих собственных.[-][/c]\\n\\n[c][abd1ff]Если вам нужен обновление по фабрике чертежей или любой другой теме, [-][/c][c][abd1ff]вы можете найти его в [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Нажмите на [-][/c][c][ffff00](?)[-][/c][c][abd1ff] иконку в правом верхнем углу, чтобы просмотреть экран помощи.[-][/c]"
         }
     },
     {
@@ -47221,8 +47221,8 @@
     },
     {
         "eden_pda_iO4KO8O": {
-            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Commander, a reminder that it is important to use blueprints that are compatible with Reforged Eden 2.[-][/c]\\n[c][abd1ff]Blueprints designed for vanilla or Reforged Eden 1 may not work very well.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Role specific ships may work better than trying to make a ship that can do everything.[-][/c]\\n[c][abd1ff]A mining ship won't be that good at combat and a combat ship won't be that good at mining.[-][/c]\\n[c][abd1ff]Use the right tool for the job.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Consider checking the Steam Workshop for blueprints if you are not comfortable making your own.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]If you need a refresher on the blueprint factory or any other subject, [-][/c][c][abd1ff]you can find one in the [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Press the [-][/c][c][ffff00](?)[-][/c][c][abd1ff] icon in the upper right corner to view a help screen.[-][/c]",
-            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Командир, напоминание о том, что важно использовать чертежи, совместимые с Reforged Eden 2.[-][/c]\\n[c][abd1ff]Чертежи, разработанные для vanilla или Reforged Eden 1, могут не работать очень хорошо.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Корабли, предназначенные для конкретных ролей, могут работать лучше, чем попытка создать корабль, который может делать все.[-][/c]\\n[c][abd1ff]Горный корабль не будет очень хорош в бою, а боевой корабль не будет очень хорош в горном деле.[-][/c]\\n[c][abd1ff]Используйте правильный инструмент для работы.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Рассмотрите возможность проверки Steam Workshop для чертежей, если вы не чувствуете себя комфортно, создавая свои собственные.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Если вам нужен повторный курс по фабрике чертежей или любой другой теме, [-][/c][c][abd1ff]вы можете найти его в [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Нажмите на [-][/c][c][ffff00](?)[-][/c][c][abd1ff] иконку в правом верхнем углу, чтобы просмотреть экран помощи.[-][/c]"
+            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Commander, a reminder that it is important to use blueprints that are compatible with Reforged Eden 2.[-][/c]\\n[c][abd1ff]Blueprints designed for vanilla or Reforged Eden 1 may not work very well.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Role specific ships may work better than trying to make a ship that can do everything.[-][/c]\\n[c][abd1ff]A mining ship won't be that good at combat and a combat ship won't be that good at mining.[-][/c]\\n[c][abd1ff]Use the right tool for the job.[-][/c]\\n[c][abd1ff]After completing a blueprint in the factory it will be available to spawn at the top of the Blueprint Library list.[-][/c]\\n[c][abd1ff]Consider checking the Steam Workshop for blueprints if you are not comfortable making your own.[-][/c]\\n\\n[c][abd1ff]If you need a refresher on the blueprint factory or any other subject, [-][/c][c][abd1ff]you can find one in the [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Press the [-][/c][c][ffff00](?)[-][/c][c][abd1ff] icon in the upper right corner to view a help screen.[-][/c]",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Командир, напоминание о том, что важно использовать чертежи, совместимые с Reforged Eden 2.[-][/c]\\n[c][abd1ff]Чертежи, разработанные для vanilla или Reforged Eden 1, могут не работать очень хорошо.[-][/c]\\n[c][abd1ff][-][/c]\\n[c][abd1ff]Корабли, специфичные для определенной роли, могут работать лучше, чем попытка создать корабль, который может делать всё.[-][/c]\\n[c][abd1ff]Горнодобывающий корабль не будет очень хорош в бою, а боевой корабль не будет очень хорош в горнодобывании.[-][/c]\\n[c][abd1ff]Используйте правильный инструмент для работы.[-][/c]\\n[c][abd1ff]После завершения чертежа на заводе он будет доступен для спавна вверху списка Библиотеки чертежей.[-][/c]\\n[c][abd1ff]Рассмотрите возможность проверки Steam Workshop для чертежей, если вы не чувствуете себя комфортно, создавая свои собственные.[-][/c]\\n\\n[c][abd1ff]Если вам нужен повторный обзор фабрики чертежей или любой другой темы, [-][/c][c][abd1ff]вы можете найти его в [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff].[-][/c]\\n[c][abd1ff]Нажмите на [-][/c][c][ffff00](?)[-][/c][c][abd1ff] иконку в правом верхнем углу, чтобы просмотреть экран справки.[-][/c]"
         }
     },
     {
@@ -48969,6 +48969,1938 @@
         "eden_pda_GKGqSiq": {
             "English": "\\n[c][00afff]Rarity:[-][/c]\\nExotic\\n[c][00afff][-][/c]\\n[c][00afff]Source:[-][/c]\\nCan be looted in small quantities from high tier Zirax military structures and patrol vessels.\\n[c][00afff][-][/c]\\n[c][00afff]Notes:[-][/c]\\nUsed in the construction of [c][00ff00]Advanced Cores[-][/c].\\n\\n[c][c8c8c8]Proprietary Data Processing Core developed and utilized primarily by the Empire as an attempt to reproduce the Legacy's quantum computer technology.[-][/c]",
             "Russian": "\\n[c][00afff]Редкость:[-][/c]\\nЭкзотический\\n[c][00afff][-][/c]\\n[c][00afff]Источник:[-][/c]\\nМожет быть добыт в небольших количествах из высокоуровневых военных структур Зиракса и патрульных судов.\\n[c][00afff][-][/c]\\n[c][00afff]Примечания:[-][/c]\\nИспользуется при строительстве [c][00ff00]Передовых Ядер[-][/c].\\n\\n[c][c8c8c8]Ядро проприетарной обработки данных, разработанное и используемое в основном Империей в качестве попытки воспроизвести квантовую компьютерную технологию Legacy.[-][/c]"
+        }
+    },
+    {
+        "pda_qeuWi0S": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 1)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 1)[-][/c]"
+        }
+    },
+    {
+        "pda_KC4qoCi": {
+            "English": "This is the Stage 0 > Stage 1 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 0 > Stage 1 Colony Builder и не видна в игре, активируется в фоновом режиме после завершения диалоговых проверок для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на github Reforged Eden 2 как о баге с шагами, которые использовались для его воспроизведения, чтобы мы могли исправить это."
+        }
+    },
+    {
+        "pda_GuKsK4C": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЬ[/c][/b]"
+        }
+    },
+    {
+        "pda_a48cumm": {
+            "English": "[b][c][00ff00]This undeveloped colony has now been upgraded to Stage 1[-][/c][/b]\\n[c][00ffee]New tasks are now available[-][/c]",
+            "Russian": "[b][c][00ff00]Эта неразвитая колония теперь обновлена до этапа 1[-][/c][/b]\\n[c][00ffee]Теперь доступны новые задания[-][/c]"
+        }
+    },
+    {
+        "pda_S80quSi": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 2)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 2)[-][/c]"
+        }
+    },
+    {
+        "pda_JOm0Wai": {
+            "English": "This is the Stage 1 > Stage 2 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 1 > Stage 2 Colony Builder и не видна в игре, активируясь на фоне при завершении проверок диалога для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на github Reforged Eden 2 как о баге с шагами, используемыми для его воспроизведения, чтобы мы могли это исправить."
+        }
+    },
+    {
+        "pda_ACqYSmi": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЯ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_q8mKamm": {
+            "English": "[b][c][00ff00]This undeveloped colony has now been upgraded to Stage 2[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта неразвитая колония теперь обновлена до этапа 2[-][/c][/b]\\n[c][00ffee]Новые задания теперь доступны![-][/c]"
+        }
+    },
+    {
+        "pda_eS4Keem": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 3)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 3)[-][/c]"
+        }
+    },
+    {
+        "pda_icOiiO4": {
+            "English": "This is the Stage 2 > Stage 3 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 2 > Stage 3 Colony Builder и не видна в игре, активируясь на фоне при завершении проверок диалога для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на github Reforged Eden 2 как о баге с шагами, которые использовались для его воспроизведения, чтобы мы могли это исправить."
+        }
+    },
+    {
+        "pda_eGGGGWW": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЬ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_0eqSC0W": {
+            "English": "[b][c][00ff00]This Colony Foundation has now been upgraded to Stage 3[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта колония теперь обновлена до этапа 3[-][/c][/b]\\n[c][00ffee]Теперь доступны новые задания![-][/c]"
+        }
+    },
+    {
+        "pda_CA8VKg0": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 4)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 4)[-][/c]"
+        }
+    },
+    {
+        "pda_Weeu0GU": {
+            "English": "This is the Stage 3 > Stage 4 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 3 > Stage 4 Colony Builder и не видна в игре, активируется в фоновом режиме при завершении проверок диалогов для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на Reforged Eden 2 github как о баге с шагами, используемыми для его воспроизведения, чтобы мы могли это исправить."
+        }
+    },
+    {
+        "pda_iSiqWYq": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЬ[/c][/b]"
+        }
+    },
+    {
+        "pda_GW80Cia": {
+            "English": "[b][c][00ff00]This colony has now been upgraded to Stage 4[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта колония теперь обновлена до этапа 4[-][/c][/b]\n\\n[c][00ffee]Теперь доступны новые задачи![-][/c]"
+        }
+    },
+    {
+        "pda_SSW9SOW": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 5)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 5)[-][/c]"
+        }
+    },
+    {
+        "pda_4Cq8Gti": {
+            "English": "This is the Stage 4 > Stage 5 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Это система Stage 4 > Stage 5 Colony Builder и не видна в игре, активируясь на фоне при завершении проверок диалогов для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом в Reforged Eden 2 github как о баге с шагами, использованными для его воспроизведения, чтобы мы могли исправить."
+        }
+    },
+    {
+        "pda_0OmqO0O": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЬ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_O0aq84q": {
+            "English": "[b][c][00ff00]This colony has now been upgraded to Stage 5[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта колония теперь обновлена до этапа 5[-][/c][/b]\\n[c][00ffee]Доступны новые задания![-][/c]"
+        }
+    },
+    {
+        "pda_K4CeS0A": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 6)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 6)[-][/c]"
+        }
+    },
+    {
+        "pda_SCavGqS": {
+            "English": "This is the Stage 5 > Stage 6 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Это система Stage 5 > Stage 6 Colony Builder и не видна в игре; она активируется на фоне при завершении проверок диалога для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом в репозитории Reforged Eden 2 на GitHub как о баге с указанием шагов, которые использовались для его воспроизведения, чтобы мы могли исправить его."
+        }
+    },
+    {
+        "pda_KOaQiqW": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЯ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_SCweW0G": {
+            "English": "[b][c][00ff00]This colony has now been upgraded to Stage 6[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта колония теперь обновлена до этапа 6[-][/c][/b]\n\\n[c][00ffee]Доступны новые задания![-][/c]"
+        }
+    },
+    {
+        "pda_u0c7KCO": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Stage 7)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Этап 7)[-][/c]"
+        }
+    },
+    {
+        "pda_CK6e0Om": {
+            "English": "This is the Stage 6 > Stage 7 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 6 > Stage 7 Colony Builder и не видна в игре, активируясь на заднем плане после завершения проверок диалогов для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на Reforged Eden 2 github как о баге с шагами, используемыми для его воспроизведения, чтобы мы могли это исправить."
+        }
+    },
+    {
+        "pda_iDS0m4S": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЬ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_CGutmm8": {
+            "English": "[b][c][00ff00]This colony has now been upgraded to Stage 7[-][/c][/b]\\n[c][00ffee]New tasks are now available![-][/c]",
+            "Russian": "[b][c][00ff00]Эта колония теперь обновлена до этапа 7[-][/c][/b]\\n[c][00ffee]Теперь доступны новые задания![-][/c]"
+        }
+    },
+    {
+        "pda_AS0We00": {
+            "English": "[b][c][00ffee]Project ATLAS [-][/c][/b][c][ffffff](Completed)[-][/c]",
+            "Russian": "[b][c][00ffee]Проект АТЛАС [-][/c][/b][c][ffffff](Завершен)[-][/c]"
+        }
+    },
+    {
+        "pda_maiGOSq": {
+            "English": "This is the Stage 7 > Stage 8 Colony Builder system and is not visible in-game, activating in the background upon completing the dialog checks for colony development.\\nIf you do see this in-game, report it on the Reforged Eden 2 github as a bug with the steps used to produce/reproduce it so we can fix it.",
+            "Russian": "Эта система Stage 7 > Stage 8 Colony Builder и не видна в игре, активируется в фоновом режиме после завершения проверок диалогов для развития колонии.\\nЕсли вы увидите это в игре, сообщите об этом на Reforged Eden 2 github как о баге с шагами, которые использовались для его воспроизведения, чтобы мы могли это исправить."
+        }
+    },
+    {
+        "pda_008uOuK": {
+            "English": "[b][c][ff0000]DO NOT MOVE[-][/c][/b]",
+            "Russian": "[b][c][ff0000]НЕ ДВИГАЙТЕСЯ[-][/c][/b]"
+        }
+    },
+    {
+        "pda_GmGeiC8": {
+            "English": "[b][c][00ff00]You have successfully completed the construction of this Colony![-][/c][/b]\\n[c][00ffee]Colonists may have additional tasks for you![-][/c]",
+            "Russian": "[b][c][00ff00]Вы успешно завершили строительство этой Колонии![-][/c][/b]\\n[c][00ffee]Колонисты могут иметь для вас дополнительные задания![-][/c]"
+        }
+    },
+    {
+        "pda_KeObO0C": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_2K4q8au": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "pda_fbKUGqG": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_KqWeK4K": {
+            "English": "Wait",
+            "Russian": "Ожидайте"
+        }
+    },
+    {
+        "pda_4mmq0iK": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_4CSIW4S": {
+            "English": "Wait",
+            "Russian": "Жди"
+        }
+    },
+    {
+        "pda_082SmGm": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_JWiABOm": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "pda_qm04uIG": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_G4K8S0e": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "pda_e48Y8m4": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подожди...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_U0OIaKO": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "pda_0m44440": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_NiP40qm": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "pda_bmOKKqa": {
+            "English": "[b][c][00ff00]Wait...[-][/c][/b]",
+            "Russian": "[b][c][00ff00]Подождите...[-][/c][/b]"
+        }
+    },
+    {
+        "pda_q4cSW8m": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "eden_pda_uSOamGC": {
+            "English": "POI Swap Test",
+            "Russian": "TOЧка Переключения Теста"
+        }
+    },
+    {
+        "eden_pda_44uSu4C": {
+            "English": "New Task",
+            "Russian": "Новая задача"
+        }
+    },
+    {
+        "eden_pda_KeKuiG7": {
+            "English": "New Action",
+            "Russian": "Новое Действие"
+        }
+    },
+    {
+        "eden_pda_q0uE8Se": {
+            "English": "Test",
+            "Russian": "Тест"
+        }
+    },
+    {
+        "eden_pda_40iKiO3": {
+            "English": "Cargo Check Test",
+            "Russian": "Грузовой Проверочный Тест"
+        }
+    },
+    {
+        "eden_pda_K1Oe84a": {
+            "English": "Cargo",
+            "Russian": "Груз"
+        }
+    },
+    {
+        "eden_pda_CumCiuc": {
+            "English": "Mission complete.",
+            "Russian": "Миссия завершена."
+        }
+    },
+    {
+        "eden_pda_WeSGGOS": {
+            "English": "Starting.",
+            "Russian": "Запуск"
+        }
+    },
+    {
+        "eden_pda_OmIiUWS": {
+            "English": "Cargo",
+            "Russian": "Груз"
+        }
+    },
+    {
+        "eden_pda_qmm0e08": {
+            "English": "Put cargo in container",
+            "Russian": "Поместите груз в контейнер"
+        }
+    },
+    {
+        "eden_pda_0OCmSeO": {
+            "English": "Cargo inserted",
+            "Russian": "Груз вставлен"
+        }
+    },
+    {
+        "eden_pda_S4W8qCK": {
+            "English": "Access",
+            "Russian": "Доступ"
+        }
+    },
+    {
+        "eden_pda_0m4iCCK": {
+            "English": "Access Fridge",
+            "Russian": "Доступ к Холодильнику"
+        }
+    },
+    {
+        "eden_pda_8KKK73q": {
+            "English": "Test",
+            "Russian": "Тест"
+        }
+    },
+    {
+        "eden_pda_amSSWOu": {
+            "English": "Crystal Desert Mine Construction",
+            "Russian": "Кристальный Пустынный Рудник Строительства"
+        }
+    },
+    {
+        "eden_pda_4ePGm8W": {
+            "English": "Build a mine",
+            "Russian": "Строить шахту"
+        }
+    },
+    {
+        "eden_pda_a8WaWi0": {
+            "English": "Construction in progress",
+            "Russian": "Строительство в процессе"
+        }
+    },
+    {
+        "eden_pda_8ea5lCG": {
+            "English": "Wait for the construction to complete.",
+            "Russian": "Ожидайте завершения строительства."
+        }
+    },
+    {
+        "eden_pda_iqiai0i": {
+            "English": "[c][00ffff][ Construction Foreman ][-][/c]\\nGetting to work! Keep an eye on things in case that bandit ship shows up to start trouble while we work on building the mine!",
+            "Russian": "[c][00ffff][ Прораб\"][/c]\\nПриступаем к работе! Следите за всем, на случай, если тот бандитский корабль появится и начнет причинять проблемы во время строительства шахты!"
+        }
+    },
+    {
+        "eden_pda_aqqG0qe": {
+            "English": "Protect construction site",
+            "Russian": "Защитите строительную площадку"
+        }
+    },
+    {
+        "eden_pda_uXCs0ie": {
+            "English": "Destroy Bandit ship core",
+            "Russian": "Уничтожить ядро корабля бандита"
+        }
+    },
+    {
+        "eden_pda_S8OG4KS": {
+            "English": "Destroy the core of the bandit patrol vessel.",
+            "Russian": "Уничтожьте ядро корабля бандитского патруля."
+        }
+    },
+    {
+        "eden_pda_GmYm8SC": {
+            "English": "Use construction site console",
+            "Russian": "Используйте консоль строительной площадки"
+        }
+    },
+    {
+        "eden_pda_wWi0cU9": {
+            "English": "Finalize the construction at the console at the construction site.",
+            "Russian": "Завершите строительство на консоли на строительной площадке."
+        }
+    },
+    {
+        "eden_pda_qaqiKCO": {
+            "English": "[c][00ffff][ Construction Foreman ][-][/c]\\nGood job keeping those bandits away from us! Now that the mine is operational you better head back to the surveyor and report in assuming you finished everything they asked you to do. I'm sure you're eager for your paycheck.\\nAlso check in with the miners before you go, they might need some further assistance.",
+            "Russian": "[c][00ffff][ Прораб по строительству ][-][/c]\\nХорошо сделано, что ты держал этих бандитов подальше от нас! Теперь, когда шахта работает, тебе лучше вернуться к геодезисту и доложить, предполагая, что ты закончил всё, о чём они тебя просили. Я уверен, что ты ждёшь своей зарплаты.\\nТакже проверься с горняками, прежде чем уйти, им может понадобиться дальнейшая помощь."
+        }
+    },
+    {
+        "eden_pda_KuiQqCx": {
+            "English": "[c][ff0000][ Bandit Captain ][-][/c]\\nThese supplies are ours! Take everything, boys!",
+            "Russian": "[c][ff0000][Капитан бандитов][-][/c]\nЭти припасы наши! Забирайте всё, парни!"
+        }
+    },
+    {
+        "eden_pda_OSuaSmm": {
+            "English": "[c][00ffff][ Construction Foreman ][-][/c]\\nThank you for dealing with the pests.\\nNow use the console at the construction site to finalize the construction process.",
+            "Russian": "[c][00ffff][ Прораб строительства ][-][/c]\\nСпасибо за избавление от вредителей.\\nТеперь используйте консоль на строительной площадке, чтобы завершить процесс строительства."
+        }
+    },
+    {
+        "eden_pda_8KW0CeW": {
+            "English": "Loot Test",
+            "Russian": "Лут Тест"
+        }
+    },
+    {
+        "eden_pda_Ciiiu0S": {
+            "English": "-",
+            "Russian": "-"
+        }
+    },
+    {
+        "eden_pda_n8G8uqi": {
+            "English": "-",
+            "Russian": "```json\n{\n  \"Abbreviations\": {\n    \"ABBR\": {\n      \"Meaning\": \"\",\n      \"RU\": \"\"\n    }\n  },\n  \"Words\": {},\n  \"Skip\": []\n}\n```\n\n```\n[url=https://example.com]Visit our website![/url]\nThis is a test phrase.\nThe game takes place in an alien galaxy.\nYou need to survive harsh conditions.\n```"
+        }
+    },
+    {
+        "eden_pda_KSOle48": {
+            "English": "Nothing",
+            "Russian": "Ничего"
+        }
+    },
+    {
+        "eden_pda_mK4K8Gi": {
+            "English": "Taming the Crystal Desert 1/2",
+            "Russian": "Орудуя Кристальным Пустыней 1/2"
+        }
+    },
+    {
+        "eden_pda_ma04mSe": {
+            "English": "Thin their numbers",
+            "Russian": "Тонкий их состав"
+        }
+    },
+    {
+        "eden_pda_K4eOqCd": {
+            "English": "Silica Limax slain",
+            "Russian": "Silica Limaks killed"
+        }
+    },
+    {
+        "eden_pda_0Gq8SO1": {
+            "English": "Kill Silica Limax on Crystal Desert class planets.\\nYou can find Silica Limax typically in the Canyon or Crystal Basin biomes. You can find more during the night.\\nThey appear as a slow moving orange crystalline lifeform crawling along the surface.",
+            "Russian": "Убейте Silica Limax на планетах класса Crystal Desert.\\nВы можете найти Silica Limax обычно в биомах Canyon или Crystal Basin. Вы можете найти больше их ночью.\\nОни появляются как медленно движущаяся оранжевая кристаллическая форма жизни, ползущая по поверхности."
+        }
+    },
+    {
+        "eden_pda_WGqkWGK": {
+            "English": "[c][00ffff][ Polaris Surveyor ][-][/c]\\nYou are looking for Silica Limax. Find them in the Canyon or Crystal Basin biomes on this planet.\\nReturn to me once you've thinned their numbers.",
+            "Russian": "[c][00ffff][Полярный исследователь][-][/c]\nВы ищете Силика Лимакс. Найдите их в биомах Каньон или Кристальная Впадина на этой планете.\nВернитесь ко мне, как только вы сократите их численность."
+        }
+    },
+    {
+        "eden_pda_8QuSGmu": {
+            "English": "[c][ff8000]Polaris Megacorp[-][/c]",
+            "Russian": "[c][ff8000]Полярис Мегакорп[-][/c]"
+        }
+    },
+    {
+        "eden_pda_CeqqOuu": {
+            "English": "Return to Polaris Surveyor",
+            "Russian": "Вернуться к Полярному Исследователю"
+        }
+    },
+    {
+        "eden_pda_CG8Kcmu": {
+            "English": "Return to Polaris Survey Vessel",
+            "Russian": "Вернуться к судну обследования Полярис"
+        }
+    },
+    {
+        "eden_pda_0vC8Kq8": {
+            "English": "Speak with Surveyor",
+            "Russian": "Поговорите с Исследователем"
+        }
+    },
+    {
+        "eden_pda_uqWWud2": {
+            "English": "Speak with the Polaris Surveyor on his Survey Vessel.",
+            "Russian": "Говорите с полярным геодезистом на его судне для обследования."
+        }
+    },
+    {
+        "eden_pda_SRoSaa8": {
+            "English": "Return to the Polaris Survey Vessel on Crystal Desert class planets.",
+            "Russian": "Вернитесь на исследовательский корабль «Полярис» на планетах класса «Кристаллическая пустыня»."
+        }
+    },
+    {
+        "eden_pda_4CWSIeG": {
+            "English": "[c][00ffff][ Polaris Surveyor ][-][/c]\\nYou are looking for Silica Limax. Find them in the Canyon or Crystal Basin biomes on this planet.\\nReturn to me once you've thinned their numbers.",
+            "Russian": "[c][00ffff][ Поларис Сюрвейер ][-][/c]\\nВы ищете Силика Лимакс. Найдите их в биомах Каньона или Хрустальной Ванны на этой планете.\\nВернитесь ко мне, когда вы уменьшите их количество."
+        }
+    },
+    {
+        "eden_pda_8e8umWq": {
+            "English": "I've probably killed enough of these creatures now.\\nI should return to the Polaris Survey Vessel.",
+            "Russian": "Я, наверное, убил достаточно этих существ теперь.\\nМне нужно вернуться на исследовательский корабль \"Полярис\"."
+        }
+    },
+    {
+        "eden_pda_mS80CGa": {
+            "English": "[c][00ffc6]Assessment[-][/c] EdenSpace_POI_ExploreT4_1",
+            "Russian": "[c][00ffc6]Оценка[-][/c] EdenSpace_POI_ExploreT4_1"
+        }
+    },
+    {
+        "eden_pda_jc0iiON": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако захватываются короткодистанционные радиопередачи."
+        }
+    },
+    {
+        "eden_pda_KmWa4mM": {
+            "English": "[c][00ffc6]Science Assessment[-][/c]",
+            "Russian": "[c][00ffc6]Оценка Науки[-][/c]"
+        }
+    },
+    {
+        "eden_pda_iC0e0ua": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_08qEc0q": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_q8uu4qp": {
+            "English": "This briefing can be reviewed in the PDA log under [c][00ffc6]Exploration Site[-][/c].",
+            "Russian": "Этот брифинг можно просмотреть в журнале ПК под [c][00ffc6]Место Исследования[-][/c]."
+        }
+    },
+    {
+        "eden_pda_8SeCeCG": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThis sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.\\nI recommend performing scans using your scanning station. Access your scanning station and select perform narrow band scan to continue.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЭтот сектор кажется совершенно пустым от любой материи или энергии, но есть короткодиапазонные радиопередачи, которые принимаются.\\nЯ рекомендую выполнять сканирования с помощью вашей станции сканирования. Доступ к вашей станции сканирования и выберите выполнить узкополосный скан для продолжения."
+        }
+    },
+    {
+        "eden_pda_O4iGWi0": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThis sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.\\nI recommend performing scans using your scanning station. Access your scanning station and select perform narrow band scan to continue.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЭтот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются коротковолновые радиопередачи.\nРекомендую провести сканирование с помощью вашей станции сканирования. Откройте станцию сканирования и выберите выполнить узкополосное сканирование для продолжения."
+        }
+    },
+    {
+        "eden_pda_QK8KCuG": {
+            "English": "ExploreT4_1 - Ghosts in the Dark",
+            "Russian": "ExploreT4_1 - Призраки во тьме"
+        }
+    },
+    {
+        "eden_pda_iqU3uWE": {
+            "English": "Access Scanning Station",
+            "Russian": "Достп к Сканерной Станции"
+        }
+    },
+    {
+        "eden_pda_8mKWG4G": {
+            "English": "Perform Narrow Band Scan",
+            "Russian": "Выполнить узкополосный сканинг"
+        }
+    },
+    {
+        "eden_pda_Se0Dcau": {
+            "English": "Access your scanning station on board your ship and perform a narrow band scan.",
+            "Russian": "Доступ к вашей станции сканирования на борту вашего корабля и выполните узкополосное сканирование."
+        }
+    },
+    {
+        "eden_pda_g8xmGqm": {
+            "English": "Test",
+            "Russian": "Тест"
+        }
+    },
+    {
+        "eden_pda_SK4KGWK": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI have now calibrated your scanning station for scanning this sector.\\nAccess it and perform a [c][ff00ff]narrow band scan[-][/c] to continue.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЯ теперь откалибровал вашу считывающую станцию для сканирования этого сектора.\nПолучите к ней доступ и выполните [c][ff00ff]узкополосное сканирование[-][/c], чтобы продолжить."
+        }
+    },
+    {
+        "eden_pda_JeqHKOW": {
+            "English": "Deactivate Chapter",
+            "Russian": "Деактивировать Глава"
+        }
+    },
+    {
+        "eden_pda_a4GqSrP": {
+            "English": "Deactivating Chapter",
+            "Russian": "Отключение Главы"
+        }
+    },
+    {
+        "eden_pda_0CqUsGO": {
+            "English": "Wait",
+            "Russian": "Подождите"
+        }
+    },
+    {
+        "eden_pda_waOG4aK": {
+            "English": "Deactivating the currently active chapter.",
+            "Russian": "Отключение текущей активной главы"
+        }
+    },
+    {
+        "eden_pda_SNG4Ke4": {
+            "English": "Mission deactivated.",
+            "Russian": "Миссия деактивирована."
+        }
+    },
+    {
+        "eden_pda_KKKi8OO": {
+            "English": "Find source of first signal",
+            "Russian": "Найти источник первого сигнала"
+        }
+    },
+    {
+        "eden_pda_C4SuSqi": {
+            "English": "Signal found",
+            "Russian": "Сигнал найден"
+        }
+    },
+    {
+        "eden_pda_4W8S0ei": {
+            "English": "Find the source of the first signal.",
+            "Russian": "Найдите источник первого сигнала."
+        }
+    },
+    {
+        "eden_pda_aMgaem0": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nCommander, your probe has located one of the sources of the radio transmissions. The signal appears to be Colonists in origin.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nКомандир, ваша зонд обнаружила один из источников радиопередач. Сигнал, по-видимому, имеет колонистское происхождение.\\nЯ отметил местонахождение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_GKiOmK8": {
+            "English": "Find source of first signal",
+            "Russian": "Найти источник первого сигнала"
+        }
+    },
+    {
+        "eden_pda_kaeGGm4": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nCommander, you have located one of the sources of the radio transmissions.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][00ffff][ IDA ][-][/c]\\nКомандир, вы обнаружили один из источников радиопередач.\\nЯ отметил местоположение на вашем дисплее. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_eu8US4q": {
+            "English": "Signal found",
+            "Russian": "сигнал найден"
+        }
+    },
+    {
+        "eden_pda_G0uCer0": {
+            "English": "Find the source of the first signal.",
+            "Russian": "Найдите источник первого сигнала."
+        }
+    },
+    {
+        "eden_pda_8eNmOeW": {
+            "English": "[c][ffffff][ Unknown ][-][/c]\\nZrrbbtt zgghtt crrrkkkttt",
+            "Russian": "[c][ffffff][ Неизвестный ][-][/c]\nЗррббтт зггххтт кррркктт"
+        }
+    },
+    {
+        "eden_pda_4eG0uee": {
+            "English": "Scanning the area",
+            "Russian": "Сканирование области"
+        }
+    },
+    {
+        "eden_pda_S00qKOa": {
+            "English": "Scanning",
+            "Russian": "Сканирование"
+        }
+    },
+    {
+        "eden_pda_OS0uCO0": {
+            "English": "Wait for IDA to scan the area",
+            "Russian": "Подождите, пока IDA просканирует территорию"
+        }
+    },
+    {
+        "eden_pda_mCKOiGk": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am currently scanning the area. \\nStand by.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЯ в настоящее время сканирую местность.\nОжидайте"
+        }
+    },
+    {
+        "eden_pda_CGSWW60": {
+            "English": "Wait",
+            "Russian": "Жди"
+        }
+    },
+    {
+        "eden_pda_CCmqea8": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "eden_pda_8OWem70": {
+            "English": "Waiting",
+            "Russian": "Ожидание"
+        }
+    },
+    {
+        "eden_pda_CWW48Kq": {
+            "English": "Spawning",
+            "Russian": "Появление"
+        }
+    },
+    {
+        "eden_pda_OUeKSC6": {
+            "English": "Spawning",
+            "Russian": "Вызывание"
+        }
+    },
+    {
+        "eden_pda_eOASaAK": {
+            "English": "Access Scanning Station",
+            "Russian": "Доступ к Сканерной Станции"
+        }
+    },
+    {
+        "eden_pda_Wi8kS8C": {
+            "English": "Perform Narrow Band Scan",
+            "Russian": "Выполнить сканирование в узком диапазоне"
+        }
+    },
+    {
+        "eden_pda_e0me848": {
+            "English": "Access your scanning station on board your ship and perform a narrow band scan.",
+            "Russian": "Доступ к вашей станции сканирования на борту корабля и выполните узкополосное сканирование."
+        }
+    },
+    {
+        "eden_pda_qim1GqE": {
+            "English": "Find source of second signal",
+            "Russian": "Найдите источник второго сигнала"
+        }
+    },
+    {
+        "eden_pda_uiSG0Su": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nCommander, you have found a second source of radio transmissions. This one appears to be Polaris.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\\nКомандир, вы обнаружили второй источник радиопередач. Этот, похоже, принадлежит Полярной звезде.\\nЯ отметил местоположение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_8eGWqKu": {
+            "English": "[c][ffffff][ Unknown ][-][/c]\\nReeeeeeekkkkkkkk crrrrkkk craaaaeeeee zzzzttthhhgggg",
+            "Russian": "[c][ffffff][ Неизвестный ][-][/c]\\nРррррррррркккккк крррркк крррааааааеее ззззтттхххгггг"
+        }
+    },
+    {
+        "eden_pda_mu0eKOU": {
+            "English": "Signal found",
+            "Russian": "Сигнал найден"
+        }
+    },
+    {
+        "eden_pda_0CW4iai": {
+            "English": "Find the source of the second signal.",
+            "Russian": "Найдите источник второго сигнала."
+        }
+    },
+    {
+        "eden_pda_E44qqWW": {
+            "English": "Find source of second signal",
+            "Russian": "Найти источник второго сигнала"
+        }
+    },
+    {
+        "eden_pda_M48WqGm": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nCommander, you have located one of the sources of the radio transmissions.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][00ffff][ IDA ][-][/c]\\nКомандир, вы обнаружили один из источников радиопередач.\\nЯ отметил местоположение на вашем дисплее. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_0a4GPe9": {
+            "English": "Signal found",
+            "Russian": "сигнал найден"
+        }
+    },
+    {
+        "eden_pda_S8W0S40": {
+            "English": "Find the source of the second signal.",
+            "Russian": "Найдите источник второго сигнала."
+        }
+    },
+    {
+        "eden_pda_4W0W0ue": {
+            "English": "Scanning the area",
+            "Russian": "Сканирование района"
+        }
+    },
+    {
+        "eden_pda_OKOmCuO": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am currently scanning the area. \\nStand by.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ в настоящее время сканирую область. \\nОжидайте."
+        }
+    },
+    {
+        "eden_pda_K4KKuT8": {
+            "English": "Scanning",
+            "Russian": "Сканирование"
+        }
+    },
+    {
+        "eden_pda_qO4OGaK": {
+            "English": "Wait for IDA to scan the area",
+            "Russian": "Ждите, пока ИДА просканирует область"
+        }
+    },
+    {
+        "eden_pda_D6OqimG": {
+            "English": "Access Scanning Station",
+            "Russian": "Доступ к станции сканирования"
+        }
+    },
+    {
+        "eden_pda_CiSuc60": {
+            "English": "Perform Narrow Band Scan",
+            "Russian": "Выполнить сканирование в узком диапазоне"
+        }
+    },
+    {
+        "eden_pda_8qlKOSu": {
+            "English": "Access your scanning station on board your ship and perform a narrow band scan.",
+            "Russian": "Доступ к вашему сканирующему станцию на борту вашего корабля и выполните узкополосное сканирование."
+        }
+    },
+    {
+        "eden_pda_CES8mao": {
+            "English": "Find source of third signal",
+            "Russian": "Найти источник третьего сигнала"
+        }
+    },
+    {
+        "eden_pda_u8hCieW": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThis is the third radio source in this sector. This one appears to be using Pirate code. Caution is advised.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЭто третий радиопередатчик в этом секторе. Этот, похоже, использует пиратский код. Рекомендуется осторожность.\nЯ отметил местоположение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_8IeaiSx": {
+            "English": "[c][ffffff][ Unknown ][-][/c]\\nZggbbbkkktth yrrtthhrrrkk kkkrrrchhttgh",
+            "Russian": "[c][ffffff][ Неизвестный ][-][/c]\\nZggbbbkkktth yrrtthhrrrkk kkkrrrchhttgh"
+        }
+    },
+    {
+        "eden_pda_KqZ4e4o": {
+            "English": "Signal found",
+            "Russian": "сигнал обнаружен"
+        }
+    },
+    {
+        "eden_pda_aWqi0uV": {
+            "English": "Find the source of the third signal.",
+            "Russian": "Найдите источник третьего сигнала."
+        }
+    },
+    {
+        "eden_pda_S88G8Sa": {
+            "English": "Find source of third signal",
+            "Russian": "Найти источник третьего сигнала"
+        }
+    },
+    {
+        "eden_pda_WSCir8O": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nCommander, you have located one of the sources of the radio transmissions.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][00ffff][ IDA ][-][/c]\\nКомандир, вы обнаружили один из источников радиопередач.\\nЯ отметил местоположение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_j0S8uuG": {
+            "English": "Signal found",
+            "Russian": "сигнал найден"
+        }
+    },
+    {
+        "eden_pda_KVSmOmi": {
+            "English": "Find the source of the third signal.",
+            "Russian": "Найдите источник третьего сигнала."
+        }
+    },
+    {
+        "eden_pda_umu4uMm": {
+            "English": "Scanning the area",
+            "Russian": "Сканирование зоны"
+        }
+    },
+    {
+        "eden_pda_444aCqG": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am currently scanning the area. \\nStand by.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ в настоящее время сканирую территорию. \\nОжидайте."
+        }
+    },
+    {
+        "eden_pda_eueWiKa": {
+            "English": "Scanning",
+            "Russian": "Сканирование"
+        }
+    },
+    {
+        "eden_pda_CeWCeum": {
+            "English": "Wait for IDA to scan the area",
+            "Russian": "Ждите, пока ИДА просканирует территорию"
+        }
+    },
+    {
+        "eden_pda_uuCOim4": {
+            "English": "Access Scanning Station",
+            "Russian": "Доступ к станции сканирования"
+        }
+    },
+    {
+        "eden_pda_0KmiqEu": {
+            "English": "Perform Narrow Band Scan",
+            "Russian": "Выполнить сканирование в узком диапазоне"
+        }
+    },
+    {
+        "eden_pda_uS4KKW0": {
+            "English": "Access your science station on board your ship and perform a narrow band scan.",
+            "Russian": "Доступ к вашей научной станции на борту вашего корабля и выполните узкополосное сканирование."
+        }
+    },
+    {
+        "eden_pda_Oei8Geu": {
+            "English": "Find source of final signal",
+            "Russian": "Найти источник последнего сигнала"
+        }
+    },
+    {
+        "eden_pda_GeiI8G4": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThis is the last radio signal coming from this sector. This one has a UCH origin.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЭто последний радиосигнал, поступающий из этого сектора. Этот сигнал имеет происхождение УЧ.\nЯ отметил местоположение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_0Ki4um4": {
+            "English": "[c][ffffff][ Unknown ][-][/c]\\nZggbbbkkktth yrrtthhrrrkk kkkrrrchhttgh",
+            "Russian": "[c][ffffff][ Неизвестный ][-][/c]\\nZggbbbkkktth yrrtthhrrrkk kkkrrrchhttgh"
+        }
+    },
+    {
+        "eden_pda_YXWGGaq": {
+            "English": "Signal found",
+            "Russian": "Сигнал найден"
+        }
+    },
+    {
+        "eden_pda_OcSOm0q": {
+            "English": "Find the source of the final signal.",
+            "Russian": "Найдите источник последнего сигнала."
+        }
+    },
+    {
+        "eden_pda_oKXSGSG": {
+            "English": "Find source of final signal",
+            "Russian": "Найти источник конечного сигнала"
+        }
+    },
+    {
+        "eden_pda_I4WeOu4": {
+            "English": "Signal found",
+            "Russian": "Сигнал найден"
+        }
+    },
+    {
+        "eden_pda_v2C8uSa": {
+            "English": "Find the source of the final signal.",
+            "Russian": "Найти источник последнего сигнала."
+        }
+    },
+    {
+        "eden_pda_esO8G8O": {
+            "English": "Find source of final signal",
+            "Russian": "Найти источник последнего сигнала"
+        }
+    },
+    {
+        "eden_pda_0e0qw80": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nCommander, you have located one of the sources of the radio transmissions.\\nI have marked the location on your HUD. Approach the source of the signal.",
+            "Russian": "[c][00ffff]Командир, вы обнаружили один из источников радиопередач.[/-][/c]\n\\nКомандир, вы обнаружили один из источников радиопередач.\\nЯ пометил местоположение на вашем HUD. Подойдите к источнику сигнала."
+        }
+    },
+    {
+        "eden_pda_qeGei8a": {
+            "English": "Signal found",
+            "Russian": "Сигнал найден"
+        }
+    },
+    {
+        "eden_pda_q0iZeq0": {
+            "English": "Find the source of the final signal.",
+            "Russian": "Найдите источник последнего сигнала."
+        }
+    },
+    {
+        "eden_pda_eWCGWK0": {
+            "English": "Ghost ship",
+            "Russian": "Призрачный корабль"
+        }
+    },
+    {
+        "eden_pda_SO8WWW4": {
+            "English": "Investigate the ship",
+            "Russian": "Исследуйте корабль"
+        }
+    },
+    {
+        "eden_pda_eCsSO0S": {
+            "English": "Investigate the ghost ship.",
+            "Russian": "Расследуйте призрачный корабль."
+        }
+    },
+    {
+        "eden_pda_Sa8a88u": {
+            "English": "Scanning the area",
+            "Russian": "Сканирование района"
+        }
+    },
+    {
+        "eden_pda_iW0MKee": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am currently scanning the area. \\nStand by.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ в настоящее время сканирую территорию. \\nОжидайте."
+        }
+    },
+    {
+        "eden_pda_G4G00eK": {
+            "English": "Scanning",
+            "Russian": "Сканирование"
+        }
+    },
+    {
+        "eden_pda_KqinJ0i": {
+            "English": "Wait for IDA to scan the area",
+            "Russian": "Ждите, пока ИДА отсканирует территорию"
+        }
+    },
+    {
+        "eden_pda_CmKWOi8": {
+            "English": "Ghost ship",
+            "Russian": "Призрачный корабль"
+        }
+    },
+    {
+        "eden_pda_40CW80u": {
+            "English": "Investigate the ship",
+            "Russian": "Расследовать корабль"
+        }
+    },
+    {
+        "eden_pda_aC0Fm84": {
+            "English": "Board the ghost UCH Research Vessel.",
+            "Russian": "Загрузитесь на призрачный исследовательский корабль УЧ"
+        }
+    },
+    {
+        "eden_pda_iI40OaC": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nSince there is nothing more to be found in this sector, leaving would be the sensible thing to do.\\nBut you're not going to leave, are you? No matter how many times I say there's nothing showing on scans you will insist on chasing the mystery. Silly, silly humans.",
+            "Russian": "[c][00ffff][ IDA ][-][/c]\\nПоскольку здесь больше ничего не найти, уход был бы разумным делом.\\nНо ты уйдёшь, не так ли? Как бы я ни говорил, что сканирования ничего не показывают, ты всё равно настаиваешь на преследовании этой загадки. Глупые, глупые люди."
+        }
+    },
+    {
+        "eden_pda_uCvKeiG": {
+            "English": "Transition: EdenSpace_POI_ExploreT4_1",
+            "Russian": "Переход: Исследование Эдема"
+        }
+    },
+    {
+        "eden_pda_0mm4tOu": {
+            "English": "Reality shift",
+            "Russian": "Сдвиг реальности"
+        }
+    },
+    {
+        "eden_pda_WIgGWrO": {
+            "English": "Shifting",
+            "Russian": "Сдвиг"
+        }
+    },
+    {
+        "eden_pda_u1OCKaK": {
+            "English": "Wait",
+            "Russian": "Подожди"
+        }
+    },
+    {
+        "eden_pda_GMe0mSO": {
+            "English": "Transition 2: EdenSpace_POI_ExploreT4_1",
+            "Russian": "Переход 2: Исследуйте ЭденСпейс"
+        }
+    },
+    {
+        "eden_pda_Iaq0u0g": {
+            "English": "Reality shift",
+            "Russian": "Сдвиг реальности"
+        }
+    },
+    {
+        "eden_pda_qu8mau4": {
+            "English": "Shifting",
+            "Russian": "Сдвиг"
+        }
+    },
+    {
+        "eden_pda_qK8qOWm": {
+            "English": "Wait",
+            "Russian": "Подождите"
+        }
+    },
+    {
+        "eden_pda_K0qaOKC": {
+            "English": "Talk to the crew",
+            "Russian": "Поговорите с командой"
+        }
+    },
+    {
+        "eden_pda_4KuGaOG": {
+            "English": "Speak with someone in the mess hall",
+            "Russian": "Говорите с кем-то в столовой"
+        }
+    },
+    {
+        "eden_pda_d0eeG0G": {
+            "English": "Speak with someone in the mess hall",
+            "Russian": "Поговорите с кем-нибудь в столовой"
+        }
+    },
+    {
+        "eden_pda_8SqS4WK": {
+            "English": "Talk to the crew",
+            "Russian": "Говорите с экипажем"
+        }
+    },
+    {
+        "eden_pda_imm0400": {
+            "English": "Speak to the doctor in the medical bay",
+            "Russian": "Поговорите с врачом в медицинском отсеке"
+        }
+    },
+    {
+        "eden_pda_aq8m0We": {
+            "English": "Speak to the doctor in the medical bay.",
+            "Russian": "Говорите с доктором в медицинском отсеке."
+        }
+    },
+    {
+        "eden_pda_a8qu06C": {
+            "English": "Report to the captain",
+            "Russian": "Отчётать капитану"
+        }
+    },
+    {
+        "eden_pda_CSma9Sm": {
+            "English": "Speak to the captain on the bridge",
+            "Russian": "Говорите с капитаном на мостике"
+        }
+    },
+    {
+        "eden_pda_qGGWGkm": {
+            "English": "Speak to the captain on the bridge.",
+            "Russian": "Говорите с капитаном на мостике."
+        }
+    },
+    {
+        "eden_pda_meueFYm": {
+            "English": "Figure out what is going on",
+            "Russian": "Разберитесь в том, что происходит"
+        }
+    },
+    {
+        "eden_pda_OC8K4KC": {
+            "English": "Find out some information",
+            "Russian": "Узнайте немного информации"
+        }
+    },
+    {
+        "eden_pda_qOBumau": {
+            "English": "Find a clue about what is going on. Look around the bridge and briefing room. Maybe someone will tell you something useful.",
+            "Russian": "Найдите подсказку о том, что происходит. Осмотрите мостик и комнату для брифинга. Может быть, кто-то скажет вам что-нибудь полезное."
+        }
+    },
+    {
+        "eden_pda_SqaifjG": {
+            "English": "Report to the captain",
+            "Russian": "Отчёт капитану"
+        }
+    },
+    {
+        "eden_pda_aS4miOa": {
+            "English": "Speak to the captain on the bridge",
+            "Russian": "Говорите с капитаном на мостике"
+        }
+    },
+    {
+        "eden_pda_GOeCxiq": {
+            "English": "Speak to the captain on the bridge.",
+            "Russian": "Говорите с капитаном на мостике."
+        }
+    },
+    {
+        "eden_pda_qgCScaj": {
+            "English": "Watch it happen",
+            "Russian": "Смотрите, как это происходит"
+        }
+    },
+    {
+        "eden_pda_KCuW8Se": {
+            "English": "Watch",
+            "Russian": "Смотреть"
+        }
+    },
+    {
+        "eden_pda_HmamkWO": {
+            "English": "Watch it happen.",
+            "Russian": "Смотрите, как это происходит."
+        }
+    },
+    {
+        "eden_pda_0C8iC0O": {
+            "English": "Report to the captain",
+            "Russian": "Сообщить капитану"
+        }
+    },
+    {
+        "eden_pda_OIkSuum": {
+            "English": "Speak to the captain on the bridge",
+            "Russian": "Говорите с капитаном на мостике"
+        }
+    },
+    {
+        "eden_pda_KWe8kmG": {
+            "English": "Speak to the captain on the bridge.",
+            "Russian": "Говорите с капитаном на мостике."
+        }
+    },
+    {
+        "eden_pda_KSq4SaW": {
+            "English": "Stop the chief engineer",
+            "Russian": "Остановите главного инженера"
+        }
+    },
+    {
+        "eden_pda_KaCGueS": {
+            "English": "Speak with chief engineer in engineering",
+            "Russian": "Поговорите с главным инженером в инженерии"
+        }
+    },
+    {
+        "eden_pda_O8qSm08": {
+            "English": "Speak with chief engineer in engineering.",
+            "Russian": "Говорите с главным инженером в отделе инженерии."
+        }
+    },
+    {
+        "eden_pda_0OW0KqS": {
+            "English": "Reboot IDA at science station",
+            "Russian": "Перезагрузить ИДА на научной станции"
+        }
+    },
+    {
+        "eden_pda_CummSOa": {
+            "English": "Access science station",
+            "Russian": "Доступ к научной станции"
+        }
+    },
+    {
+        "eden_pda_fwOCOoS": {
+            "English": "Access science station.",
+            "Russian": "Доступ к научной станции"
+        }
+    },
+    {
+        "eden_pda_iWiaGqG": {
+            "English": "Progenitor Territory",
+            "Russian": "Прогенитор Территория"
+        }
+    },
+    {
+        "eden_pda_8UuuKWC": {
+            "English": "Message",
+            "Russian": "Сообщение"
+        }
+    },
+    {
+        "eden_pda_FSKCiqC": {
+            "English": "Wait",
+            "Russian": "Подождите"
+        }
+    },
+    {
+        "eden_pda_R0Sa4qm": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "eden_pda_cWmSeCW": {
+            "English": "[c][ff0000]YOU HAVE ENTERED AN AREA OF REFORGED EDEN 2 THAT IS UNFINISHED AND INACCESSIBLE VIA NORMAL MEANS.[-][/c]\\n[c][ff0000]YOU MAY ENCOUNTER PROBLEMS IF YOU CONTINUE TO EXPLORE THIS REGION.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]The Progenitor missions and the galactic region of Decay are unfinished and not yet officially updated for RE2 and are not accessible in survival mode.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]If you were able to get here in survival without console commands or cheats that means you are playing a modified version of Reforged Eden 2.[-][/c]\\n\\n[c][ffff00]The developers of Reforged Eden 2 cannot assist when playing a modified version of Reforged Eden 2.[-][/c]\\n[c][ffff00]Please direct all inquiries or problems to the person you got this scenario from or the admin team that runs the server you are playing on.[-][/c][c][ffff00][-][/c]",
+            "Russian": "[c][ff0000]ВЫ ВОШЛИ В ОБЛАСТЬ REFORGED EDEN 2, КОТОРАЯ ЕЩЁ НЕ ЗАВЕРШЕНА И НЕДОСТУПНА ОБЫЧНЫМ СПОСОБОМ.[-][/c]\\n[c][ff0000]ВАМ МОГУТ ВОЗНИКНУТЬ ПРОБЛЕМЫ, ЕСЛИ ВЫ ПРОДОЛЖИТЕ ИССЛЕДОВАТЬ ЭТОТ РЕГИОН.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]Миссии Прогенитора и галактический регион Упадка ещё не завершены и не обновлены официально для RE2, и недоступны в режиме выживания.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]Если вам удалось попасть сюда в режиме выживания без команд консоли или читов, это означает, что вы играете в модифицированную версию Reforged Eden 2.[-][/c]\\n\\n[c][ffff00]Разработчики Reforged Eden 2 не могут помочь при игре в модифицированной версии Reforged Eden 2.[-][/c]\\n[c][ffff00]Пожалуйста, направляйте все запросы или проблемы тому человеку, от которого вы получили этот сценарий, или команде администраторов, управляющей сервером, на котором вы играете.[-][/c][c][ffff00][-][/c]"
+        }
+    },
+    {
+        "eden_pda_40uiGWq": {
+            "English": "[c][ff0000]YOU HAVE ENTERED AN AREA OF REFORGED EDEN 2 THAT IS UNFINISHED AND INACCESSIBLE VIA NORMAL MEANS.[-][/c]\\n[c][ff0000]YOU MAY ENCOUNTER PROBLEMS IF YOU CONTINUE TO EXPLORE THIS REGION.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]The Progenitor missions and the galactic region of Decay are unfinished and not yet officially updated for RE2 and are not accessible in survival mode.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]If you were able to get here in survival without console commands or cheats that means you are playing a modified version of Reforged Eden 2.[-][/c]\\n\\n[c][ffff00]The developers of Reforged Eden 2 cannot assist when playing a modified version of Reforged Eden 2.[-][/c]\\n[c][ffff00]Please direct all inquiries or problems to the person you got this scenario from or the admin team that runs the server you are playing on.[-][/c]",
+            "Russian": "[c][ff0000]ВЫ ВОШЛИ В ОБЛАСТЬ ПЕРЕДЕЛАННОГО ЭДЕНА 2, КОТОРАЯ НЕ ЗАВЕРШЕНА И НЕДОСТУПНА ОБЫЧНЫМ СПОСОБОМ.[-][/c]\\n[c][ff0000]ВЫ МОЖЕТЕ СТОЛКНУТЬСЯ С ПРОБЛЕМАМИ, ЕСЛИ ПРОДОЛЖИТЕ ИССЛЕДОВАНИЕ ЭТОГО РЕГИОНА.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]Миссии Прототипа и галактический регион Распада не завершены и еще официально не обновлены для RE2, а также недоступны в режиме выживания.[-][/c]\\n[c][ffff00][-][/c]\\n[c][ffff00]Если вам удалось попасть сюда в режиме выживания без использования консольных команд или читов, это означает, что вы играете в модифицированную версию Reforged Eden 2.[-][/c]\\n\\n[c][ffff00]Разработчики Reforged Eden 2 не могут помочь при игре в модифицированной версии Reforged Eden 2.[-][/c]\\n[c][ffff00]Пожалуйста, обращайте все вопросы или проблемы к тому, кто предоставил вам этот сценарий, или к администраторской команде, управляющей сервером, на котором вы играете.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_G0WiWqu": {
+            "English": "[c][ffff00]YOU ARE IN AN UNFINISHED AREA OF REFORGED EDEN 2.[-][/c]\\n[c][ffff00]PLEASE RETURN TO THE MAIN GALAXY.[-][/c]",
+            "Russian": "[c][ffff00]ВЫ НАХОДИТЕСЬ В НЕЗАВЕРШЕННОЙ ОБЛАСТИ REFORGED EDEN 2.[-][/c]\\n[c][ffff00]ПОЖАЛУЙСТА, ВЕРНИТЕСЬ В ГЛАВНУЮ ГАЛАКТИКУ.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_aeKiq4i": {
+            "English": "Setup: EdenSpace_POI_ExploreT4_1",
+            "Russian": "Исследуйте остатки древней цивилизации."
+        }
+    },
+    {
+        "eden_pda_ie4mS84": {
+            "English": "Calibrating scanning station",
+            "Russian": "Калибровка сканирующей станции"
+        }
+    },
+    {
+        "eden_pda_Wa0uOue": {
+            "English": "Calibrating",
+            "Russian": "Калибровка"
+        }
+    },
+    {
+        "eden_pda_0e08eOi": {
+            "English": "Wait for IDA to finish the calibration.",
+            "Russian": "Подождите, пока IDA не завершит калибровку."
+        }
+    },
+    {
+        "eden_pda_0C8CqmG": {
+            "English": "[c][00ffff][ IDA ][-][/c]\\nI am now calibrating your scanning station to scan for the signals. Please stand by.",
+            "Russian": "[c][00ffff][ ИДА ][-][/c]\nЯ настраиваю вашу сканирующую станцию для поиска сигналов. Пожалуйста, подождите."
+        }
+    },
+    {
+        "eden_pda_8Kqg8Nu": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am now calibrating your scanning station to scan for the signals. Please stand by.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ сейчас калибрую вашу сканирующую станцию для поиска сигналов. Пожалуйста, подождите."
+        }
+    },
+    {
+        "eden_pda_uiUmGSG": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am now calibrating your scanning station to scan for the signals. Please stand by.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nЯ настраиваю вашу станцию сканирования для поиска сигналов. Пожалуйста, подождите."
+        }
+    },
+    {
+        "eden_pda_8KWGKeG": {
+            "English": "Finishing up",
+            "Russian": "Заканчивая работу"
+        }
+    },
+    {
+        "eden_pda_qSSK4e8": {
+            "English": "Finishing...",
+            "Russian": "Завершение..."
+        }
+    },
+    {
+        "eden_pda_OC009o8": {
+            "English": "Wait for IDA to finish.",
+            "Russian": "Подождите пока IDA не завершит работу."
+        }
+    },
+    {
+        "eden_pda_SPGYK5a": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nCurious. The readings are inconclusive. It's like there's nothing there, but clearly something is broadcasting radio.\\nYou're going to have to launch another probe at the scanning station to find more signals, Commander.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nИнтересно. Чтения не дают однозначных результатов. Кажется, там ничего нет, но явно что-то вещает по радио.\nТебе придётся запустить ещё один зонд на станции сканирования, чтобы найти больше сигналов, Командир."
+        }
+    },
+    {
+        "eden_pda_GSRa0Oi": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThere is very clearly nothing here, yet this is the origin for the radio signals that appear to be of Polaris origin.\\nYou're going to have to launch another probe at the scanning station to find more signals, Commander.\\nAlso I have been monitoring your vitals and I detected a sudden loss in blood sugar. You may want to eat something.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nОчевидно, здесь ничего нет, но это и есть источник радиосигналов, которые, кажется, имеют полярное происхождение.\\nВам придётся запустить ещё один зонд на сканирующую станцию, чтобы найти больше сигналов, Командир.\\nТакже я отслеживал ваши жизненные показатели и обнаружил внезапное снижение уровня сахара в крови. Возможно, вам следует что-нибудь съесть."
+        }
+    },
+    {
+        "eden_pda_OGSCriG": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nAgain, nothing here despite it being a source of radio transmission. I am detecting one more signal that is stronger than the others.\\nYou're going to have to launch another probe at the scanning station to find more signals, Commander.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nСнова ничего здесь, несмотря на то, что это источник радиопередачи. Я обнаруживаю еще один сигнал, который сильнее остальных.\nВам придется запустить еще одну зонд к станции сканирования, чтобы найти больше сигналов, Командир."
+        }
+    },
+    {
+        "eden_pda_Oe40K4u": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am detecting nothing. Absolutely nothing. Since there is nothing more to be found in this sector, leaving would be the sensible thing to do.\\nBut you're not going to leave, are you? No matter how many times I say there's nothing showing on scans you will insist on chasing the mystery. Silly, silly humans.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ не обнаруживаю ничего. Совершенно ничего. Поскольку здесь больше нечего найти, то уход был бы разумным делом.\\nНо ты всё равно уйдёшь, не так ли? Как бы я ни говорил, что сканирования ничего не показывают, ты будешь настаивать на преследовании этой загадки. Глупые, глупые люди."
+        }
+    },
+    {
+        "eden_pda_aOY43Mg": {
+            "English": "Return to your ship",
+            "Russian": "Вернитесь к вашему кораблю"
+        }
+    },
+    {
+        "eden_pda_K7OP84S": {
+            "English": "Return to your ship",
+            "Russian": "Вернитесь на свой корабль"
+        }
+    },
+    {
+        "eden_pda_aEKK80q": {
+            "English": "[c][00ffc6]Assessment[-][/c] EdenSpace_POI_SalvageT2_1",
+            "Russian": "[c][00ffc6]Оценка[-][/c] ЭденСпейс_ТочкаИнтереса_СпасениеТ2_1"
+        }
+    },
+    {
+        "eden_pda_emCaG0K": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется совершенно пустым от любой материи или энергии, однако есть короткодиапазонные радиопередачи, которые принимаются."
+        }
+    },
+    {
+        "eden_pda_4GSe8X0": {
+            "English": "[c][00ffc6]Science Assessment[-][/c]",
+            "Russian": "[c][00ffc6]Оценка науки[-][/c]"
+        }
+    },
+    {
+        "eden_pda_WaS0GS0": {
+            "English": "Complete",
+            "Russian": "Завершено"
+        }
+    },
+    {
+        "eden_pda_Vi8CCSi": {
+            "English": "Displaying a message.",
+            "Russian": "Отображается сообщение"
+        }
+    },
+    {
+        "eden_pda_S0aOaaW": {
+            "English": "This briefing can be reviewed in the PDA log under [c][00ffc6]Exploration Site[-][/c].",
+            "Russian": "Этот брифинг можно просмотреть в журнале ПДА под [c][00ffc6]Объект Исследования[-][/c]."
+        }
+    },
+    {
+        "eden_pda_8mC4kKq": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am detecting a large amount of wreckage in this sector. There are also some energy readings which may indicate defensive sentries. With all the sensor interference it's likely the sentries would be unable to target you if you go in and disable them with just your suit, or you can destroy them with your ship if you fancy some combat.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\\nЯ обнаруживаю большое количество обломков в этом секторе. Также есть некоторые энергетические показатели, которые могут указывать на оборонительные сентеры. С учетом всех помех датчиков, вероятно, сентеры не смогут вас прицелиться, если вы войдете и отключите их только в своем костюме, или вы можете уничтожить их своим кораблем, если вам хочется немного боя."
+        }
+    },
+    {
+        "eden_pda_6G0SwK0": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nI am detecting a large amount of wreckage in this sector. There are also some energy readings which may indicate defensive sentries. With all the sensor interference it's likely the sentries would be unable to target you if you go in and disable them with just your suit, or you can destroy them with your ship if you fancy some combat.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nЯ обнаруживаю большое количество обломков в этом секторе. Также есть некоторые энергетические показания, которые могут указывать на защитные сторожевые посты. Из-за всех помех датчиков вероятно, что сторожевые посты не смогут вас поразить, если вы войдете и отключите их только с помощью своего костюма, или вы можете уничтожить их со своим кораблем, если вам хочется немного боевых действий."
+        }
+    },
+    {
+        "eden_pda_COauaea": {
+            "English": "[c][c8c8c8]Salvage Site[-][/c]",
+            "Russian": "[c][c8c8c8]Склад утиля[-][/c]"
+        }
+    },
+    {
+        "eden_pda_G8SOeoC": {
+            "English": "Trigger: EdenSpace_POI_SalvageT2_1",
+            "Russian": "Триггер: EdenSpace_POI_SalvageT2_1"
+        }
+    },
+    {
+        "eden_pda_KWG4OeG": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются коротковолновые радиопередачи."
+        }
+    },
+    {
+        "eden_pda_qSGeCie": {
+            "English": "[c][00ffc6]Science Assessment[-][/c]",
+            "Russian": "[c][00ffc6]Оценка научных знаний[-][/c]"
+        }
+    },
+    {
+        "eden_pda_8OquiTu": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_u0mC0Gg": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_GCqmm2C": {
+            "English": "This briefing can be reviewed in the PDA log under [c][00ffc6]Exploration Site[-][/c].",
+            "Russian": "Этот брифинг можно просмотреть в журнале ПК под [c][00ffc6]Место Исследования[-][/c]."
+        }
+    },
+    {
+        "eden_pda_4Gaqm8s": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThere appears to be several large pieces of salvage on this wreck.\\nI recommend using ship mounted salvaging tools to salvage the wreckage. There is a small chance doing so will leave behind a crate of valuable goods.",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nКажется, на этом обломке есть несколько крупных кусков металлолома.\\nРекомендую использовать встроенные в корабль инструменты для утилизации обломков. Существует небольшой шанс, что это приведет к тому, что останется ящик с ценными товарами."
+        }
+    },
+    {
+        "eden_pda_CWKO8Wu": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nThere appears to be several large pieces of salvage on this wreck.\\nI recommend using ship mounted salvaging tools to salvage the wreckage. There is a small chance doing so will leave behind a crate of valuable goods.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nПохоже, на этом обломке есть несколько крупных кусков металлолома.\nРекомендуется использовать установленные на корабле инструменты для сбора металлолома, чтобы разобрать обломки. Существует небольшая вероятность того, что это оставит ящик с ценными вещами."
+        }
+    },
+    {
+        "eden_pda_SaiKeSa": {
+            "English": "[c][9d520b]Assessment[-][/c] EdenSpace_POI_MiningT1_3",
+            "Russian": "[c][9d520b]Оценка[-][/c] EdenSpace_POI_MiningT1_3"
+        }
+    },
+    {
+        "eden_pda_CGGuWuq": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются коротко-волновые радиопередачи."
+        }
+    },
+    {
+        "eden_pda_giu64CG": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Добычи[-][/c]"
+        }
+    },
+    {
+        "eden_pda_aG9qKe4": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_umKuOOi": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_8mGCOem": {
+            "English": "This briefing can be reviewed in the PDA log under [c][9d520b]Mining Site[-][/c].",
+            "Russian": "Этот инструктаж можно проверить в журнале ПК под [c][9d520b]Месторождение[-][/c]."
+        }
+    },
+    {
+        "eden_pda_ASCeu4K": {
+            "English": "[c][00ffff][ Colonist Mining Vessel ][-][/c]\\nHailing Terran vessel! I am in need of assistance.\\nPlease come speak with me on board my vessel.",
+            "Russian": "[c][00ffff][ Горное судно колонистов ][-][/c]\\nЗову Терранское судно! Мне нужна помощь.\\nПожалуйста, зайдите ко мне на борт и поговорите со мной."
+        }
+    },
+    {
+        "eden_pda_KaSO8qi": {
+            "English": "[c][00ffff][ Colonist Mining Vessel ][-][/c]\\nHailing Terran vessel! I am in need of assistance.\\nPlease come speak with me on board my vessel.",
+            "Russian": "[c][00ffff][Колониальный горнодобывающий корабль][-][/c]\nПриветствуем терранский корабль! Я нуждаюсь в помощи.\nПожалуйста, подойдите и поговорите со мной на борту моего корабля."
+        }
+    },
+    {
+        "eden_pda_SOi8WWO": {
+            "English": "Trigger 2: EdenSpace_POI_SalvageT2_1",
+            "Russian": "Триггер 2: EdenSpace_POI_SalvageT2_1"
+        }
+    },
+    {
+        "eden_pda_WSu0WKq": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются короткодистанционные радиопередачи."
+        }
+    },
+    {
+        "eden_pda_Kaii4mO": {
+            "English": "[c][ff0000]Bandit Attack[-][/c]",
+            "Russian": "[c][ff0000]Нападение бандитов[-][/c]"
+        }
+    },
+    {
+        "eden_pda_q9aacm8": {
+            "English": "Incoming",
+            "Russian": "Входящий"
+        }
+    },
+    {
+        "eden_pda_4SqOGqS": {
+            "English": "There is an enemy ship incoming",
+            "Russian": "Входящий вражеский корабль"
+        }
+    },
+    {
+        "eden_pda_mO2GmuO": {
+            "English": "[c][ff0000][ Bandit Fighter ][-][/c]\\nMore scrap for the scrapyard! Don't let them get away!",
+            "Russian": "[c][ff0000][ Бандитский боец ][-][/c]\nБольше металлолома для свалки! Не дайте им уйти!"
+        }
+    },
+    {
+        "eden_pda_uasouqq": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nCommander, I am detecting several small fighters on an intercept course.\\nGet back to your ship and prepare to defend yourself!",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\nКомандир, я обнаружил несколько небольших истребителей на перехватывающем курсе.\\nВернитесь на свой корабль и приготовьтесь к обороне!"
+        }
+    },
+    {
+        "eden_pda_GguGG4m": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nCommander, I am detecting several small fighters on an intercept course.\\nGet back to your ship and prepare to defend yourself!",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nКомандир, я обнаруживаю несколько мелких истребителей на курсе перехвата.\nВернитесь к своему кораблю и подготайтесь к защите!"
+        }
+    },
+    {
+        "eden_pda_ODWGSbq": {
+            "English": "[c][9d520b]Assessment[-][/c] EdenSpace_POI_MiningT2_1",
+            "Russian": "[c][9d520b]Оценка[-][/c] EdenSpace_POI_MiningT2_1"
+        }
+    },
+    {
+        "eden_pda_m5e4WXi": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются коротковолновые радиопередачи."
+        }
+    },
+    {
+        "eden_pda_KU28mKm": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Горных Работ[-][/c]"
+        }
+    },
+    {
+        "eden_pda_CX0SQCu": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_KCKSeXm": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_qier4W4": {
+            "English": "This briefing can be reviewed in the PDA log under [c][9d520b]Mining Site[-][/c].",
+            "Russian": "Эту инструктаж можно просмотреть в журнале ПК под [c][9d520b]Горный участок[-][/c]."
+        }
+    },
+    {
+        "eden_pda_GSG8SDm": {
+            "English": "[c][00ffff][ Industrial Command Vessel ][-][/c]\\nAttention all nearby ships. This sector is an active U.I.M. mining operation.\\nAll independent miners wishing to join the fleet are required to check in at the coordinator in the hangar of the command vessel.",
+            "Russian": "[c][00ffff][ Индустриальный Командный Корабль ][-][/c]\\nВнимание всем ближайшим кораблям. Этот сектор является активной горнодобывающей операцией У.И.М.\\nВсе независимые шахтёры, желающие присоединиться к флоту, обязаны зарегистрироваться у координатора в ангаре командного корабля."
+        }
+    },
+    {
+        "eden_pda_KGu40m0": {
+            "English": "[c][00ffff][ Industrial Command Vessel ][-][/c]\\nAttention all nearby ships. This sector is an active U.I.M. mining operation.\\nAll independent miners wishing to join the fleet are required to check in at the coordinator in the hangar of the command vessel.",
+            "Russian": "[c][00ffff]Корабль управления промышленностью[-][/c]\nВнимание всем близлежащим кораблям. Этот сектор является активной зоной добычи U.I.M.\nВсе независимые шахтеры, желающие присоединиться к флоту, обязаны зарегистрироваться у координатора в ангаре командного корабля."
+        }
+    },
+    {
+        "eden_pda_KeSJ808": {
+            "English": "[c][9d520b]Assessment[-][/c] EdenSpace_POI_MiningT3_1",
+            "Russian": "[c][9d520b]Оценка[-][/c] EdenSpace_POI_MiningT3_1"
+        }
+    },
+    {
+        "eden_pda_uqWKmSK": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, однако фиксируются короткодиапазонные радиопередачи."
+        }
+    },
+    {
+        "eden_pda_8WqOCOa": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Добычи[-][/c]"
+        }
+    },
+    {
+        "eden_pda_imf8Sqg": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_CeSeWWW": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_WE4uOSm": {
+            "English": "This briefing can be reviewed in the PDA log under [c][9d520b]Mining Site[-][/c].",
+            "Russian": "Этот брифинг можно просмотреть в журнале ПДА под [c][9d520b]Майнинговый сайт[-][/c]."
+        }
+    },
+    {
+        "eden_pda_eWmOOSG": {
+            "English": "[c][00ffff][ Light Mining Vessel ][-][/c]\\nHey Terran! Yes, you! Can you help me please? Come speak with me on board my ship.\\n[c][ffff00]And stay away from that wormhole in the center of the maelstrom! It could damage your ship.[-][/c]",
+            "Russian": "[c][00ffff][ Легкий Горный Корабль ][-][/c]\\nПривет, Терран! Да, ты! Можешь ли ты мне помочь? Приди поговори со мной на борту моего корабля.\\n[c][ffff00]И держись подальше от той червоточины в центре маэльстрома! Она может повредить твой корабль.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_OSYWuqK": {
+            "English": "[c][00ffff][ Light Mining Vessel ][-][/c]\\nHey Terran! Yes, you! Can you help me please? Come speak with me on board my ship.\\n[c][ffff00]And stay away from that wormhole in the center of the maelstrom! It could damage your ship.[-][/c]",
+            "Russian": "[с][00ffff][ Легкий горнодобывающий корабль ][-][/с]\\nПривет, Терран! Да, ты! Ты можешь мне помочь? Подойди и поговори со мной на борту моего корабля.\\n[c][ffff00]И держись подальше от того червоточины в центре маельшторма! Она может повредить твой корабль.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_q0iOKqe": {
+            "English": "[c][9d520b]Assessment[-][/c] EdenSpace_POI_MiningT4_1",
+            "Russian": "[c][9d520b]Оценка[-][/c] EdenSpace_POI_MiningT4_1"
+        }
+    },
+    {
+        "eden_pda_0cKS0eS": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какого-либо вещества или энергии, однако фиксируются коротко-диапазонные радиопередачи."
+        }
+    },
+    {
+        "eden_pda_Sa0w8iS": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Добычи[-][/c]"
+        }
+    },
+    {
+        "eden_pda_maGKmOS": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_OSGOWSK": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_a0qm08S": {
+            "English": "This briefing can be reviewed in the PDA log under [c][9d520b]Mining Site[-][/c].",
+            "Russian": "Эта инструкция может быть просмотрена в журнале ПДА под [c][9d520b]Шахтный участок[-][/c]."
+        }
+    },
+    {
+        "eden_pda_iOG4os8": {
+            "English": "[c][00ffff][ Mining Foreman ][-][/c]\\nPlease come back! We'll pay you double!",
+            "Russian": "[c][00ffff][ Горный Прораб ][-][/c]\\nПожалуйста, вернитесь! Мы заплатим вам вдвое!"
+        }
+    },
+    {
+        "eden_pda_ScSSGiO": {
+            "English": "[c][00ffff][ Mining Foreman ][-][/c]\\nPlease come back! We'll pay you double!",
+            "Russian": "[c][00ffff]Начальник горных работ[-][/c]\nПожалуйста, вернитесь! Мы заплатим вам вдвое больше!"
+        }
+    },
+    {
+        "eden_pda_GmuukmW": {
+            "English": "[c][9d520b]Assessment[-][/c] EdenSpace_POI_MiningT4_2",
+            "Russian": "[c][9d520b]Оценка[-][/c] EdenSpace_POI_MiningT4_2"
+        }
+    },
+    {
+        "eden_pda_e8CZeNa": {
+            "English": "This sector seems completely void of any matter or energy, yet there are short range radio transmissions being picked up.",
+            "Russian": "Этот сектор кажется полностью лишенным какой-либо материи или энергии, но при этом фиксируются коротковолновые радиопередачи."
+        }
+    },
+    {
+        "eden_pda_CaiJa0m": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Добычи[-][/c]"
+        }
+    },
+    {
+        "eden_pda_Ga8aua0": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_OeaSiGt": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_iOem4q8": {
+            "English": "This briefing can be reviewed in the PDA log under [c][9d520b]Mining Site[-][/c].",
+            "Russian": "Этот брифинг можно просмотреть в журнале ПК под [c][9d520b]Шахтный комплекс[-][/c]."
+        }
+    },
+    {
+        "eden_pda_KqKW80q": {
+            "English": "[c][ffff00][ Smuggler ][-][/c]\\nI am having a really bad day so unless you're bringing me 100 Zacosite Crystals from this asteroid field, GO AWAY!\\n\\n[c][ffff00][ IDA ][-][/c]\\nWarning: I am detecting a high level of instability in this asteroid field.\\nThere may be high velocity asteroids that could damage your ship. Use caution.",
+            "Russian": "[c][ffff00][ Контрабандист ][-][/c]\\nУ меня очень плохой день, поэтому если вы не принесёте мне 100 кристаллов Закосита из этого астероидного поля, УХОДИТЕ!\\n\\n[c][ffff00][ ИДА ][-][/c]\\nПредупреждение: я обнаруживаю высокий уровень нестабильности в этом астероидном поле.\\nВозможно, здесь есть астероиды высокой скорости, которые могут повредить ваш корабль. Будьте осторожны."
+        }
+    },
+    {
+        "eden_pda_eSYmm4G": {
+            "English": "[c][ffff00][ Smuggler ][-][/c]\\nI am having a really bad day so unless you're bringing me 100 Zacosite Crystals from this asteroid field, GO AWAY!",
+            "Russian": "[c][ffff00]Контрабандист[-][/c]\nУ меня просто ужасный день, так что если вы не принесли мне 100 кристаллов закосита с этого астероидного поля, то УХОДИТЕ!"
+        }
+    },
+    {
+        "eden_pda_au4Cm4m": {
+            "English": "[c][9d520b]Mining Assessment[-][/c]",
+            "Russian": "[c][9d520b]Оценка Горных Работ[-][/c]"
+        }
+    },
+    {
+        "eden_pda_qmuma0q": {
+            "English": "Complete",
+            "Russian": "Завершить"
+        }
+    },
+    {
+        "eden_pda_iibqeeA": {
+            "English": "Displaying a message.",
+            "Russian": "Отображение сообщения."
+        }
+    },
+    {
+        "eden_pda_peGCcuS": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\nWarning: I am detecting a high level of instability in this asteroid field.\\nThere may be high velocity asteroids that could damage your ship. Use caution.",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\nПредупреждение: Обнаружена высокая степень нестабильности в этом астероидном поле.\nВозможны высокоскоростные астероиды, которые могут повредить ваш корабль. Будьте осторожны."
+        }
+    },
+    {
+        "eden_pda_K0mwiea": {
+            "English": "Blueprint Completed Intro",
+            "Russian": "Готов чертеж Введение"
+        }
+    },
+    {
+        "eden_pda_0m0tqOC": {
+            "English": "[c][00ffff][b]Galaxy map tips:[/b][-][/c]\\nUse the standard movement keys ([c][ffff00]W A S D, C, Space[-][/c]) while holding down [c][ffff00]Left Click[-][/c] to move the camera.\\nHolding [c][ffff00]Shift[-][/c] + [c][ffff00]Ctrl[-][/c] speeds up camera speed.\\nUse the [c][00ff00]Search System[-][/c] box at the bottom to search by star or playfield name or by star type.\\nVarious filters and a help menu can be accessed with the buttons in the upper left. Press the ? icon for more information.",
+            "Russian": "[c][00ffff][b]Советы по карте галактики:[/b][-][/c]\\nИспользуйте стандартные клавиши перемещения ([c][ffff00]W A S D, C, Space[-][/c]) при удержании [c][ffff00]Левой кнопки мыши[-][/c], чтобы перемещать камеру.\\nУдерживание [c][ffff00]Shift[-][/c] + [c][ffff00]Ctrl[-][/c] увеличивает скорость камеры.\\nИспользуйте поле [c][00ff00]Поиск системы[-][/c] внизу, чтобы искать по имени звезды или игровому полю или по типу звезды.\\nРазличные фильтры и меню помощи можно получить с помощью кнопок в верхнем левом углу. Нажмите значок ? для получения дополнительной информации."
+        }
+    },
+    {
+        "eden_pda_qwOkS8S": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff]Commander, your blueprint has been completed and is now available to spawn from the top of the Blueprint Library.[-][/c]\\n[c][abd1ff]To spawn it, open the [-][/c][c][00ff00]Blueprint Library[-][/c][c][abd1ff] with [-][/c][c][ffff00]({keybind(ShowPrefabLibrary)})[-][/c][c][abd1ff], press the [-][/c][c][00ff00]Library[-][/c][c][abd1ff] button on the upper right, and select your completed blueprint at the very top of the list on the left.[-][/c]",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff]Командир, ваш проект завершен и теперь доступен для создания из верхней части библиотеки проектов.[-][/c]\\n[c][abd1ff]Чтобы создать его, откройте [-][/c][c][00ff00]Библиотеку Проектов[-][/c][c][abd1ff] с помощью [-][/c][c][ffff00]({keybind(ShowPrefabLibrary)})[-][/c][c][abd1ff], нажмите кнопку [-][/c][c][00ff00]Библиотека[-][/c][c][abd1ff] в правом верхнем углу и выберите ваш завершенный проект в начале списка слева.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_QSCuAOm": {
+            "English": "Wait",
+            "Russian": "Подождите"
+        }
+    },
+    {
+        "eden_pda_uW4GiSd": {
+            "English": "Wait",
+            "Russian": "Жди"
+        }
+    },
+    {
+        "eden_pda_aGeqaZd": {
+            "English": "Wait",
+            "Russian": "Ждать"
+        }
+    },
+    {
+        "eden_pda_G40mCiS": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff]Commander, your blueprint has been completed and is now available to spawn from the top of the Blueprint Library.[-][/c]\\n[c][abd1ff]To spawn it, open the [-][/c][c][00ff00]Blueprint Library[-][/c][c][abd1ff] with [-][/c][c][ffff00]({keybind(ShowPrefabLibrary)})[-][/c][c][abd1ff], press the [-][/c][c][00ff00]Library[-][/c][c][abd1ff] button on the upper right, and select your completed blueprint at the very top of the list on the left.[-][/c]",
+            "Russian": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff]Командир, ваш чертеж завершен и теперь доступен для вызова из верхней части Библиотеки Чертежей.[-][/c]\\n[c][abd1ff]Чтобы вызвать его, откройте [-][/c][c][00ff00]Библиотеку Чертежей[-][/c][c][abd1ff] с помощью [-][/c][c][ffff00]({keybind(ShowPrefabLibrary)})[-][/c][c][abd1ff], нажмите кнопку [-][/c][c][00ff00]Библиотека[-][/c][c][abd1ff] в правом верхнем углу и выберите ваш завершенный чертеж в самом верху списка слева.[-][/c]"
+        }
+    },
+    {
+        "eden_pda_a0WKlCW": {
+            "English": "[c][ffff00][ IDA ][-][/c]\\n[c][abd1ff]Commander, I will remind you that the [-][/c][c][00ff00]Large Constructor[-][/c][c][abd1ff] is too large to fit in your personal inventory.[-][/c]\\n[c][abd1ff]You will need to use the logistics system to place this device using the [-][/c][c][00ff00]connected toolbar[-][/c][c][abd1ff].[-][/c]\\n\\n[c][abd1ff]If you need a refresher on the logistics system or any other subject you can find one in the [-][/c][c][00ff00]Empyriopedia [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff] under [-][/c][c][00ff00]Mechanics[-][/c][c][abd1ff] - [-][/c][c][00ff00]Logistics[-][/c][c][abd1ff].[-][/c]",
+            "Russian": "[c][ffff00][ ИДА ][-][/c]\\n[c][abd1ff]Командир, напомню вам, что [-][/c][c][00ff00]Большой Конструктор[-][/c][c][abd1ff] слишком велик, чтобы поместиться в вашем личном инвентаре.[-][/c]\\n[c][abd1ff]Вам потребуется использовать логистическую систему для размещения этого устройства с помощью [-][/c][c][00ff00]подключенной панели инструментов[-][/c][c][abd1ff].[-][/c]\\n\\n[c][abd1ff]Если вам нужна информация о логистической системе или любой другой теме, вы можете найти её в [-][/c][c][00ff00]Эмпириопедии [-][/c][c][abd1ff][-][/c][c][ffff00]({keybind(PDA)})[-][/c][c][abd1ff] под [-][/c][c][00ff00]Механика[-][/c][c][abd1ff] - [-][/c][c][00ff00]Логистика[-][/c][c][abd1ff].[-][/c]"
         }
     }
 ]
