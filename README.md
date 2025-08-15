@@ -1,6 +1,7 @@
 # Empyrion: Galactic Survival (Reforged Eden 2)
 =============================================
 
+Reforged-Eden-2
 Languages:
 
 - [x] English [FULL]
@@ -20,3 +21,7 @@ Languages:
 - [ ] Greek
 - [ ] Dutch
 - [ ] Vietnames
+=======
+Здесь будет публиковаться локализация для игры Empyrion: Galactic Survival
+
+[Reforged Eden 2](https://github.com/maximalmax90/EmpyrionLocalization/tree/Reforged-Eden-2)
