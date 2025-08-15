@@ -7711,8 +7711,8 @@
     },
     {
         "bkiPentaxidTank": {
-            "English": "Stores Pentaxid crystals, used for exotic energy applications, like warp jump and shields.",
-            "Russian": "Хранит кристаллы пентаксида, используя их экзотическую энергию для щитов и варп прыжков."
+            "English": "Containment unit used to store highly unstable and radioactive Refined Pentaxid.\\nUsed for a variety of exotic energy applications, such as operating shield systems and performing warp jumps.",
+            "Russian": ""
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 30)[-][/c]",
-            "Russian": "INVENTORY [c][00ffff](РЕ2 Build 30)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 32)[-][/c]",
+            "Russian": "INVENTORY [c][00ffff](РЕ2 Build 32)[-][/c]"
         }
     },
     {
@@ -23341,8 +23341,8 @@
     },
     {
         "Eden_ExplorationScannerCVinfo": {
-            "English": "A station used for the launching of probes and scanning for various anomalies.\\n\\nUsed for science and scanning missions. Available scanning missions will appear under the Science and Scanning section in the PDA when you are in a sector that can be scanned and can be started either in the PDA or by accessing this device.\\nAccessing this device without an available mission does nothing.\\n\\n[c][FFFF00]Do not place items into the inventory of this device.[-][/c]\\nNOTICE: THIS DEVICE IS UNDERGOING TESTING AND MAY NOT WORK AS EXPECTED.",
-            "Russian": "Станция, используемая для запуска зондов и сканирования различных аномалий.\\n\\nИспользуется для научных и сканирующих миссий. Доступные сканирующие миссии будут появляться в разделе Наука и Сканирование в ПДА, когда вы находитесь в секторе, который можно просканировать, и могут быть начаты либо в ПДА, либо путем доступа к этому устройству.\\nДоступ к этому устройству без доступной миссии не дает никакого результата.\\n\\n[c][FFFF00]Не размещайте предметы в инвентаре этого устройства.[-][/c]\\nПРЕДУПРЕЖДЕНИЕ: ЭТО УСТРОЙСТВО НАХОДИТСЯ В СТАДИИ ТЕСТИРОВАНИЯ И МОЖЕТ НЕ РАБОТАТЬ КАК ОЖИДАЕТСЯ."
+            "English": "A station used for the launching of probes and scanning for various anomalies.\\n\\nUsed for science and scanning missions. Available scanning missions will appear under the Science and Scanning section in the PDA when you are in a sector that can be scanned and can be started either in the PDA or by accessing this device.\\nAccessing this device without an available mission does nothing.",
+            "Russian": "Станция, используемая для запуска зондов и сканирования на наличие различных аномалий.\\n\\nИспользуется для научных и сканирующих миссий. Доступные сканирующие миссии будут отображаться в разделе «Наука и сканирование» в ПДА, когда вы находитесь в секторе, который можно просканировать, и могут быть начаты либо в ПДА, либо путем доступа к этому устройству.\\nДоступ к этому устройству без доступной миссии не дает никакого результата."
         }
     },
     {
@@ -29155,8 +29155,8 @@
     },
     {
         "Eden_LoadingTip60": {
-            "English": "Every star you see is a star you can visit.",
-            "Russian": "Каждая звезда, которую вы видите, — это звезда, которую можно посетить."
+            "English": "Nearly every star you see is a star you can visit.",
+            "Russian": "Почти каждая звезда, которую вы видите, является звездой, которую можно посетить."
         }
     },
     {
@@ -29209,14 +29209,14 @@
     },
     {
         "bkiTurretOrange": {
-            "English": "A type of plasma-jacketed laser weapon developed by the Tesch Collective as their main armament. Individually weak, the blaster's high rate of fire causes massive damage through saturation.\\n[c][00FF00]Hybrid Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "Тип плазменного лазерного оружия, разработанного коллективом Тесч в качестве основного вооружения. Индивидуально слабый, высокая скорострельность бластера причиняет огромный ущерб за счет насыщения.\\n[c][00FF00]Гибридный ущерб[-][/c]\\n[c][FF00FF]20 000 единиц ущерба щиту в минуту[-][/c]\\n[c][FF8000]40 000 единиц ущерба в минуту[-][/c]"
+            "English": "A type of plasma-jacketed laser weapon developed by the Tesch Collective as their main armament. Individually weak, the blaster's high rate of fire causes massive damage through saturation.\\n[c][00FF00]Hybrid Damage[-][/c]\\n[c][FF00FF]30,000 Shield Damage per minute[-][/c]\\n[c][FF8000]65,000 Damage per minute[-][/c]",
+            "Russian": "Тип плазменного лазерного оружия, разработанный коллективом Тесч в качестве основного вооружения. Индивидуально слабый, высокая скорострельность бластера наносит огромный ущерб за счет насыщения.\\n[c][00FF00]Гибридный ущерб[-][/c]\\n[c][FF00FF]30 000 единиц ущерба щиту в минуту[-][/c]\\n[c][FF8000]65 000 единиц ущерба в минуту[-][/c]"
         }
     },
     {
         "itmLaserChargeOrange": {
-            "English": "A palladium heat sink designed to cool the firing system of a JSR-type blaster turret.\\n[c][00FF00]Hybrid Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
-            "Russian": "Палладиевый радиатор, предназначенный для охлаждения системы запуска башни типа JSR.\\n[c][00FF00]Гибридный ущерб[-][/c]\\n[c][FF00FF]20 000 единиц ущерба щиту в минуту[-][/c]"
+            "English": "A palladium heat sink designed to cool the firing system of a JSR-type blaster turret.\\n[c][00FF00]Hybrid Damage[-][/c]\\n[c][FF00FF]30,000 Shield Damage per minute[-][/c]",
+            "Russian": "Палладиевый радиатор, предназначенный для охлаждения системы запуска турели типа JSR.\\n[c][00FF00]Гибридный ущерб[-][/c]\\n[c][FF00FF]30,000 единиц ущерба щиту в минуту[-][/c]"
         }
     },
     {
@@ -29400,24 +29400,6 @@
         }
     },
     {
-        "Eden_EffectsBlock_Waterfall": {
-            "English": "Effect Projector (Waterfall)",
-            "Russian": "Эффект Проектор (Водопад)"
-        }
-    },
-    {
-        "Eden_EffectsBlock_Waterfallinfo": {
-            "English": "Projects a hologram of liquid using a mesh of nanites and light. Size can be changed via multitool.",
-            "Russian": "Проектирует голограмму жидкости с помощью сетки нанитов и света. Размер можно изменить через мультитул."
-        }
-    },
-    {
-        "Eden_EffectsBlock_Lavafall": {
-            "English": "Effect Projector (Lavafall)",
-            "Russian": "Проектор Эффекта (Лавапад)"
-        }
-    },
-    {
         "ConsoleAdvancedV4": {
             "English": "Auxiliary Crew Station",
             "Russian": "Вспомогательная Станция Экипажа"
@@ -29571,6 +29553,48 @@
         "Eden_SpacialDistortionEffectinfo": {
             "English": "You feel disoriented.",
             "Russian": "Вы чувствуете себя дезориентированным."
+        }
+    },
+    {
+        "PentaxidTankT2": {
+            "English": "Advanced Pentaxid Tank (Large)",
+            "Russian": "Продвинутый Танк Pentaxid (Большой)"
+        }
+    },
+    {
+        "PentaxidTankSVT2": {
+            "English": "Advanced Pentaxid Tank (Small)",
+            "Russian": "Передовая Танковая Установка Пентаксид (Маленькая)"
+        }
+    },
+    {
+        "bkiPentaxidTankT2": {
+            "English": "Reinforced containment unit with improved radiation shielding, allowing thinner walls for a larger storage capacity of Refined Pentaxid.\\nUsed for a variety of exotic energy applications, such as operating shield systems and performing warp jumps.",
+            "Russian": "Усиленная блокировочная единица с улучшенной радиационной защитой, позволяющая использовать более тонкие стены для увеличения емкости хранения Рefined Pentaxid.\\nИспользуется в различных экзотических энергетических приложениях, таких как эксплуатация щитовых систем и выполнение варповых прыжков."
+        }
+    },
+    {
+        "Eden_TurretTargetPainter": {
+            "English": "Target Painter",
+            "Russian": "Целеуказатель"
+        }
+    },
+    {
+        "Eden_TurretTargetPainterinfo": {
+            "English": "A target painter system that displays a crosshair over its current target to aid in manual target acquisition. Works just like a turret, with the same restrictions and requirements. Can aim straight up but cannot aim down.\\nConfigure target settings in the control panel.\\nRecommended to assign to a shortcut on the control panel for easy toggling.",
+            "Russian": "Система подсветки цели, отображающая прицел над текущей целью для облегчения ручного захвата цели. Работает точно как турель, с теми же ограничениями и требованиями. Может целиться прямо вверх, но не может целиться вниз.\\nНастройте настройки цели в панели управления.\\nРекомендуется присвоить клавиатурную сокращение в панели управления для легкого переключения."
+        }
+    },
+    {
+        "Eden_CrystalWhite": {
+            "English": "Diamonite Crystal",
+            "Russian": "Диамонитовый Кристалл"
+        }
+    },
+    {
+        "Eden_RandomStartinfo": {
+            "English": "This key allows access to a teleporter on the Random starting hub.\\nThis key card can be given to other players or left in the public container in the starting hub to allow another player to follow you to your starting planet.\\n\\nIf you need to return to the starting hub to give a key to another player you may do so by dying or using the destroyme console command then selecting the Fresh Start respawn option.",
+            "Russian": "Этот ключ позволяет получить доступ к телепортёру на случайном стартовом хабе.\\nЭту карту ключа можно передать другим игрокам или оставить в публичном контейнере на стартовом хабе, чтобы разрешить другому игроку следовать за вами на вашу стартовую планету.\\n\\nЕсли вам нужно вернуться на стартовый хаб, чтобы передать ключ другому игроку, вы можете сделать это, умерев или используя консольную команду destroyme, а затем выбрав вариант возрождения Свежий Старт."
         }
     }
 ]
