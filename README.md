@@ -21,7 +21,8 @@ Languages:
 - [ ] Greek
 - [ ] Dutch
 - [ ] Vietnames
-- [ ] 
+
+
 =======
 
 Здесь будет публиковаться локализация для игры Empyrion: Galactic Survival
