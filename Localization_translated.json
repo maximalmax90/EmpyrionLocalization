@@ -7712,7 +7712,7 @@
     {
         "bkiPentaxidTank": {
             "English": "Containment unit used to store highly unstable and radioactive Refined Pentaxid.\\nUsed for a variety of exotic energy applications, such as operating shield systems and performing warp jumps.",
-            "Russian": ""
+            "Russian": "Контейнерный блок используется для хранения высоко нестабильного и радиоактивного Refined Pentaxid.\\nИспользуется в различных экзотических энергетических применениях, таких как работа защитных систем и выполнение warp-прыжков."
         }
     },
     {
@@ -12613,8 +12613,8 @@
     },
     {
         "itmRailgunSlug": {
-            "English": "Heavy ferrous Cobalt-tipped slugs used as ammunition in small bore Railguns. Possess superior penetration against armor but deflect harmlessly off shields.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]2,800 Shield Damage per minute[-][/c]",
-            "Russian": "Тяжелые ферросплавные пули с наконечником из кобальта, используемые в качестве боеприпасов для малокалиберных рельсовых пушек. Обладают превосходной проникающей способностью против брони, но безвредно отклоняются от щитов.\\n[c][00FF00]+25% Ущерба от удара по блокам брони\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]2,800 ущерба щиту в минуту[-][/c]"
+            "English": "Heavy ferrous Cobalt-tipped slugs used as ammunition in small bore Railguns. Possess superior penetration against armor but deflect harmlessly off shields.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]2,500 Shield Damage per minute[-][/c]",
+            "Russian": "Тяжёлые железные снаряды с наконечниками из кобальта, используемые как боеприпасы в рельсовых пушках малого калибра.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]2,500 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -12625,8 +12625,8 @@
     },
     {
         "itmCannonRoundT1": {
-            "English": "30x113mm High Explosive autocannon rounds used in a variety of mobile and static cannons and turrets.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine Size[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
-            "Russian": "30x113мм Высокоэксплозивные патроны для автоматических пушек, используемые в различных мобильных и стационарных пушках и башнях.\\n[c][00FF00]+25% Урон от удара по оружию, пулеметам и бетону\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]5,000 Единиц ущерба брони в минуту[-][/c]"
+            "English": "30x113mm High Explosive autocannon rounds used in a variety of mobile and static cannons and turrets.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
+            "Russian": "30x113mm High Explosive autocannon rounds used in a variety of mobile and static cannons and turrets.[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c][c][FF00FF]5,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -13315,20 +13315,20 @@
     },
     {
         "itmCannonRoundHVT1": {
-            "English": "30x113mm M799 autocannon rounds used in a variety of tank and APC cannons.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Shield Damage vs Bases\\n+100% Magazine Size[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
-            "Russian": "30x113mm M799 автопушечные снаряды используются в различных танковых и БТР пушках.\\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\\n+100% Урон щиту баз\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]5,000 урона щита в минуту[-][/c]"
+            "English": "30x113mm M799 autocannon rounds used in a variety of tank and APC cannons.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Shield Damage vs Bases[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
+            "Russian": "30x113mm M799 автоканонные патроны используются в различных танковых и АПК-канонах.\\n[c][00FF00]+25% Урон от удара против Оружия, Турелей и Бетона\\n+100% Урон щиту против Баз[-][/c]\\n[c][FF00FF]5,000 Урон щиту в минуту[-][/c]"
         }
     },
     {
         "itmCannonRoundHVT2": {
-            "English": "35x228mm autocannon rounds designed for improved penetration with an explosive core.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Shield Damage vs Bases\\n+100% Magazine Size[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]",
-            "Russian": "35x228mm патронов автопушки, предназначенных для улучшения проникновения с взрывным ядром.\\n[c][00FF00]+25% Ущерба от удара по оружию, турелям и бетону\\n+100% Ущерба по щитам баз\\n+100% Размера магазина[-][/c]\\n[c][FF00FF]11 000 ущерба по щиту в минуту[-][/c]"
+            "English": "35x228mm autocannon rounds designed for improved penetration with an explosive core.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Shield Damage vs Bases[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]",
+            "Russian": "35x228мм патроны автоканона, разработанные для улучшенного проникновения с взрывным ядром.\\n[c][00FF00]+25% Урон от удара против оружия, турелей и бетона\\n+100% Урон щитам от баз[-][/c]\\n[c][FF00FF]11 000 урона щитам в минуту[-][/c]"
         }
     },
     {
         "itmCannonRoundT2": {
-            "English": "35x228mm autocannon rounds designed for improved penetration with an explosive core.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine Size[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]",
-            "Russian": "35x228мм автоматический пушка с боеприпасами для улучшенного проникновения с взрывным сердечником.\\n[c][00FF00]+25% Урон от удара против оружия, турелей и бетона\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]11,000 Урона по щитам в минуту[-][/c]"
+            "English": "35x228mm autocannon rounds designed for improved penetration with an explosive core.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]",
+            "Russian": "35x228мм патронов автоканона, разработанных для улучшенного проникновения с взрывным сердечником.\\n[c][00FF00]+25% Урон от удара по оружию, туррете и бетону[-][/c]\\n[c][FF00FF]11 000 урона щитам в минуту[-][/c]"
         }
     },
     {
@@ -13501,38 +13501,38 @@
     },
     {
         "bkiTurretCVCannonT1": {
-            "English": "[sup]A self-targeting 30mm autocannon turret that fires 30x113mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "[sup]Самонаводящаяся башня с 30-мм автоматической пушкой, стреляющая 30x113мм высокоэксплозивными снарядами.[/sup]\\n[c][00FFFF]Может использоваться как в космосе, так и в атмосфере[-][/c]\\n[c][00FF00]+25% Урон от удара по оружию, башням и бетону\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]5,000 урона щиту в минуту[-][/c]\\n[c][FF8000]40,000 урона в минуту[-][/c]"
+            "English": "[sup]A self-targeting 30mm autocannon turret that fires 30x113mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "[sup]Самонаправляемая турель автоканона 30 мм, стреляющая снарядами 30×113 мм высокоэксплозивного типа.[/sup]\\n[c][00FFFF]Может использоваться как в космосе, так и в атмосфере[-][/c]\\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону[-][/c]\\n[c][FF00FF]5 000 урона щитам в минуту[-][/c]\\n[c][FF8000]40 000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiTurretCVCannonT2": {
-            "English": "[sup]A self-targeting 35mm medium cannon turret that fires 35x228mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "[sup]Самонаводящаяся 35-мм средняя пушка с башенным установкой, стреляющая снарядами калибра 35x228 мм.[/sup]\n[c][00FFFF]Может использоваться как в космосе, так и в атмосфере[-][/c]\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\n+100% Размер магазина[-][/c]\n[c][FF00FF]11 000 урона щиту в минуту[-][/c]\n[c][FF8000]80 000 урона в минуту[-][/c]"
+            "English": "[sup]A self-targeting 35mm medium cannon turret that fires 35x228mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "[sup]Самонаправляемая турель среднего калибра 35 мм, стреляющая снарядами 35x228 мм взрывчатого типа.[/sup]\\n[c][00FFFF]Может использоваться как в космосе, так и в атмосфере[-][/c]\\n[c][00FF00]+25% урон от столкновения против оружия, турелей и бетона[-][/c]\\n[c][FF00FF]11 000 урона щитам в минуту[-][/c]\\n[c][FF8000]80 000 урона за минуту[-][/c]"
         }
     },
     {
         "bkiTurretBACannonT1": {
-            "English": "[sup]A self-targeting 30mm autocannon turret that fires 30x113mm high-explosive shells.[/sup]\\n[c][00FF00]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "[sup]Самонаводящаяся башня с 30-мм автоматической пушкой, стреляющей высокоэксплозивными снарядами калибра 30x113 мм.[/sup]\\n[c][00FF00]Может использоваться как в космосе, так и в атмосфере[-][/c]\\n[c][00FF00]+25% урона от удара по оружию, башням и бетону\\n+100% размера магазина[-][/c]\\n[c][FF00FF]5 000 единиц повреждения щита в минуту[-][/c]\\n[c][FF8000]40 000 единиц урона в минуту[-][/c]"
+            "English": "[sup]A self-targeting 30mm autocannon turret that fires 30x113mm high-explosive shells.[/sup]\\n[c][00FF00]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "[sup]Турель самоцелевая автоканон 30 мм, стреляющая боеприпасами высокой взрывчатости 30×113 мм.[/sup]\n[c][00FF00]Можно использовать как в космосе, так и в атмосфере[-][/c]\n[c][00FF00]+25 % урона от столкновений по оружию, турелям и бетону[-][/c]\n[c][FF00FF]5000 урона щиту за минуту[/c]\n[c][FF8000]40000 урона за минуту[/c]"
         }
     },
     {
         "bkiTurretBACannonT2": {
-            "English": "[sup]A self-targeting 35mm medium cannon turret that fires 35x228mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "[sup]Самонаводящаяся 35-мм средняя пушка с башенным установкой, стреляющая снарядами калибра 35x228 мм.[/sup]\n[c][00FFFF]Может использоваться как в космосе, так и в атмосфере[-][/c]\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\n+100% Размер магазина[-][/c]\n[c][FF00FF]11 000 урона щиту в минуту[-][/c]\n[c][FF8000]80 000 урона в минуту[-][/c]"
+            "English": "[sup]A self-targeting 35mm medium cannon turret that fires 35x228mm high-explosive shells.[/sup]\\n[c][00FFFF]Can be used in both Space and Atmosphere[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]11,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "[sup]Турель среднего калибра 35 мм с самонаправлением, стреляющая высокоэксплозивными боеприпасами калибра 35×228 мм.[/sup]\n[c][00FFFF]Можно использовать как в космосе, так и в атмосфере[-][/c]\n[c][00FF00]+25% урон от удара по оружию, турелям и бетону[-][/c]\n[c][FF00FF]11,000 урона щита в минуту[-][/c]\n[c][FF8000]80,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiTurretHVCannonT1": {
-            "English": "[sup]A 30mm Mk66 Bushmaster-2 cannon mounted to an automatic tracking and targeting mount for anti-armor and anti-aircraft bombardment.[/sup]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]2,500 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]",
-            "Russian": "[sup]30-мм пушка Mk66 Bushmaster-2, установленная на автоматическую систему слежения и наведения для борьбы с бронированными целями и воздушными ударами.[/sup]\\n[c][00FF00]+25% Увеличение урона от удара по оружию, башням и бетону\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]2,500 Единиц ущерба брони в минуту[-][/c]\\n[c][FF8000]22,500 Единиц ущерба в минуту[-][/c]"
+            "English": "[sup]A 30mm Mk66 Bushmaster-2 cannon mounted to an automatic tracking and targeting mount for anti-armor and anti-aircraft bombardment.[/sup]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]2,500 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]",
+            "Russian": "[sup]30-мм орудие Mk66 Bushmaster-2, установленное на автоматическую систему слежения и прицеливания для противотанковой и протиповозной бомбардировки.[/sup]\\n[c][00FF00]+25% Урон от столкновения против оружия, башен и бетона[-][/c]\\n[c][FF00FF]2 500 урона щиту в минуту[-][/c]\\n[c][FF8000]22 500 урона в минуту[-][/c]"
         }
     },
     {
         "bkiTurretHVCannonT2": {
-            "English": "[sup]A 35mm Mk23 Bushmaster-3 cannon mounted to a reinforced automatic tracking and targeting mount for anti-armor and anti-aircraft bombardment.[/sup]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]5,500 Shield Damage per minute[-][/c]\\n[c][FF8000]45,500 Damage per minute[-][/c]",
-            "Russian": "[sup]35-мм пушка Mk23 Bushmaster-3, установленная на усиленный автоматический прицельный и следящийся станок для противотанковой и зенитной бомбардировки.[/sup]\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\n+100% Размер магазина[-][/c]\n[c][FF00FF]5,500 урона щиту в минуту[-][/c]\n[c][FF8000]45,500 урона в минуту[-][/c]"
+            "English": "[sup]A 35mm Mk23 Bushmaster-3 cannon mounted to a reinforced automatic tracking and targeting mount for anti-armor and anti-aircraft bombardment.[/sup]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]5,500 Shield Damage per minute[-][/c]\\n[c][FF8000]45,500 Damage per minute[-][/c]",
+            "Russian": "[sup]Кулемет 35 мм Mk23 Bushmaster‑3 установлен на усиленную автоматическую систему слежения и наведения для противотанкового и противовоздушного бомбардирования.[/sup]\\n[c][00FF00]+25% урон от ударов по оружию, туррэтам и бетону[-][/c]\\n[c][FF00FF]5,500 урона щитам в минуту[-][/c]\\n[c][FF8000]45,500 урона в минуту[-][/c]"
         }
     },
     {
@@ -13789,32 +13789,32 @@
     },
     {
         "bkiWeaponSVGatlingT2": {
-            "English": "A medium vehicle-mounted GAU-22/61 Equalizer-III vulcan cannon that fires 20x102mm vulcan rounds at high speed, devastating both aircraft and enemy personnel.\\n[c][00FF00]+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-25% Damage vs Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "Средний транспортный GAU-22/61 пушка Equalizer-III Vulcan, стреляющая 20x102mm боеприпасами Vulcan на высокой скорости, разрушительно воздействующая как на самолеты, так и на вражеский персонал.\n\\n[c][00FF00]+50% Ущерб против существ, войск и дронов[-][/c]\\n[c][FF0000]-25% Ущерб против блоков[-][/c]\\n[c][FF00FF]5,000 ущерба щиту в минуту[-][/c]\\n[c][FF8000]40,000 ущерба в минуту[-][/c]"
+            "English": "A medium vehicle-mounted GAU-22/61 Equalizer-III vulcan cannon that fires 20x102mm vulcan rounds at high speed, devastating both aircraft and enemy personnel.\\n[c][00FF00]+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-20% Damage vs Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "A medium vehicle-mounted GAU-22/61 Equalizer-III vulcan cannon that fires 20x102mm vulcan rounds at high speed, devastating both aircraft and enemy personnel.\\n[c][00FF00]+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-20% Damage vs Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponSVGatlingT3": {
-            "English": "An oversized vehicle-mounted GAU-8/E Avenger heavy vulcan cannon that fires 30x173mm HE-Frag rounds at high speed leaving a swath of death and destruction in it's wake.\\n[c][00FF00]Explosive Projectiles\\n+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-25% Damage vs Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Переделанная пушка GAU-8/E Avenger на базе транспортного средства, стреляющая 30x173 мм осколочно-фугасными снарядами с высокой скоростью, оставляя за собой след смерти и разрушений.\\n[c][00FF00]Взрывчатые боеприпасы\\n+50% Урона против Созданий, Пехоты и Дронов[-][/c]\\n[c][FF0000]-25% Урона против Блоков[-][/c]\\n[c][FF00FF]10,000 Урона по Щитам в минуту[-][/c]\\n[c][FF8000]80,000 Урона в минуту[-][/c]"
+            "English": "An oversized vehicle-mounted GAU-8/E Avenger heavy vulcan cannon that fires 30x173mm HE-Frag rounds at high speed leaving a swath of death and destruction in it's wake.\\n[c][00FF00]Explosive Projectiles\\n+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-15% Damage vs Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "An oversized vehicle-mounted GAU-8/E Avenger heavy vulcan cannon that fires 30x173mm HE-Frag rounds at high speed leaving a swath of death and destruction in it's wake.\\n[c][00FF00]Взрывные снаряды\\n+50% урон против существ, войск и дронов[-][/c]\\n[c][FF0000]-15% урон против блоков[-][/c]\\n[c][FF00FF]10,000 урона щитов в минуту[-][/c]\\n[c][FF8000]80,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponHVCannonT1": {
-            "English": "A Light vehicle-mounted 30mm autocannon based on the Bushmaster-II that fires 30x113mm explosive rounds in rapid succession.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]3,000 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]",
-            "Russian": "Лёгкая самоходная 30-мм автоматическая пушка на базе Bushmaster-II, стреляющая 30x113мм взрывными снарядами в быстрой последовательности.\\n[c][00FF00]+25% Урон от удара по оружию, башням и бетону\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]3,000 Единиц щитового урона в минуту[-][/c]\\n[c][FF8000]22,500 Единиц урона в минуту[-][/c]"
+            "English": "A Light vehicle-mounted 30mm autocannon based on the Bushmaster-II that fires 30x113mm explosive rounds in rapid succession.\\n[c][00FF00]+33% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]3,000 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]",
+            "Russian": "Небольшой автоканон 30 мм, установленный на транспортном средстве, основанный на модели Bushmaster-II, который стреляет взрывными патронами 30×113 мм в быстрой последовательности.\\n[c][00FF00]+33% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]3,000 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponHVCannonT2": {
-            "English": "A Medium vehicle-mounted 35mm Cannon based on the Bushmaster-III that fires 35x228mm High-Explosive rounds in rapid succession.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+100% Magazine size[-][/c]\\n[c][FF00FF]6,000 Shield Damage per minute[-][/c]\\n[c][FF8000]45,500 Damage per minute[-][/c]",
-            "Russian": "Средняя пушка 35мм на базе Bushmaster-III, стреляющая 35x228 мм осколочными снарядами в быстрой последовательности.\\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\\n+100% Размер магазина[-][/c]\\n[c][FF00FF]6,000 Урона щиту в минуту[-][/c]\\n[c][FF8000]45,500 Урона в минуту[-][/c]"
+            "English": "A Medium vehicle-mounted 35mm Cannon based on the Bushmaster-III that fires 35x228mm High-Explosive rounds in rapid succession.\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete[-][/c]\\n[c][FF00FF]6,000 Shield Damage per minute[-][/c]\\n[c][FF8000]45,500 Damage per minute[-][/c]",
+            "Russian": "Средняя 35-мм пушка на транспортном средстве, основанная на модели Bushmaster-III, которая выпускает высокоэксплозивные патроны 35×228 мм в быстрой последовательности.\n[c][00FF00]+40% Урон от удара против Оружия, Турелей и Бетона[-][/c]\n[c][FF00FF]6,000 Урон щита в минуту[-][/c]\n[c][FF8000]45,500 Урон в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponHVCannonT3": {
-            "English": "A Heavy vehicle-mounted 120mm Main Gun based on the Rh-120 that fires 120x570mm High-Explosive Anti-Tank rounds for both long-ranged bombardment and anti-tank combat.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Тяжелая самоходная 120-мм основная пушка на базе Rh-120, которая стреляет 120x570мм Высоко-Взрывными Противотанковыми снарядами как для дальнобойного обстрела, так и для противотанкового боя.\\n[c][00FF00]+25% Ударный ущерб по оружию, башням и бетону\\n+50% Взрывной ущерб по броне HV/SV[-][/c]\\n[c][FF00FF]10 000 ед. щитового ущерба в минуту[-][/c]\\n[c][FF8000]80 000 ед. ущерба в минуту[-][/c]"
+            "English": "A Heavy vehicle-mounted 120mm Main Gun based on the Rh-120 that fires 120x570mm High-Explosive Anti-Tank rounds for both long-ranged bombardment and anti-tank combat.\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "A Heavy vehicle-mounted 120mm Main Gun based on the Rh-120 that fires 120x570mm High-Explosive Anti-Tank rounds for both long-ranged bombardment and anti-tank combat.\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]"
         }
     },
     {
@@ -13861,14 +13861,14 @@
     },
     {
         "bkiWeaponSVRailgunT1": {
-            "English": "A vehicle-mounted kinetic weapon that uses electromagnetically charged rails to propel a heavy metal slug at high-velocity towards a target.\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]2,800 Shield Damage per minute[-][/c]\\n[c][FF8000]22,500 Damage per minute[-][/c]",
-            "Russian": "Транспортное средство-монтированное кинетическое оружие, которое использует электромагнитно-заряженные рельсы для выстрела тяжелым металлическим снарядом на высокой скорости в сторону цели.\\n[c][00FF00]+25% Ущерба от удара по блочным металлическим доспехам\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]2,800 Ущерба по щиту в минуту[-][/c]\\n[c][FF8000]22,500 Ущерба в минуту[-][/c]"
+            "English": "A vehicle-mounted kinetic weapon that uses electromagnetically charged rails to propel a heavy metal slug at high-velocity towards a target.\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]2,800 Shield Damage per minute[-][/c]\\n[c][FF8000]20,000 Damage per minute[-][/c]",
+            "Russian": "Кинетическое оружие, установленное на транспортном средстве, использующее электромагнитно заряженные рельсы для ускорения тяжелой металлической пули с высокой скоростью к цели.\\n[c][00FF00]+25% Урон от столкновения против металлических блоков брони[-][/c]\\n[c][FF00FF]2,800 урона щитам в минуту[-][/c]\\n[c][FF8000]20,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponSVRailgunT2": {
-            "English": "An improved Medium Railgun with a reinforced barrel that prevents warping from the higher magnetic forces being used to launch heavier slugs.\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]5,700 Shield Damage per minute[-][/c]\\n[c][FF8000]45,500 Damage per minute[-][/c]",
-            "Russian": "Улучшенная Средняя Пушка с усиленным стволом, предотвращающим деформацию от более высоких магнитных сил, используемых для запуска тяжелых снарядов.\\n[c][00FF00]+25% Урон по Металлическим Блокам Брони\\n+50% Размер Магазина[-][/c]\\n[c][FF00FF]5700 урона щиту в минуту[-][/c]\\n[c][FF8000]45,500 урона в минуту[-][/c]"
+            "English": "An improved Medium Railgun with a reinforced barrel that prevents warping from the higher magnetic forces being used to launch heavier slugs.\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]5,700 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "Усовершенствованный средний райлган с усиленным стволом, который предотвращает деформацию от более высоких магнитных сил, используемых для запуска тяжелых снарядов.\n[c][00FF00]+25% Урон от удара против Металлических Бронеблоков[-][/c]\n[c][FF00FF]5 700 урона щитам в минуту[-][/c]\n[c][FF8000]40 000 урона в минуту[-][/c]"
         }
     },
     {
@@ -13939,44 +13939,44 @@
     },
     {
         "bkiWeaponCVCannonT1": {
-            "English": "A 100m Light Naval Cannon that's been adapted for use in space firing kinetic penetrator rounds with improved performance against thrusters and weapons.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+20% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "100м Легкая Морская Пушка, адаптированная для использования в космосе, стреляющая кинетическими пробивающими снарядами с улучшенной производительностью против движков и оружия.\\n[c][FFBB00]Может использоваться только в Космосе[-][/c]\\n[c][00FF00]+25% Ударного урона по Оружию, Турелям и Бетону\\n+20% Взрывного урона по Двигателям[-][/c]\\n[c][FF00FF]5,000 Урона Щиту в минуту[-][/c]\\n[c][FF8000]40,000 Урона в минуту[-][/c]"
+            "English": "A 100m Light Naval Cannon that's been adapted for use in space firing kinetic penetrator rounds with improved performance against thrusters and weapons.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+30% Impact Damage vs Weapons, Turrets and Concrete\\n+20% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "A 100m Light Naval Cannon that's been adapted for use in space firing kinetic penetrator rounds with improved performance against thrusters and weapons.\n[c][FFBB00]Может использоваться только в Космосе[-][/c]\n[c][00FF00]+30% Impact Damage vs Weapons, Turrets and Concrete\n+20% Blast Damage vs Thrusters[-][/c]\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\n[c][FF8000]40,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT2Group": {
-            "English": "127mm Medium Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "127мм Средние Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Может быть использовано только в Космосе[-][/c]\\n[c][00FF00]+25% Ударного Урона против Оружия, Пушек и Бетона\\n+35% Взрывного Урона против Двигателей[-][/c]\\n[c][FF00FF]10,000 Единиц Щитового Урона в минуту[-][/c]\\n[c][FF8000]80,000 Единиц Урона в минуту[-][/c]"
+            "English": "127mm Medium Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "127 мм средние орудия для использования на военных кораблях.\\n[c][FFFFFF]Нажмите RMB, чтобы выбрать вариант[-][/c]\\n[c][FFBB00]Можно использовать только в космосе[-][/c]\\n[c][00FF00]+40 % урон от удара против оружия, турелей и бетона\\n+35 % взрывной урон против реактивов[-][/c]\\n[c][FF00FF]10 000 урона щитам в минуту[-][/c]\\n[c][FF8000]80 000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT2": {
-            "English": "A pair of 127mm Medium Cannons embedded in an armored turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Пара 127-мм Средних Пушек, встроенных в бронированную турельную установку, содержащую систему загрузки и охлаждения, необходимую для работы оружия в вакууме.\\n[c][FFBB00]Может быть использована только в Космосе[-][/c]\\n[c][00FF00]+33% Устойчивость к взрывам\\n+25% Урон от удара по Оружию, Турелям и Бетону\\n+35% Взрывной урон по Двигателям[-][/c]\\n[c][FF00FF]10,000 Урона Щиту в минуту[-][/c]\\n[c][FF8000]80,000 Урона в минуту[-][/c]"
+            "English": "A pair of 127mm Medium Cannons embedded in an armored turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+40% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "A pair of 127mm Medium Cannons embedded in an armored turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+40% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT2V2": {
-            "English": "Alternating 127mm Medium Cannons embedded in an linear frame that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Чередующиеся 127мм средние пушки, встроенные в линейную раму, содержащую систему загрузки и охлаждения, необходимую для работы оружия в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% урона от удара по оружию, турелям и бетону\\n+35% урона от взрыва по двигателям[-][/c]\\n[c][FF00FF]10 000 единиц урона щита в минуту[-][/c]\\n[c][FF8000]80 000 единиц урона в минуту[-][/c]"
+            "English": "Alternating 127mm Medium Cannons embedded in an linear frame that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Alternating 127mm Medium Cannons embedded in an linear frame that contains the loading and cooling system necessary to operate the weapon in a vacuum.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+35% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]10,000 урона щитам в минуту[-][/c]\\n[c][FF8000]80,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT3Group": {
-            "English": "155mm Heavy Artillery Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "155-мм Тяжёлые Артиллерийские Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB для выбора варианта[-][/c]\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\\n+50% Взрывной урон по двигателям[-][/c]\\n[c][FF00FF]20,000 Урона щиту в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
+            "English": "155mm Heavy Artillery Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+50% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "155-mm Тяжелые Артиллерийские Орудия для использования на Военных Кораблях.\\n[c][FFFFFF]Выберите вариант RMB[-][/c]\\n[c][FFBB00]Можно использовать только в Космосе[-][/c]\\n[c][00FF00]+50% Урон от Влияния против Оружия, Турантов и Конкретного материала\\n+50% Урон от Взрыва против Двигателей[-][/c]\\n[c][FF00FF]20,000 Урона щиту в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT3": {
-            "English": "Advanced 155mm Triple-Barreled Heavy Cannons embedded in a Battleship turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Передовые 155мм трёхствольные тяжёлые пушки, встроенные в башенную установку линкора, содержащую систему загрузки и охлаждения, необходимую для работы оружия в вакууме на скорости, требуемой для эффективного функционирования как эффективное оружие.\\n[c][FFBB00]Может использоваться только в Космосе[-][/c]\\n[c][00FF00]+33% Сопротивление взрыву\\n+25% Урон от удара по оружию, башням и бетону\\n+50% Взрывной урон по двигателям[-][/c]\\n[c][FF00FF]20 000 ед. щитового урона в минуту[-][/c]\\n[c][FF8000]160 000 ед. урона в минуту[-][/c]"
+            "English": "Advanced 155mm Triple-Barreled Heavy Cannons embedded in a Battleship turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+50% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Advanced 155mm Triple-Barreled Heavy Cannons embedded in a Battleship turret mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+50% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVCannonT3V2": {
-            "English": "Alternating 155mm Triple-Barreled Heavy Cannons in a spinal mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Переключающиеся 155-мм триплетные тяжелые пушки в спинальном монтаже, содержащие систему загрузки и охлаждения, необходимую для работы оружия в вакууме на скорости, требуемой для эффективного функционирования как оружие.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% Урон от удара по оружию, турелям и бетону\\n+50% Взрывной урон по двигателям[-][/c]\\n[c][FF00FF]20,000 Урона щиту в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
+            "English": "Alternating 155mm Triple-Barreled Heavy Cannons in a spinal mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+50% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Alternating 155mm Triple-Barreled Heavy Cannons in a spinal mount that contains the loading and cooling system necessary to operate the weapon in a vacuum at the speed required to function as an effective weapon.\\n[c][FFBB00]Может использоваться только в Космосе[-][/c]\\n[c][00FF00]+50% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs Thrusters[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]"
         }
     },
     {
@@ -14065,44 +14065,44 @@
     },
     {
         "bkiWeaponCVRailgunT1": {
-            "English": "A lightweight kinetic weapon that uses electromagnetically charged rails to propel a heavy metal slug at near-light speeds, dealing high penetrative damage.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]6,000 Shield Damage per minute[-][/c]\\n[c][FF8000]48,000 Damage per minute[-][/c]",
-            "Russian": "Лёгкое кинетическое оружие, которое использует электромагнитные заряженные рельсы для выстрела тяжёлым металлическим снарядом на скоростях, близких к световым, нанося огромный проникающий ущерб.\\n[c][FFBB00]Может быть использовано только в Космосе[-][/c]\\n[c][00FF00]+25% Ударного ущерба против металлических бронеблоков\\n+50% Размера магазина[-][/c]\\n[c][FF00FF]6,000 Единиц щитового ущерба в минуту[-][/c]\\n[c][FF8000]48,000 Единиц ущерба в минуту[-][/c]"
+            "English": "A lightweight kinetic weapon that uses electromagnetically charged rails to propel a heavy metal slug at near-light speeds, dealing high penetrative damage.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "A lightweight kinetic weapon that uses electromagnetically charged rails to propel a heavy metal slug at near-light speeds, dealing high penetrative damage.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT2Group": {
-            "English": "Reinforced Medium Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]12,000 Shield Damage per minute[-][/c]\\n[c][FF8000]86,200 Damage per minute[-][/c]",
-            "Russian": "Усиленные Средние РЖД для использования на Военных Кораблях.\\n[c][FFFFFF]RMB для выбора варианта[-][/c]\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% Урон от удара по Блоки из Металлической брони\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]12,000 урона щиту в минуту[-][/c]\\n[c][FF8000]86,200 урона в минуту[-][/c]"
+            "English": "Reinforced Medium Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Reinforced Medium Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT2": {
-            "English": "A pair of reinforced Medium Railguns embedded in an armored turret mount that contains the transformers and capacitor banks necessary to operate the weapon at high speeds.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]12,000 Shield Damage per minute[-][/c]\\n[c][FF8000]86,200 Damage per minute[-][/c]",
-            "Russian": "Пара усиленных средних рельсовых пушек, встроенных в бронированную башенную установку, содержащую трансформаторы и конденсаторные батареи, необходимые для работы оружия на высоких скоростях.\\n[c][FFBB00]Может быть использовано только в Космосе[-][/c]\\n[c][00FF00]+33% Сопротивление взрыву\\n+25% Урон от удара по металлическим бронеблокам\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]12 000 урона щиту в минуту[-][/c]\\n[c][FF8000]86 200 урона в минуту[-][/c]"
+            "English": "A pair of reinforced Medium Railguns embedded in an armored turret mount that contains the transformers and capacitor banks necessary to operate the weapon at high speeds.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Пара усиленных средних рельсотронов, встроенных в бронированную башенную установку, содержащую трансформаторы и банки конденсаторов, необходимые для работы оружия на высоких скоростях.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% Устойчивость к взрыву\\n+25% Урон от удара против металлических бронированных блоков[-][/c]\\n[c][FF00FF]10,000 урон щитам за минуту[-][/c]\\n[c][FF8000]80,000 урон за минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT2V2": {
-            "English": "A set of multi-barrel Medium Railguns embedded in a linear frame that contains the transformers and capacitor banks necessary to operate the weapon at high speeds.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]12,000 Shield Damage per minute[-][/c]\\n[c][FF8000]86,200 Damage per minute[-][/c]",
-            "Russian": "Набор многозарядных Средних Рельсотронов, встроенных в линейный каркас, содержащий трансформаторы и конденсаторные батареи, необходимые для работы оружия на высоких скоростях.\n[c][FFBB00]Может использоваться только в космосе[-][/c]\n[c][00FF00]+25% Урон от удара по Блокам Металлической Брони\n+50% Размер магазина[-][/c]\n[c][FF00FF]12,000 Урона по Щитам в минуту[-][/c]\n[c][FF8000]86,200 Урона в минуту[-][/c]"
+            "English": "A set of multi-barrel Medium Railguns embedded in a linear frame that contains the transformers and capacitor banks necessary to operate the weapon at high speeds.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Набор многоствольных средних рельсотронов, встроенных в линейный каркас, содержащий трансформаторы и банки конденсаторов, необходимые для работы оружия на высоких скоростях.\\n[c][FFBB00]Может использоваться только во Вселенной[-][/c]\\n[c][00FF00]+25% Урон от удара против Металлических Блоков Обороны[-][/c]\\n[c][FF00FF]10 000 Урона Щиту в минуту[-][/c]\\n[c][FF8000]80 000 Урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT3Group": {
-            "English": "Battleship-level Heavy Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\nHull-Damaging Explosive Impacts[-][/c]\\n[c][FF00FF]24,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Броненосец-уровень Тяжелых Рельсовых Пушек для использования на Военных Кораблях.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Можно использовать только в Космосе[-][/c]\\n[c][00FF00]+25% Ударного Урона против Блоков Броневой Арматуры\\nВзрывные Удары, Повреждающие Корпус[-][/c]\\n[c][FF00FF]24,000 Щитового Урона в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
+            "English": "Battleship-level Heavy Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\nHull-Damaging Explosive Impacts[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Battleship-level Heavy Railguns for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\nHull-Damaging Explosive Impacts[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT3": {
-            "English": "Advanced Triple-Barreled Heavy Railguns embedded in a Battleship turret mount that contains the transformers, regulators and infrastructure necessary to fire super-heavy slugs at near-light speeds. The speeds achieved unfortunately result in the slugs vaporizing explosively instead of piercing.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Metal Armor Blocks\\nHull-Damaging Explosive Impacts[-][/c]\\n[c][FF00FF]24,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Продвинутые трёхствольные тяжелые рельсотроны, встроенные в башню линкора, содержат трансформаторы, регуляторы и инфраструктуру, необходимые для выстрела сверхтяжелых снарядов со скоростями, близкими к световым. Достигаемые скорости, к сожалению, приводят к тому, что снаряды взрываются и испаряются вместо пробивания.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% Устойчивость к взрывам\\n+25% Урон от удара по металлическим блокам брони\\nВзрывные удары, наносящие урон корпусу[-][/c]\\n[c][FF00FF]24,000 урона щиту в минуту[-][/c]\\n[c][FF8000]160,000 урона в минуту[-][/c]"
+            "English": "Advanced Triple-Barreled Heavy Railguns embedded in a Battleship turret mount that contains the transformers, regulators and infrastructure necessary to fire super-heavy slugs at near-light speeds. The speeds achieved unfortunately result in the slugs vaporizing explosively instead of piercing.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Impact Damage vs Metal Armor Blocks\\nHull-Damaging Explosive Impacts[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Продвинутые тройные тяжелые рельсоганны, встроенные в башню боевого корабля, содержащую трансформаторы, регуляторы и инфраструктуру, необходимые для выстрела сверхтяжелыми снарядами со скоростью близкой к свету.  \nПолученные скорости, к сожалению, приводят к тому, что снаряды взрывообразно испаряются вместо того чтобы пробивать.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% Устойчивость к взрывам\\n+25% Урон от столкновений против металлических панелей брони\\nВзрывы, повреждающие корпус[-][/c]\\n[c][FF00FF]20 000 урона щитам в минуту[-][/c]\\n[c][FF8000]160 000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVRailgunT3V2": {
-            "English": "A Super-Heavy Mass Accelerator Cannon in a Spinal Frame that contains the transformers, regulators and infrastructure necessary to fire super-heavy slugs at near-light speeds. The speeds achieved unfortunately result in the slugs vaporizing explosively instead of piercing.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\nCatastrophic Explosive Detonations[-][/c]\\n[c][FF00FF]24,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Сверхтяжелая Ускоряющая Пушка в Спинном Каркасе, содержащая трансформаторы, регуляторы и инфраструктуру, необходимые для выстрела сверхтяжелыми снарядами на скоростях, близких к скорости света. К сожалению, достигаемые скорости приводят к тому, что снаряды взрываться парообразно вместо пробивания.\\n[c][FFBB00]Может быть использована только в Космосе[-][/c]\\n[c][00FF00]+25% Урон от Удара по Блокам Броневой Обороны\\nКатастрофические Взрывные Детонации[-][/c]\\n[c][FF00FF]24,000 Ущерба Щиту в минуту[-][/c]\\n[c][FF8000]160,000 Ущерба в минуту[-][/c]"
+            "English": "A Super-Heavy Mass Accelerator Cannon in a Spinal Frame that contains the transformers, regulators and infrastructure necessary to fire super-heavy slugs at near-light speeds. The speeds achieved unfortunately result in the slugs vaporizing explosively instead of piercing.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Impact Damage vs Metal Armor Blocks\\nCatastrophic Explosive Detonations[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Супер-тяжёлый ускоритель массы в спинальном каркасе, содержащий трансформаторы, регуляторы и инфраструктуру, необходимые для запуска сверхтяжелых снарядов со скоростью близкой к свету. Достигнутые скорости, к сожалению, приводят к тому, что снаряды взрывоопасно испаряются вместо того чтобы пробивать.\\n[c][FFBB00]Можно использовать только в космосе[-][/c]\\n[c][00FF00]+25% Урон от ударов по металлическим бронзированным блокам[-][/c]\\n[c][FF00FF]Катастрофические взрывные детонации[-][/c]\\n[c][FF0000]20,000 урона щита в минуту[-][/c]\\n[c][FF8000]160,000 урона в минуту[-][/c]"
         }
     },
     {
@@ -17539,8 +17539,8 @@
     },
     {
         "itmRailgunSlugT2": {
-            "English": "A cobalt-steel penetrator with a neodymium core that can be accelerated to supersonic speeds in under a second. The lack of casing or propellant means more rounds can be carried in the same space over conventional cannon shells.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]5,700 Shield Damage per minute[-][/c]",
-            "Russian": "Кобальт-стальной проникатель с неодимовым сердцевиной, который может быть ускорен до сверхзвуковых скоростей менее чем за секунду. Отсутствие гильзы или взрывчатого вещества означает, что больше патронов можно переносить в том же пространстве по сравнению с обычными артиллерийскими снарядами.\\n[c][00FF00]+25% Урон от удара по Блокам Брони\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]5,700 Урона Щиту в минуту[-][/c]"
+            "English": "A cobalt-steel penetrator with a neodymium core that can be accelerated to supersonic speeds in under a second. The lack of casing or propellant means more rounds can be carried in the same space over conventional cannon shells.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
+            "Russian": "Пенетратор из кобальтовой стали с ядром неодима, который может быть ускорен до сверхзвуковых скоростей менее чем за секунду.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -17563,8 +17563,8 @@
     },
     {
         "itmGatlingRoundT3": {
-            "English": "PGU-14/B contains a 30mm aluminium-jacketed sathium alloy penetrating core packed with an incendiary charge. Unlike most rounds that use brass or steel casing, these rounds use aluminium cases to save additional weight.\\n[c][00FF00]Explosive Projectiles\\n+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-25% Damage vs Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "PGU-14/B содержит 30-мм алюминиевый стержень из сплава сатия, заполненный зажигательной начинкой. В отличие от большинства патронов, использующих латунные или стальные гильзы, эти патроны используют алюминиевые гильзы для экономии дополнительного веса.\\n[c][00FF00]Взрывчатые Снаряды\\n+50% Урона против Существ, Пехоты и Дронов[-][/c]\\n[c][FF0000]-25% Урона против Блоков[-][/c]\\n[c][FF00FF]10,000 Щитовых Урона в минуту[-][/c]"
+            "English": "PGU-14/B contains a 30mm aluminium-jacketed sathium alloy penetrating core packed with an incendiary charge. Unlike most rounds that use brass or steel casing, these rounds use aluminium cases to save additional weight.\\n[c][00FF00]Explosive Projectiles\\n+50% Damage vs Creatures, Troops and Drones[-][/c]\\n[c][FF0000]-15% Damage vs Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "PGU-14/B содержит 30‑мм алюминиевый корпус с проникающим ядром из сплава сатия, заполненным огнеметной зарядкой. В отличие от большинства патронов, использующих латунные или стальные гильзы, эти патроны используют алюминиевые гильзы для экономии дополнительного веса.\\n[c][00FF00]Взрывчатые снаряды\\n+50% урон против существ, войск и дронов[-][/c]\\n[c][FF0000]-15% урон против блоков[-][/c]\\n[c][FF00FF]10 000 урона щитам в минуту[-][/c]"
         }
     },
     {
@@ -17623,14 +17623,14 @@
     },
     {
         "itmRailgunSlugCVT1": {
-            "English": "A dense cobalt steel projectile with a neodymium core used as ammunition in the Fleet's primary long-ranged kinetic railgun. Possess superior penetration against armor but easily deflected by energy shields.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
-            "Russian": "Плотный кобальтовый стальной снаряд с неодимовым сердечником, используемый в качестве боеприпасов для основного дальнобойного кинетического рельсотрона Флота. Обладает превосходной проникающей способностью против брони, но легко отклоняется энергетическими щитами.\\n[c][00FF00]+25% Урон от удара по Блокам Брони\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]5,000 Урона Щитам в минуту[-][/c]"
+            "English": "A dense cobalt steel projectile with a neodymium core used as ammunition in the Fleet's primary long-ranged kinetic railgun. Possess superior penetration against armor but easily deflected by energy shields.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
+            "Russian": "Тяжёлый снаряд из кобальтовой стали с ядром неодима, используемый в качестве боеприпасов для основного дальнего кинетического рельсотроса флота. Обладает превосходной проникающей способностью против брони, но легко отклоняется энергетическими щитами.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]"
         }
     },
     {
         "itmRailgunSlugCVT2": {
-            "English": "A superconductive sathium penetrator with a neodymium core that can be accelerated to hypersonic speeds in under a second. The lack of casing or propellant means more rounds can be carried in the same space over conventional cannon shells.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks\\n+50% Magazine Size[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "Сверхпроводящий сатхиевый проникатель с сердечником из неодима, который может ускоряться до гиперзвуковых скоростей менее чем за секунду. Отсутствие корпуса или рабочего тела означает, что можно нести больше выстрелов в том же пространстве, чем конвенциональные снаряды.\\n[c][00FF00]+25% Урон от удара по бронеблокам\\n+50% Размер магазина[-][/c]\\n[c][FF00FF]10,000 Единиц урона щита в минуту[-][/c]"
+            "English": "A superconductive sathium penetrator with a neodymium core that can be accelerated to hypersonic speeds in under a second. The lack of casing or propellant means more rounds can be carried in the same space over conventional cannon shells.\\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "Сверхпроводящий сатийный проникающий снаряд с ядром из неодима, который может быть ускорен до гиперзвуковых скоростей менее чем за секунду. Отсутствие корпуса или пороха позволяет перевозить больше боеприпасов в том же объёме, чем обычные пушечные снаряды.\n[c][00FF00]+25% Impact Damage vs Armor Blocks[-][/c]\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 32)[-][/c]",
-            "Russian": "INVENTORY [c][00ffff](РЕ2 Build 32)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 33)[-][/c]",
+            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Сборка 33)[-][/c]"
         }
     },
     {
