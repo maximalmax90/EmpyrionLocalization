@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 33)[-][/c]",
-            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Сборка 33)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 34)[-][/c]",
+            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 34)[-][/c]"
         }
     },
     {
@@ -21181,73 +21181,73 @@
     },
     {
         "MS,GV": {
-            "English": "[c][ffe74d]Capital Vessel[-][/c], [c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][ffe74d]Капитальный Корабль[-][/c], [c][3AE6FF]Надводный Корабль[-][/c]"
+            "English": "[c][ffe74d]CV[-][/c], [c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][ffe74d]Резюме[-][/c], [c][3AE6FF]Здоровье[-][/c]"
         }
     },
     {
         "MS,SS": {
-            "English": "[c][ffe74d]Capital Vessel[-][/c], [c][34c200]Small Vessel[-][/c]",
-            "Russian": "[c][ffe74d]БС[-][/c], [c][34c200]МС[-][/c]"
+            "English": "[c][ffe74d]CV[-][/c], [c][34c200]SV[-][/c]",
+            "Russian": "[c][ffe74d]РЕЗЮМЕ[-][/c], [c][34c200]СВ[-][/c]"
         }
     },
     {
         "MS,SS,GV": {
-            "English": "[c][ffe74d]Capital Vessel[-][/c], [c][34c200]Small Vessel[-][/c], [c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][ffe74d]Капитальный Корабль[-][/c], [c][34c200]Малый Корабль[-][/c], [c][3AE6FF]Надводный Корабль[-][/c]"
+            "English": "[c][ffe74d]CV[-][/c], [c][34c200]SV[-][/c], [c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][ffe74d]КВ[-][/c], [c][34c200]СВ[-][/c], [c][3AE6FF]ГВ[-][/c]"
         }
     },
     {
         "Base,MS": {
-            "English": "[c][ff7300]Base[-][/c], [c][ffe74d]Capital Vessel[-][/c]",
-            "Russian": "[c][ff7300]БА[-][/c], [c][ffe74d]БС[-][/c]"
+            "English": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c]",
+            "Russian": "[c][ff7300]БА[-][/c], [c][ffe74d]ЦВ[-][/c]"
         }
     },
     {
         "Base,MS,GV": {
-            "English": "[c][ff7300]Base[-][/c], [c][ffe74d]Capital Vessel[-][/c], [c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][ff7300]База[-][/c], [c][ffe74d]Капитальный корабль[-][/c], [c][3AE6FF]Навесной корабль[-][/c]"
+            "English": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], [c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], [c][3AE6FF]HV[-][/c]"
         }
     },
     {
         "Base,MS,SS,GV": {
-            "English": "[c][ff7300]Base[-][/c], [c][ffe74d]Capital Vessel[-][/c], [c][34c200]Small Vessel[-][/c], [c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][ff7300]БА[-][/c], [c][ffe74d]БС[-][/c], [c][34c200]МС[-][/c], [c][3AE6FF]ПС[-][/c]"
+            "English": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], [c][34c200]SV[-][/c], [c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], [c][34c200]SV[-][/c], [c][3AE6FF]HV[-][/c]"
         }
     },
     {
         "Base,MS,Terrain": {
-            "English": "[c][ff7300]Base[-][/c], [c][ffe74d]Capital Vessel[-][/c], Terrain",
-            "Russian": "[c][ff7300]База[-][/c], [c][ffe74d]Капитальный Корабль[-][/c], Территория"
+            "English": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], Terrain",
+            "Russian": "[c][ff7300]BA[-][/c], [c][ffe74d]CV[-][/c], Территория"
         }
     },
     {
         "SS,GV": {
-            "English": "[c][34c200]Small Vessel[-][/c], [c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][34c200]МС[-][/c], [c][3AE6FF]ПС[-][/c]"
+            "English": "[c][34c200]SV[-][/c], [c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][34c200]SV[-][/c], [c][3AE6FF]HV[-][/c]"
         }
     },
     {
         "GV": {
-            "English": "[c][3AE6FF]Hover Vessel[-][/c]",
-            "Russian": "[c][3AE6FF]Судно Для Ховера[-][/c]"
+            "English": "[c][3AE6FF]HV[-][/c]",
+            "Russian": "[c][3AE6FF]HV[-][/c]"
         }
     },
     {
         "SS": {
-            "English": "[c][34c200]Small Vessel[-][/c]",
-            "Russian": "[c][34c200]МС[-][/c]"
+            "English": "[c][34c200]SV[-][/c]",
+            "Russian": "[c][34c200]СВ[-][/c]"
         }
     },
     {
         "MS": {
-            "English": "[c][ffe74d]Capital Vessel[-][/c]",
-            "Russian": "[c][ffe74d]Капитальный Корабль[-][/c]"
+            "English": "[c][ffe74d]CV[-][/c]",
+            "Russian": "[c][ffe74d]Резюме[-][/c]"
         }
     },
     {
         "Base": {
-            "English": "[c][ff7300]Base[-][/c]",
+            "English": "[c][ff7300]BA[-][/c]",
             "Russian": "[c][ff7300]БА[-][/c]"
         }
     },
@@ -21450,12 +21450,6 @@
         }
     },
     {
-        "ttwEden_TechTreeProgenitor": {
-            "English": "[c][69F5CD]Research & Schematics[-][/c]",
-            "Russian": "Исследования и схемы"
-        }
-    },
-    {
         "Eden_Supportinfo": {
             "English": "[c][00ffff]>>>Read the PDA First[-][/c] [sup][c][ffff00](F1)[-][/c][/sup][c][00ffff]<<<[-][/c][sup]\\n\\n[c][00ffff]Missions:[-][/c] Missions are managed under the Solo Missions tab. Start completing the Reforged Galaxy or Project Eden story missions to unlock additional missions.\\n[c][00ffff]Empyriopedia:[-][/c] Contains a comprehensive encyclopedia of the scenario and can answer many of your questions. Additional entries are unlocked as you progress through the scenario.\\n[c][00ffff]Journey Book:[-][/c] Shows a log of previous mission dialog.\\n\\n[c][00ffff]Tooltips:[-][/c] Tooltips provide important information on many items and devices. Mouse over any item in your inventory, constructor, or tech tree to view details.\\n\\n[c][00ffff]Planets and Sectors:[-][/c] Planets and sectors in the current solar system are scanned and a basic description of each can be viewed on the local or solar system map.\\n\\n[c][00ffff]Galaxy:[-][/c] Project Eden contains a large galaxy viewable on the galaxy map. Star class and faction territory change what you may find in a star system.\\n\\n[c][00ffff]Mass, Volume and CPU:[-][/c] The mass, volume, and CPU restrictions are enabled by default. Use the logistics system to move items too large to fit in the player inventory.\\n\\n[c][00ffff]Escaping your starting system:[-][/c] Resources to build a basic small vessel can be found on your starting planet.\\nResources for a warp capable small vessel can be found on the moon of your starting planet.\\nResources for a warp capable capital vessel are on other planets in your starting solar system.\\nAdvanced resources are found in other star systems.[/sup]",
             "Russian": "[c][00ffff]>>>Сначала прочитайте PDA[-][/c] [sup][c][ffff00](F1)[-][/c][/sup][c][00ffff]<<<[-][/c][sup]\\n\\n[c][00ffff]Миссии:[-][/c] Миссии управляются в вкладке Solo Missions. Начните выполнять миссии Reforged Galaxy или Project Eden, чтобы разблокировать дополнительные миссии.\\n[c][00ffff]Эмпириопедия:[-][/c] Содержит полную энциклопедию сценария и может ответить на многие ваши вопросы. Дополнительные записи разблокируются по мере прогресса через сценарий.\\n[c][00ffff]Книга путешествий:[-][/c] Показывает журнал предыдущих диалогов миссий.\\n\\n[c][00ffff]Подсказки:[-][/c] Подсказки предоставляют важную информацию о многих предметах и устройствах. Наведите мышку на любой предмет в вашем инвентаре, конструкторе или дереве технологий, чтобы просмотреть детали.\\n\\n[c][00ffff]Планеты и секторы:[-][/c] Планеты и секторы в текущей солнечной системе сканируются, и базовое описание каждого можно просмотреть на локальной или солнечной системе карты.\\n\\n[c][00ffff]Галактика:[-][/c] Project Eden содержит большую галактику, которую можно просмотреть на галактической карте. Класс звезд и территория фракции меняют то, что вы можете найти в звездной системе.\\n\\n[c][00ffff]Масса, объём и CPU:[-][/c] Ограничения массы, объёма и CPU включены по умолчанию. Используйте логистическую систему для перемещения предметов, которые слишком велики, чтобы поместиться в инвентарь игрока.\\n\\n[c][00ffff]Побег из вашей стартовой системы:[-][/c] Ресурсы для строительства базового небольшого судна можно найти на вашей стартовой планете.\\nРесурсы для варп-соединного небольшого судна можно найти на луне вашей стартовой планеты.\\nРесурсы для варп-соединного капитального судна находятся на других планетах в вашей стартовой солнечной системе.\\nПродвинутые ресурсы находятся в других звездных системах.[/sup]"
@@ -21463,8 +21457,8 @@
     },
     {
         "Eden_DroneHomeinfo": {
-            "English": "The Drone Swarm is a deadly menace.",
-            "Russian": "Рой Дронов - смертельная угроза"
+            "English": "Alien drones of unknown origin. Hostile.",
+            "Russian": "Внеземные дроны неизвестного происхождения. Враждебно."
         }
     },
     {
@@ -21739,8 +21733,8 @@
     },
     {
         "Eden_WaterGeneratorT2info": {
-            "English": "For the large scale extraction of resources from water.\\n[c][00ffff]Requires a specific activation process.[-][/c][sup]\\n\\n[c][00FFFF][b]Requirements:[/b][-][/c]\\n[sup][c][FFFFFF]-Must be placed on a base within logistics range of the [b]Lake[/b] (internal name Water) biome.\\n-Interact with the extractor to begin the activation process.\\n-Requires 1 Small Optronic Matrix to activate.\\nMultiple extractors can be linked together in a network.[-][/c]\\n[c][FFFFFF]Requires schematic purchased from Free Colonists or found as loot. Requires level 15 to craft and level 20 to activate.[-][/c]\\n[c][FFFFFF]This is the closest we can add to a real T2 water extractor in a scenario.[-][/c]",
-            "Russian": "Для крупномасштабной добычи ресурсов из воды.\\n[c][00ffff]Требует специфического процесса активации.[-][/c][sup]\\n\\n[c][00FFFF][b]Требования:[/b][-][/c]\\n[sup][c][FFFFFF]-Должен быть размещен на базе в пределах логистической досягаемости биома [b]Озера[/b] (внутреннее имя Water).\\n-Взаимодействуйте с экстрактором, чтобы начать процесс активации.\\n-Требуется 1 Маленькая Оптронная Матрица для активации.\\nНесколько экстракторов могут быть объединены в сеть.[-][/c]\\n[c][FFFFFF]Требует схемы, купленной у Свободных Колонистов или найденной как добыча. Требуется 15 уровень для крафта и 20 уровень для активации.[-][/c]\\n[c][FFFFFF]Это ближайшее, что мы можем добавить к реальному T2 водяному экстрактору в сценарии.[-][/c]"
+            "English": "For the large scale extraction of resources from water.\\n[c][00ffff]Requires a specific activation process.[-][/c][sup]\\n\\n[c][00FFFF][b]Requirements:[/b][-][/c]\\n[sup][c][FFFFFF]-Must be placed on a base within logistics range of the [b]Lake[/b] (internal name Water) biome.\\n-Interact with the extractor to begin the activation process.\\n-Requires 1 Small Optronic Matrix to activate.\\nMultiple extractors can be linked together in a network.[-][/c]\\n[c][FFFFFF]Requires schematic purchased from Free Colonists or found as loot.[-][/c]\\n[c][FFFFFF]This is the closest we can add to a real T2 water extractor in a scenario.[-][/c]",
+            "Russian": "Для масштабного извлечения ресурсов из воды.\\n[c][00ffff]Требуется специфический процесс активации.[-][/c][sup]\\n\\n[c][00FFFF][b]Требования:[/b][-][/c]\\n[sup][c][FFFFFF]-Нужно разместить на базе в логистическом диапазоне от биома [b]Озеро[/b] (внутреннее название Water).\\n-Взаимодействуйте с экстрактором, чтобы начать процесс активации.\\n-Требуется 1 Маленькая оптронная матрица для активации.\\nМножественные экстрактора можно связать в сеть.[-][/c]\\n[c][FFFFFF]Требуется схема, купленная у Свободных Колонистов или найденная как лут.[-][/c]\\n[c][FFFFFF]Это самое близкое к реальному T2 водному экстрактору в сценарии.[-][/c]"
         }
     },
     {
@@ -21817,8 +21811,8 @@
     },
     {
         "RepairToTemplate": {
-            "English": "[ffff00]Repair To Template[-][/c]",
-            "Russian": "[ffff00]Ремонт Шаблона[-][/c]"
+            "English": "Repair to Template",
+            "Russian": "Восстановить в шаблон"
         }
     },
     {
@@ -22993,8 +22987,8 @@
     },
     {
         "Eden_DrillIceCVinfo": {
-            "English": "A fixed mining laser for mining dense and rich ice asteroids found in special sites.\\nThis ice mining laser is specially modulated to only mine dense and rich ice asteroids and will not work on any other material.\\nFocus on a target ice asteroid until it is depleted, it can take some time and take some fiddling depending on the number of lasers being used.\\n\\n[c][A9A9A9][i]Requires Project Eden or Reforged Eden.[/i][-][/c]",
-            "Russian": "Стационарный горный лазер для добычи плотных и богатых ледяных астероидов, встречающихся на специальных участках.\\nЭтот ледяной горный лазер специально модулирован для добычи только плотных и богатых ледяных астероидов и не будет работать с любым другим материалом.\\nСосредоточьтесь на целевом ледяном астероиде, пока он не будет истощен, это может занять некоторое время и потребовать некоторых манипуляций в зависимости от количества используемых лазеров.\\n\\n[c][A9A9A9][i]Требуется Project Eden или Reforged Eden.[/i][-][/c]"
+            "English": "[sup]A fixed mining laser for mining dense and rich ice asteroids found in special sites.\\nThis ice mining laser is specially modulated to only mine dense and rich ice asteroids and will not work on any other material.\\nFocus on a target ice asteroid until it is depleted, it can take some time and take some fiddling depending on the number of lasers being used.[/sup]",
+            "Russian": "[sup]А фиксированный лазер для добычи плотных и богатых ледяных астероидов, найденных в специальных местах.\\nЭтот ледовый майнинг-лазер специально смодулирован только для добычи плотных и богатых ледяных астероидов и не будет работать с любыми другими материалами.\\nСфокусируйтесь на целевом ледяном астероиде до полного исчерпания; это может занять некоторое время и потребовать некоторой настройки в зависимости от количества используемых лазеров.[/sup]"
         }
     },
     {
@@ -23011,8 +23005,8 @@
     },
     {
         "Eden_DrillRichCVinfo": {
-            "English": "A fixed mining laser for mining rich asteroids found in special sites.\\nThis mining laser is specially modulated to only mine rich asteroids and will not work on any other material.\\nFocus on a target rich asteroid until it is depleted, it can take some time and take some fiddling depending on the number of lasers being used.\\n\\n[c][A9A9A9][i]Requires Project Eden or Reforged Eden.[/i][-][/c]",
-            "Russian": "Фиксированный лазер для добычи богатых астероидов, найденных на специальных участках.\nЭтот горнодобывающий лазер специально модулирован для добычи только богатых астероидов и не будет работать с любым другим материалом.\nСосредоточьтесь на целевом богатом астероиде до его истощения, это может занять некоторое время и требует некоторых настроек в зависимости от количества используемых лазеров.\n\n[c][A9A9A9][i]Требуется Project Eden или Reforged Eden.[/i][-][/c]"
+            "English": "[sup]A fixed mining laser for mining rich asteroids found in special sites.\\nThis mining laser is specially modulated to only mine rich asteroids and will not work on any other material.\\nFocus on a target rich asteroid until it is depleted, it can take some time and take some fiddling depending on the number of lasers being used.[/sup]",
+            "Russian": "[sup]Фиксированный лазер для добычи богатых астероидов найденных в специальных местах.\\nЭтот добывающий лазер специально модулируется только для добычи богатых астероидов и не будет работать с любыми другими материалами.\\nСфокусируйтесь на целевом богатом астероиде, пока он не исчерпан; это может занять некоторое время и потребовать некоторой настройки в зависимости от количества используемых лазеров.[/sup]"
         }
     },
     {
@@ -23041,8 +23035,8 @@
     },
     {
         "Eden_DrillIceTurretCVinfo": {
-            "English": "[sup]An automated drill turret modulated for dense or rich ice asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c][/sup]\\n\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c]",
-            "Russian": "[sup]Автоматическая башня для бурения, настроенная только для плотных или богатых ледяных астероидов. Неэффективна против других типов астероидов.\\nАльтернативный режим ручного огня доступен через ПКМ для +200% урона.\\n[c][FFA500]Автоматически добывает любые плотные или богатые астероиды в радиусе действия, когда нацелена на следующие объекты: [b]Фракции NPC[/b] и [b]Добыча[/b], [b]Базы[/b], [b]Варп-драйвы[/b].[-][/c][/sup]\\n\\n[c][FFFFFF]Разблокируется через схему.[-][/c]\\n[c][00FF00]2000% урона против плотных ледяных и богатых ледяных астероидов.[-][/c]\\n[c][FF0000]-100% урона против всех других целей.[-][/c]"
+            "English": "[sup]An automated drill turret modulated for dense or rich ice asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c][/sup]",
+            "Russian": "[sup]Автоматическая буровая турель, модулируемая только для плотных или богатых ледяных астероидов. Неэффективна против других типов астероидов.\\nАльтернативный ручной режим стрельбы доступен через правую кнопку мыши (RMB) с увеличением урона на +200 %.\\n[c][FFA500]Автоматически добывает любые плотные или богатые астероиды в пределах досягаемости, если настроена на цели: [b]Фракции NPC[/b] и [b]Жертвы[/b], [b]Базы[/b], [b]Варп‑двигатели[/b].[-][/c]\\n[c][FFFFFF]Разблокировано через схему.[-][/c]\\n[c][00FF00]Урон 2000 % против плотных и богатых ледяных астероидов.[-][/c]\\n[c][FF0000]-100 % урона против всех остальных целей.[-][/c][/sup]"
         }
     },
     {
@@ -23059,8 +23053,8 @@
     },
     {
         "Eden_DrillTurretAutoCVinfo": {
-            "English": "[sup]An automated drill turret modulated for dense or rich ore asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c][/sup]\\n\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ore and Rich Ore Asteroids.[-][/c]\\n[c][00FF00]500% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c]",
-            "Russian": "[sup]Автоматизированная буровая башня, настроенная только на плотные или богатые рудные астероиды. Неэффективна против других типов астероидов.\nДоступен альтернативный ручной режим стрельбы через ПКМ для +200% урона.\n[c][FFA500]Автоматически будет добывать любые плотные или богатые астероиды в пределах досягаемости, если настроено на целевые объекты: [b]Фракции NPC[/b] и [b]Добыча[/b], [b]Базы[/b], [b]Варп-двигатели[/b].[-][/c][/sup]\n\n[c][FFFFFF]Разблокировано по чертежу.[-][/c]\n[c][00FF00]2000% урона против плотных рудных и богатых рудных астероидов.[-][/c]\n[c][00FF00]500% урона против плотного льда и богатого льда астероиды.[-][/c]\n[c][FF0000]-100% урона по всем остальным целям.[-][/c]"
+            "English": "[sup]An automated drill turret modulated for dense or rich ore asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ore and Rich Ore Asteroids.[-][/c]\\n[c][00FF00]500% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c][/sup]",
+            "Russian": "[sup]Автоматический буровой турель модульируется для плотных или богатых рудных астероидов только. Неэффективен против других типов астероидов.\\nАльтернативный ручной режим огня доступен через RMB для +200% урона.\\n[c][FFA500]Автоматически добывает любые плотные или богатые астероиды в пределах досягаемости, когда установлен на цель следующие: [b]НПС Фракции[/b] и [b]Жертвы[/b], [b]Базы[/b], [b]Варп Драйвы[/b].[-][/c]\\n[c][FFFFFF]Разблокировано через схему.[-][/c]\\n[c][00FF00]2000% урона против Плотных Руд и Богатых Рудных Астероидов.[-][/c]\\n[c][00FF00]500% урона против Плотного Льда и Богатого Льда Астероидов.[-][/c]\\n[c][FF0000]-100% урона против всех других целей.[-][/c][/sup]"
         }
     },
     {
@@ -23077,8 +23071,8 @@
     },
     {
         "Eden_DrillTurretAutoCVT2info": {
-            "English": "[sup]An automated drill turret modulated for dense or rich ore asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c][/sup]\\n\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ore and Rich Ore Asteroids.[-][/c]\\n[c][00FF00]500% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c]",
-            "Russian": "[sup]Автоматизированная буровая башня, настроенная только на плотные или богатые рудные астероиды. Неэффективна против других типов астероидов.\nДоступен альтернативный ручной режим стрельбы через ПКМ для +200% урона.\n[c][FFA500]Автоматически будет добывать любые плотные или богатые астероиды в пределах досягаемости, если настроено на целевые объекты: [b]Фракции NPC[/b] и [b]Добыча[/b], [b]Базы[/b], [b]Варп-двигатели[/b].[-][/c][/sup]\n\n[c][FFFFFF]Разблокировано по чертежу.[-][/c]\n[c][00FF00]2000% урона против плотных рудных и богатых рудных астероидов.[-][/c]\n[c][00FF00]500% урона против плотного льда и богатого льда астероиды.[-][/c]\n[c][FF0000]-100% урона по всем остальным целям.[-][/c]"
+            "English": "[sup]An automated drill turret modulated for dense or rich ore asteroids only. Not effective versus other types of asteroids.\\nAlternate manual firing mode available via RMB for +200% Damage.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]\\n[c][FFFFFF]Unlocked via schematic.[-][/c]\\n[c][00FF00]2000% Damage vs Dense Ore and Rich Ore Asteroids.[-][/c]\\n[c][00FF00]500% Damage vs Dense Ice and Rich Ice Asteroids.[-][/c]\\n[c][FF0000]-100% Damage vs all other targets.[-][/c][/sup]",
+            "Russian": "[sup]Автоматический буровой турель, модульный для плотных или богатых рудными астероидов только. Неэффективен против других типов астероидов.\\nАльтернативный ручной режим огня доступен через RMB для +200% урона.\\n[c][FFA500]Автоматически добывает любые плотные или богатые астероиды в пределах досягаемости, когда установлен на цель следующие: [b]Фракции NPC[/b] и [b]Постоянные цели[/b], [b]Базы[/b], [b]Варп-двигатели[/b].[-][/c]\\n[c][FFFFFF]Разблокировано через схему.[-][/c]\\n[c][00FF00]2000% урона против плотных и богатых рудных астероидов.[-][/c]\\n[c][00FF00]500% урона против плотного льда и богатого льда астероидов.[-][/c]\\n[c][FF0000]-100% урона против всех остальных целей.[-][/c][/sup]"
         }
     },
     {
@@ -23095,8 +23089,8 @@
     },
     {
         "Eden_DrillIceTurretCVAlieninfo": {
-            "English": "Modulated for dense or rich ice asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]\\n[c][A9A9A9][i]Requires Project Eden or Reforged Eden.[/i][-][/c]",
-            "Russian": "Модулирован для плотных или богатых ледяных астероидов. Неэффективен против других целей.\\nАльтернативный ручной режим стрельбы доступен через ПКМ.\\n[c][FFA500]Автоматически будет добывать любые плотные или богатые астероиды в пределах досягаемости при настройке на следующие цели: [b]НИП Фракции[/b] и [b]Добыча[/b], [b]БА[/b], [b]Варп Двигатели[/b].[-][/c]\\n[c][A9A9A9][i]Требует Project Eden или Reforged Eden.[/i][-][/c]"
+            "English": "Modulated for dense or rich ice asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]",
+            "Russian": "Modulated for dense or rich ice asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]"
         }
     },
     {
@@ -23113,8 +23107,8 @@
     },
     {
         "Eden_DrillTurretAutoCVAlieninfo": {
-            "English": "Modulated for dense or rich asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]\\n[c][A9A9A9][i]Requires Project Eden or Reforged Eden.[/i][-][/c]",
-            "Russian": "Модулирован для плотных или богатых астероидов. Неэффективен против других целей.\\nАльтернативный режим ручной стрельбы доступен через ПКМ.\\n[c][FFA500]Автоматически добывает любые плотные или богатые астероиды в радиусе действия при нацеливании на следующее: [b]Фракции НПС[/b] и [b]Добыча[/b], [b]Базы[/b], [b]Варп-drv[/b].[-][/c]\\n[c][A9A9A9][i]Требуется Project Eden или Reforged Eden.[/i][-][/c]"
+            "English": "Modulated for dense or rich asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Will automatically mine out any dense or rich asteroids within range when set to target the following: [b]NPC Factions[/b] and [b]Prey[/b], [b]Bases[/b], [b]Warp Drives[/b].[-][/c]",
+            "Russian": "Modulated for dense or rich asteroids. Not effective versus other targets.\\nAlternative manual firing mode available via RMB.\\n[c][FFA500]Будет автоматически добывать любые плотные или богатые астероиды в пределах досягаемости, когда установлен на цель следующие: [b]Фракции NPC[/b] и [b]Жертвы[/b], [b]Базы[/b], [b]Варп-двигатели[/b].[-][/c]"
         }
     },
     {
@@ -23797,38 +23791,20 @@
     },
     {
         "Eden_WindTurbineBase": {
-            "English": "Wind Turbine Base",
-            "Russian": "База Ветроэлектростанции"
-        }
-    },
-    {
-        "Eden_WindTurbineBaseinfo": {
-            "English": "A supporting structure required for wind turbines. Must be placed outdoors and elevated off the ground by at least 1 supporting block. Place a Wind Turbine directly on top.\\n\\n[c][FFFFFF]Wind Turbines take up a 5x5 space.[-][/c]",
-            "Russian": "Поддерживающая конструкция, необходимая для ветряных турбин. Должна быть размещена на улице и поднята над землей по крайней мере на один поддерживающий блок. Разместите Ветряную Турбину непосредственно сверху.\\n\\n[c][FFFFFF]Ветряные Турбины занимают пространство 5x5.[-][/c]"
+            "English": "Wind Turbine Base (OBSOLETE)",
+            "Russian": "База ветровой турбины (УСТАРЕЛО)"
         }
     },
     {
         "Eden_WindTurbineIdle": {
-            "English": "Wind Turbine",
-            "Russian": "Ветро Турбина"
+            "English": "Wind Turbine (Idle)",
+            "Russian": "Ветряная турбина (не работает)"
         }
     },
     {
         "Eden_WindTurbineIdleinfo": {
-            "English": "A wind turbine that reduces power consumption by [c][00FF00]300W[-][/c] [c][abd1ff]once activated.\\nIf below requirements are met the turbine will spin up over 60 seconds and then become[-][/c] [c][00FF00]permanently active.[-][/c]\\n\\n[c][00FFFF][b]Requirements:[/b][-][/c]\\n[sup][c][FFFFFF]-Outdoors with no obstructions above.\\n-Placed on top of a wind turbine base.\\n-Temperature 15C to 35C (60F to 95F).\\n-Radiation less than 0.4 rad.\\n-Breathable atmosphere.\\n-If it gives a 'not enough light warning' raise the turbine base higher off the ground.[-][/c]\\n[c][FFFFFF]The requirements are hard coded and\\ncannot be changed by the Reforged Eden 2 developers.[-][/c][/sup]",
-            "Russian": "Ветряная турбина, которая снижает потребление энергии на [c][00FF00]300W[-][/c] [c][abd1ff]после активации.\\nЕсли выполнены следующие требования, турбина будет разгоняться в течение 60 секунд и затем станет[-][/c] [c][00FF00]постоянно активной.[-][/c]\\n\\n[c][00FFFF][b]Требования:[/b][-][/c]\\n[sup][c][FFFFFF]-На улице без препятствий сверху.\\n-Расположена на вершине основания ветряной турбины.\\n-Температура 15C до 35C (60F до 95F).\\n-Радиация менее 0.4 рад.\\n-Дышащая атмосфера.\\n-Если появляется предупреждение 'недостаточно света', поднимите основание турбины выше от земли.[-][/c]\\n[c][FFFFFF]Требования зашифрованы и\\nизменить их не могут разработчики Reforged Eden 2.[-][/c][/sup]"
-        }
-    },
-    {
-        "Eden_WindTurbineIdleinfoTest": {
-            "English": "[sup]A wind turbine that reduces power consumption by [c][00FF00]300W[-][/c] [c][abd1ff]once activated.\\nIf below requirements are met the turbine will spin up over 60 seconds and then become[-][/c] [c][00FF00]permanently active.[-][/c]\\n\\n[c][00FFFF][b]Requirements:[/b][-][/c]\\n[c][FFFFFF]-Outdoors with no obstructions above.\\n-Placed on top of a wind turbine base.\\n-Temperature 15C to 35C (60F to 95F).\\n-Radiation less than 0.4 rad.\\n-Breathable atmosphere.\\n-If it gives a 'not enough light warning' raise the turbine base higher off the ground.[-][/c]\\n[c][FFFFFF]The requirements are hard coded and\\ncannot be changed by the Reforged Eden 2 developers.[-][/c]",
-            "Russian": "[sup]Ветряная турбина, которая уменьшает расход энергии на [c][00FF00]300Вт[-][/c] [c][abd1ff]после активации.\\nЕсли выполнены нижеперечисленные требования, турбина будет набирать обороты в течение 60 секунд и затем станет[-][/c] [c][00FF00]постоянно активной.[-][/c]\\n\\n[c][00FFFF][b]Требования:[/b][-][/c]\\n[c][FFFFFF]-Нахождение на улице без препятствий над турбиной.\\n-Установка на верх ветряной турбины базы.\\n-Температура от 15С до 35С (от 60Ф до 95Ф).\\n-Уровень радиации менее 0,4 рад.\\n-Присутствие дыхательной атмосферы.\\n-Если появляется предупреждение \"не хватает света\", поднимите базу турбины выше над землей.[-][/c]\\n[c][FFFFFF]Требования заданы жестко и\\нельзя изменить разработчиками Reforged Eden 2.[-][/c]"
-        }
-    },
-    {
-        "Eden_WindTurbineIdleinfo2": {
-            "English": "A wind turbine designed for passive power generation on planets. Must be placed directly on top of a Wind Turbine Base.\\nIt will spin up over 1 minute then if conditions are favorable it will provide a passive reduction in power consumption to your structure until it is removed.\\nRequires another source of power before it can activate.\\nCan not activate in extreme heat, cold, radiation, or where there is not a breathable atmosphere.",
-            "Russian": "Ветряная турбина, предназначенная для пассивного производства энергии на планетах. Должна быть установлена непосредственно поверх основания ветровой турбины.\\nОна будет вращаться более 1 минуты, а затем при благоприятных условиях она будет обеспечивать пассивное снижение потребления энергии вашей структурой до тех пор, пока не будет удалена.\\nТребуется другой источник питания перед активацией.\\nНе может активироваться в экстремальную жару, холод, радиацию или там, где нет дышащей атмосферы."
+            "English": "A wind turbine that will reduce power consumption by [c][00FF00]300W[-][/c] [c][abd1ff]after being activated.\\n[c][00FFFF][b]REQUIRES ACTIVATION:[/b][-][/c]\\nTo activate, place down one or more wind turbines and then interact with the wind turbine. If the planet type is suitable for wind power you will get an option to activate the wind turbines.[sup]\\n\\nUsable on most types of temperate, swamp, arid, tropical, ocean, jungle, forest, desert, and jungle class planets.[/sup]",
+            "Russian": "Ветряная турбина, которая уменьшит потребление энергии на [c][00FF00]300W[-][/c] [c][abd1ff]после активации.\\n[c][00FFFF][b]ТРЕБУЕТ АКТИВАЦИИ:[/b][-][/c]\\nЧтобы активировать, разместите одну или несколько ветряных турбин и затем взаимодействуйте с ветряной турбиной. Если тип планеты подходит для ветровой энергии, вы получите возможность активации ветряных турбин.[sup]\\n\\nМожно использовать на большинстве типов умеренных, болотистых, засушливых, тропических, океанских, джунглей, лесов, пустынь и джунглей планет.[/sup]"
         }
     },
     {
@@ -23839,8 +23815,8 @@
     },
     {
         "Eden_WindTurbineActiveinfo": {
-            "English": "This wind turbine is reducing the power consumption of your structure. It will continue to operate until it is removed.",
-            "Russian": "Этот ветряк снижает потребление энергии вашей структуры. Он будет продолжать работать, пока не будет удален."
+            "English": "This wind turbine is reducing the power consumption of your structure by [c][00FF00]300W[-][/c]. It will continue to operate until it is removed.",
+            "Russian": "Эта ветровая турбина снижает потребление энергии вашей конструкции на [c][00FF00]300W[-][/c]. Она будет продолжать работать до тех пор, пока не будет удалена."
         }
     },
     {
@@ -26491,8 +26467,8 @@
     },
     {
         "Eden_SpaceDroneBandit": {
-            "English": "Bandit Fighter",
-            "Russian": "Бандитский Боец"
+            "English": "[Bandit] Buzzard",
+            "Russian": "[Бандит] Сойка"
         }
     },
     {
@@ -29595,6 +29571,102 @@
         "Eden_RandomStartinfo": {
             "English": "This key allows access to a teleporter on the Random starting hub.\\nThis key card can be given to other players or left in the public container in the starting hub to allow another player to follow you to your starting planet.\\n\\nIf you need to return to the starting hub to give a key to another player you may do so by dying or using the destroyme console command then selecting the Fresh Start respawn option.",
             "Russian": "Этот ключ позволяет получить доступ к телепортёру на случайном стартовом хабе.\\nЭту карту ключа можно передать другим игрокам или оставить в публичном контейнере на стартовом хабе, чтобы разрешить другому игроку следовать за вами на вашу стартовую планету.\\n\\nЕсли вам нужно вернуться на стартовый хаб, чтобы передать ключ другому игроку, вы можете сделать это, умерев или используя консольную команду destroyme, а затем выбрав вариант возрождения Свежий Старт."
+        }
+    },
+    {
+        "Hydrilla": {
+            "English": "Hydrilla Plant",
+            "Russian": "Гидрилла Растение"
+        }
+    },
+    {
+        "Hydrilla2": {
+            "English": "Hydrilla Plant",
+            "Russian": "Гидрилла Растение"
+        }
+    },
+    {
+        "Hydrilla2Harvested": {
+            "English": "Hydrilla Plant (Empty)",
+            "Russian": "Гидрилла Растение (Пусто)"
+        }
+    },
+    {
+        "bkiConsoleDeco": {
+            "English": "Console used to assist in system operations for external users. May sometimes have dialog attached in POIs.\\n[c][00FFFF]Decorative Object[-][/c]",
+            "Russian": "Console used to assist in system operations for external users. May sometimes have dialog attached in POIs.\\n[c][00FFFF]Decorative Object[-][/c]"
+        }
+    },
+    {
+        "bkiAntennaDeco": {
+            "English": "External transmitter used to boost signal gain in long-ranged communication.\\n[c][00FFFF]Decorative Object[-][/c]",
+            "Russian": "Внешний передатчик, используемый для усиления сигнала в дальних коммуникациях.\\n[c][00FFFF]Decorative Object[-][/c]"
+        }
+    },
+    {
+        "bkiCapacitorDeco": {
+            "English": "Energy Storage Module used on a variety of vessels and structures.\\n[c][00FFFF]Decorative Object[-][/c]",
+            "Russian": "Модуль хранения энергии, используемый на различных судах и сооружениях.\n[c][00FFFF]Decorative Object[-][/c]"
+        }
+    },
+    {
+        "ttwSchematics": {
+            "English": "[c][FFFFFF]Schematic Unlocks[-][/c]",
+            "Russian": "[c][FFFFFF]Разблокировка схем[-][/c]"
+        }
+    },
+    {
+        "Eden_TechTreeIndustrial": {
+            "English": "Industrial Schematics",
+            "Russian": "Промышленные схемы"
+        }
+    },
+    {
+        "Eden_TechTreeWeapons": {
+            "English": "Weapon Schematics",
+            "Russian": "Оружейные Схемы"
+        }
+    },
+    {
+        "Eden_TechTreeMedical": {
+            "English": "Medical Schematics",
+            "Russian": "Медицинские схемы"
+        }
+    },
+    {
+        "Eden_TechTreeinfo": {
+            "English": "Crafting recipes unlocked by schematic. This will not be a complete list of all schematic unlockable recipes.\\n\\nYou can obtain schematics through missions, trading, UCH Research Computers, or loot.",
+            "Russian": "Рецепты крафта разблокируются схемой. Это не будет полным списком всех рецептов, которые можно открыть с помощью схемы.\\n\\nВы можете получить схемы через миссии, торговлю, UCH Research Computers или лут."
+        }
+    },
+    {
+        "Eden_Telepad": {
+            "English": "Telepad",
+            "Russian": "Телепад"
+        }
+    },
+    {
+        "Eden_Telepadinfo": {
+            "English": "A specialized point to point teleportation pad for use to teleport to other telepads on the same structure.\\nInstall on a ship or base and interact with it to follow the setup instructions.\\n\\nIf automatic teleportation is enabled, turn off all telepads to access the configuration options again.\\n\\nNot usable in creative mode.",
+            "Russian": "Специализированная точка-точечная телепортационная панель для использования при телепортации к другим телепадам на той же структуре.\\nУстановите на корабль или базу и взаимодействуйте с ней, чтобы следовать инструкциям по настройке.\\n\\nЕсли включена автоматическая телепортация, отключите все телепады, чтобы снова получить доступ к параметрам конфигурации.\\n\\nНе пригодна для использования в творческом режиме."
+        }
+    },
+    {
+        "Eden_SpaceDroneBanditGatling": {
+            "English": "[Bandit] Buzzard",
+            "Russian": "[Bandit] Сой"
+        }
+    },
+    {
+        "Eden_SpaceDroneBanditBolter": {
+            "English": "[Bandit] Harpy",
+            "Russian": "[Bandit] Харпи"
+        }
+    },
+    {
+        "Eden_SpaceDroneBanditMissile": {
+            "English": "[Bandit] Vulture",
+            "Russian": "[Bandit] Сойка"
         }
     }
 ]
