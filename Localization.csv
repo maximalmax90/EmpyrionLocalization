@@ -3691,7 +3691,7 @@ Eden_InvalidItem1,[c][FF0000]DEPRECATED ITEM[-][/c],,,,,,,,[c][FF0000]УСТАР
 Eden_InvalidItem2,[c][FF0000]DEPRECATED ITEM[-][/c],,,,,,,,[c][FF0000]УСТАРЕВШИЙ ПРЕДМЕТ[-][/c],,,,,,,,
 Eden_InvalidItem3,[c][FF0000]DEPRECATED ITEM[-][/c],,,,,,,,[c][FF0000]УСТАРЕВШИЙ ПРЕДМЕТ[-][/c],,,,,,,,
 Eden_InvalidItem4,[c][FF0000]DEPRECATED ITEM[-][/c],,,,,,,,[c][FF0000]УСТАРЕВШИЙ ПРЕДМЕТ[-][/c],,,,,,,,
-invTitle,INVENTORY [c][00ffff](RE2 Build 34)[-][/c],,,,,,,,ИНВЕНТАРЬ [c][00ffff](RE2 Build 34)[-][/c],,,,,,,,
+invTitle,INVENTORY [c][00ffff](RE2 Build 35)[-][/c],,,,,,,,ИНВЕНТАРЬ [c][00ffff](RE2 Build 35)[-][/c],,,,,,,,
 lblEffectsVolume,Effects Volume [c][ffff00](doesn't affect custom sounds! Keep at 100% in RE)[-][/c],,,,,,,,Объем воздействия,,,,,,,,
 msgInternalErrorOccured,[c][ffff00]An internal error occurred while playing [b]Reforged Eden 2[/b].\nDo not report this to the game developers via email.[-][/c]\n\nPlease see the [b]Reforged Eden 2 Workshop[/b] for support on the scenario or contact your server admin if playing on a multiplayer server.,,,,,,,,"Произошла внутренняя ошибка!\nПожалуйста, вставьте описание ошибки в подготовленное письмо - спасибо!",,,,,,,,
 tipGettingStarted,[c][ffff00]Do not use![-][/c] See Reforged Eden Workshop for support.,,,,,,,,Введение,,,,,,,,
