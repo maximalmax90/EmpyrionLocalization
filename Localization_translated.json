@@ -12697,8 +12697,8 @@
     },
     {
         "itmHVArtilleryShellT1": {
-            "English": "120x570mm Tank Ammunition is a semi-combustible cartridge used by 120mm smoothbore guns on most conventional tanks.\\n[c][00FF00]+25% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "120x570мм Боеприпасы для танков являются полу-сгораемой картриджей, используемых 120-мм гладкоствольными пушками на большинстве обычных танков.\n\\n[c][00FF00]+25% Урон от удара по оружию, башням и бетону\\n+50% Урон взрыва по блокам брони HV/SV[-][/c]\\n[c][FF00FF]10 000 урона щиту в минуту[-][/c]"
+            "English": "120x570mm Tank Ammunition is a semi-combustible cartridge used by 120mm smoothbore guns on most conventional tanks.\\n[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor Blocks[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "[c][00FF00]+40% Impact Damage vs Weapons, Turrets and Concrete\\n+50% Blast Damage vs HV/SV Armor Blocks[-][/c]\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 35)[-][/c]",
-            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 35)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 36)[-][/c]",
+            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 36)[-][/c]"
         }
     },
     {
@@ -29667,6 +29667,114 @@
         "Eden_SpaceDroneBanditMissile": {
             "English": "[Bandit] Vulture",
             "Russian": "[Bandit] Сойка"
+        }
+    },
+    {
+        "DrugWire": {
+            "English": "[c][FF5555]Wire Vial[-][/c]",
+            "Russian": "[c][FF5555]Проводная пробирка[-][/c]"
+        }
+    },
+    {
+        "DrugIce": {
+            "English": "[c][8800FF]Black Ice Capsule[-][/c]",
+            "Russian": "[c][8800FF]Чёрная Ледяная Капсула[-][/c]"
+        }
+    },
+    {
+        "itmDrugWire": {
+            "English": "[c][FF0000]Contraband[-][/c]\\nA highly addictive and illegal drug that blocks pain receptors and causes extreme euphoria in the user. The name comes from the red lines left on the skin that resemble circuits.\\n[c][FF0000]Doubles Maximum Health[-][/c]",
+            "Russian": "[c][FF0000]Контрабанда[-][/c]\\nСильно вызывающий зависимость и незаконный препарат, блокирующий болевые рецепторы и вызывающий крайнее эйфорическое состояние у пользователя. Название происходит от красных линий на коже, напоминающих схемы.\\n[c][FF0000]Удвоенная максимальная жизнь[-][/c]"
+        }
+    },
+    {
+        "itmDrugIce": {
+            "English": "[c][FF0000]Contraband[-][/c]\\nOriginally developed for the Imperial military to allow troops to fight under any condition, it was banned due to it's extremely addictive nature and apparent toxicity. That hasn't stopped it from acquiring a niche market in the galaxy's underbelly.\\n[c][FF0000]Blocks most harmful status effects[-][/c]",
+            "Russian": "[c][FF0000]Контрабанда[-][/c]\\nОригинально разработан для имперской армии, чтобы войска могли сражаться при любых условиях, но он был запрещён из‑за своей крайне зависимого характера и явной токсичности. Это не остановило его от завоевания нишевого рынка в подземных слоях галактики.\\n[c][FF0000]Блокирует большинство вредных статусов[-][/c]"
+        }
+    },
+    {
+        "DrugWireBuff": {
+            "English": "[c][FF5555]Substance (Wire)[-][/c]",
+            "Russian": "[c][FF5555]Субстанция (Провод)[-][/c]"
+        }
+    },
+    {
+        "DrugIceBuff": {
+            "English": "[c][8800FF]Substance (Black Ice)[-][/c]",
+            "Russian": "[c][8800FF]Substance (Black Ice)[-][/c]"
+        }
+    },
+    {
+        "Withdrawl": {
+            "English": "[c][FF0000]Withdrawl[-][/c]",
+            "Russian": "[c][FF0000]Вывод[-][/c]"
+        }
+    },
+    {
+        "igmEffectWire": {
+            "English": "Maximum health is temporarily doubled\\nAccelerated Metabolism\\nAddiction",
+            "Russian": "Максимальное здоровье временно удвоено\nУскоренный метаболизм\nЗависимость"
+        }
+    },
+    {
+        "igmEffectIce": {
+            "English": "Most environmental and harmful status effects will be ignored\\nHigh strain on body\\nAddiction",
+            "Russian": "Наиболее экологические и вредные статусы будут игнорироваться\\nВысокая нагрузка на организм\\nПристрастие"
+        }
+    },
+    {
+        "igmEffectWithdrawl": {
+            "English": "Suffering from drug withdrawl\\nEffects can be lessened with a Detox Kit or continued drug usage",
+            "Russian": "Suffering from drug withdrawl\nEffects can be lessened with a Detox Kit or continued drug usage"
+        }
+    },
+    {
+        "Ranking": {
+            "English": "[c][ff0000]Ranking Disabled[-][/c]",
+            "Russian": "По рангу"
+        }
+    },
+    {
+        "bmCharredForest": {
+            "English": "Charred Forest",
+            "Russian": "Пожжённый Лес"
+        }
+    },
+    {
+        "bmMagmaField": {
+            "English": "Magma Field",
+            "Russian": "Поле Магмы"
+        }
+    },
+    {
+        "bmBurningForest": {
+            "English": "Burning Forest",
+            "Russian": "Горящий Лес"
+        }
+    },
+    {
+        "bmLavaPools": {
+            "English": "Lava Pools",
+            "Russian": "Лава Пулы"
+        }
+    },
+    {
+        "bmVolcanoTop": {
+            "English": "Volcano",
+            "Russian": "Вулкан"
+        }
+    },
+    {
+        "bmObsidianSpires": {
+            "English": "Obsidian Spires",
+            "Russian": "Обсидиановые шпили"
+        }
+    },
+    {
+        "bmFungalBloom": {
+            "English": "Fungal Bloom",
+            "Russian": "Грибной Расцвет"
         }
     }
 ]
