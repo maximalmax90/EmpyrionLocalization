@@ -12607,8 +12607,8 @@
     },
     {
         "itmSVPlasmaCannonCharge": {
-            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array. Used as ammunition in gunship-mounted plasma cannons.\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]No Impact Damage[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
-            "Russian": "Эреструм Гель, подвешенный в одноразовом металлическом корпусе, который можно нагревать с помощью каскадного лазерного массива. Используется в качестве боеприпасов для плазменных пушек, установленных на штурмовиках.\\n[c][00FF00]+25% Урон от взрыва против Блоков брони[-][/c]\\n[c][FF0000]Нет урона при ударе[-][/c]\\n[c][FF00FF]5,000 урона по щитам в минуту[-][/c]"
+            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array. Used as ammunition in gunship-mounted plasma cannons.\\n[c][00FF00]+5% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]",
+            "Russian": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array. Used as ammunition in gunship-mounted plasma cannons.\\n[c][00FF00]+5% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -13399,14 +13399,14 @@
     },
     {
         "itmSVPlasmaCannonChargeT2": {
-            "English": "[sup]An Erestrum-Magnesium gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array. Used as ammunition in advanced plasma cannons.[/sup]\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "[sup]Гельовая смесь из Эреструма и магния в одноразовом металлическом корпусе, который можно нагреть с помощью каскадного лазерного массива. Используется как боеприпасы для продвинутых плазменных пушек.[/sup]\n[c][00FF00]+25% Урон от взрыва против Блоков Брони[-][/c]\n[c][FF0000]Низкий урон при попадании[-][/c]\n[c][FF00FF]10,000 Урона Щиту в минуту[-][/c]"
+            "English": "[sup]An Erestrum-Magnesium gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array. Used as ammunition in advanced plasma cannons.[/sup]\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "[sup]Смесь геля Эреструма-Магния, подвешенная в одноразовом металлическом корпусе, который можно перегреть с помощью каскадной лазерной установки. Используется как боеприпасы в продвинутых плазменных пушках.[/sup]\n[c][00FF00]+10% урон от взрыва против брони блоков[-][/c]\n[c][FF0000]Низкий ударный урон[-][/c]\n[c][FF00FF]10,000 урона щитам в минуту[-][/c]"
         }
     },
     {
         "itmSVPlasmaCannonChargeT3": {
-            "English": "[sup]Only the reinforced barrel and reaction chamber of a Heavy Plasma Cannon can withstand this Erestrum gel mixture that includes incendiary additives for enhanced thermal damage.[/sup]\\n[c][00FF00]+25% Blast Damage vs Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
-            "Russian": "[sup]Только усиленная ствол и камера реакции тяжелой плазменной пушки могут выдержать эту смесь геля Эреструм, включающую зажигательные добавки для повышения теплового ущерба.[/sup]\\n[c][00FF00]+25% Ущерб взрыва по блокам брони\\n+20% Радиус взрыва[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]20 000 ущерба щиту в минуту[-][/c]"
+            "English": "[sup]Only the reinforced barrel and reaction chamber of a Heavy Plasma Cannon can withstand this Erestrum gel mixture that includes incendiary additives for enhanced thermal damage.[/sup]\\n[c][00FF00]+20% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
+            "Russian": "[sup]Only the reinforced barrel and reaction chamber of a Heavy Plasma Cannon can withstand this Erestrum gel mixture that includes incendiary additives for enhanced thermal damage.[/sup]\\n[c][00FF00]+20% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]"
         }
     },
     {
@@ -13843,20 +13843,20 @@
     },
     {
         "bkiWeaponSVPlasmaT1": {
-            "English": "A vehicle-mounted explosive energy weapon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target.\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]20,000 Damage per minute[-][/c]",
-            "Russian": "Оружие с наведенной энергией взрывного действия, установленное на транспортном средстве, которое использует каскадный лазерный массив для перегрева плазмы Эреструм, подвешенной в магнитном поле, и запуска его по указанной цели.\\n[c][00FF00]+25% Урон от взрыва против Блоков Металлической Брони[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]5,000 Урона Щиту в минуту[-][/c]\\n[c][FF8000]20,000 Урона в минуту[-][/c]"
+            "English": "A vehicle-mounted explosive energy weapon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target.\\n[c][00FF00]+5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]5,000 Shield Damage per minute[-][/c]\\n[c][FF8000]20,000 Damage per minute[-][/c]",
+            "Russian": "A vehicle-mounted explosive energy weapon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target.\\n[c][00FF00]+5% Урон от взрыва против Металлических Блоков Обороны[-][/c]\\n[c][FF0000]Низкий Урон от Влияния[-][/c]\\n[c][FF00FF]5,000 Урона щитам в минуту[-][/c]\\n[c][FF8000]20,000 Урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponSVPlasmaT2": {
-            "English": "An improved Medium Plasma weapon with a reinforced barrel and ignition chamber to support larger, higher-temperature plasma mixtures.\\n[c][00FF00]+25% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "Улучшенный средний плазменный орудие с усиленной стволом и камерой зажигания для поддержки более крупных, высокотемпературных смесей плазмы.\\n[c][00FF00]+25% Урон от взрыва по блокам брони[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]10,000 ед. урона щиту в минуту[-][/c]\\n[c][FF8000]40,000 ед. урона в минуту[-][/c]"
+            "English": "An improved Medium Plasma weapon with a reinforced barrel and ignition chamber to support larger, higher-temperature plasma mixtures.\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "An improved Medium Plasma weapon with a reinforced barrel and ignition chamber to support larger, higher-temperature plasma mixtures.\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponSVPlasmaT3": {
-            "English": "An advanced Heavy Plasma weapon with an armored, platinum-lined firing system to protect it from the corrosion and warping of firing unstable plasma mixes at higher velocities.\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "[b]Продвинутое тяжелое плазменное оружие с бронированной, покрытой платиной системой стрельбы для защиты от коррозии и деформации при выстреле нестабильных смесей плазмы на высоких скоростях.[/b]\\n[c][00FF00]+25% Урон взрыва против Блоков Металлической Брони\\n+20% Радиус взрыва[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]20,000 Урона щитам в минуту[-][/c]\\n[c][FF8000]80,000 Урона в минуту[-][/c]"
+            "English": "An advanced Heavy Plasma weapon with an armored, platinum-lined firing system to protect it from the corrosion and warping of firing unstable plasma mixes at higher velocities.\\n[c][00FF00]+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "[c][00FF00]+20% Урон от взрыва против металлических броневых блоков[-][/c]\n[c][FF0000]Низкий Урон При Ударе[-][/c]\n[c][FF00FF]20,000 Урон Щита В Минуту[-][/c]\n[c][FF8000]80,000 Урон В Минуту[-][/c]"
         }
     },
     {
@@ -14023,44 +14023,44 @@
     },
     {
         "bkiWeaponCVPlasmaT1": {
-            "English": "A 50MJ Plasma Cannon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target using electromagnetic rails.\\n[c][FFBB00]Can only be used in Space\\n+10% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
-            "Russian": "50МДж Плазменная пушка, использующая каскадную лазерную матрицу для сверхнагрева эреструм плазмы, подвешенной в магнитном поле, и запуска ее в назначенную цель с помощью электромагнитных рельсов.\\n[c][FFBB00]Может быть использована только в Космосе\\n+10% Ущерба от взрыва по Блокам Броневой Арматуры[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]10 000 ущерба щиту в минуту[-][/c]\\n[c][FF8000]40 000 ущерба в минуту[-][/c]"
+            "English": "A 50MJ Plasma Cannon that uses a cascade laser array to superheat Erestrum plasma suspended in a magnetic field and launch it at a designated target using electromagnetic rails.\\n[c][FFBB00]Can only be used in Space\\n+5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]\\n[c][FF8000]40,000 Damage per minute[-][/c]",
+            "Russian": "Плазменный пушка мощностью 50МДж, использующая каскадную лазерную установку для сверхнагрева плазмы Эреструма, подвешенной в магнитном поле, и запускающей её на заданную цель с помощью электромагнитных рельсов.\\n[c][FFBB00]Может использоваться только в космосе\\n+5% урон от взрыва против металлических броневых блоков[-][/c]\\n[c][FF0000]Низкий ударный урон[-][/c]\\n[c][FF00FF]10,000 урона щитам в минуту[-][/c]\\n[c][FF8000]40,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2Group": {
-            "English": "100 Megajoule Medium Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "100 Мегаджоуль Средние Плазменные Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Может быть использовано только в Космосе[-][/c]\\n[c][00FF00]+17.5% Урон Взрыва по Блокам Брони из Металла[-][/c]\\n[c][FF0000]Низкий Урон от Удара[-][/c]\\n[c][FF00FF]20,000 Единиц Урона Щита в Минуту[-][/c]\\n[c][FF8000]80,000 Единиц Урона в Минуту[-][/c]"
+            "English": "100 Megajoule Medium Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "100 мегаджоулей средних плазменных пушек для использования на военных кораблях.\\n[c][FFFFFF]RMB для выбора варианта[-][/c]\\n[c][FFBB00]Можно использовать только в космосе[-][/c]\\n[c][00FF00]+5% урон от взрыва против металлических броневых блоков[-][/c]\\n[c][FF0000]Низкий ударный урон[-][/c]\\n[c][FF00FF]20,000 урона щитам за минуту[-][/c]\\n[c][FF8000]80,000 урона за минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2": {
-            "English": "A pair of 100MJ Medium Plasma Cannons embedded in an armored turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Пара 100МДж средних плазменных пушек, встроенных в бронированную башенную установку, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% сопротивление взрыву\\n+17.5% ущерб от взрыва против блоков брони из металла[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]20 000 ущерба щиту в минуту[-][/c]\\n[c][FF8000]80 000 ущерба в минуту[-][/c]"
+            "English": "A pair of 100MJ Medium Plasma Cannons embedded in an armored turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+10% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "Пара средних плазменных пушек мощностью 100 МДж, встроенных в бронированную башенную установку, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе во вакууме.  \n[c][FFBB00]Можно использовать только в космосе[-][/c]  \n[c][00FF00]+33% Устойчивость к взрыву\\n+10% Урон от взрывов против металлических бронированных блоков[-][/c]  \n[c][FF0000]Низкий урон по импульсу[-][/c]  \n[c][FF00FF]20 000 урона щиту в минуту[-][/c]  \n[c][FF8000]80 000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT2V2": {
-            "English": "An alternating 4-barrel assembly of 100MJ Medium Plasma Cannons embedded in an linear frame that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+17.5% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
-            "Russian": "Чередующаяся 4-ствольная сборка 100МДж средних плазменных пушек, встроенных в линейную раму, содержащую систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00] Может использоваться только в космосе[-][/c]\\n[c][00FF00]+17.5% урона взрыва по металлическим бронеблокам[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]\\n[c][FF8000]80 000 урона в минуту[-][/c]"
+            "English": "An alternating 4-barrel assembly of 100MJ Medium Plasma Cannons embedded in an linear frame that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+10% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]80,000 Damage per minute[-][/c]",
+            "Russian": "An alternating 4-barrel assembly of 100MJ Medium Plasma Cannons embedded in an linear frame that contains the cooling system required to drain the heat between shots while operating in a vacuum.[c][FFBB00]Может использоваться только в космосе[-][/c][c][00FF00]+10% урон от взрыва против металлических броневых блоков[-][/c][c][FF0000]Низкий ударный урон[-][/c][c][FF00FF]20,000 урона щитам в минуту[-][/c][c][FF8000]80,000 урона в минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT3Group": {
-            "English": "150 Megajoule Heavy Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "150 Мегаджоуль Тяжелые Плазменные Пушки для использования на Военных Кораблях.\\n[c][FFFFFF]RMB для выбора варианта[-][/c]\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% Урон от взрыва по Блоки из Металлической Брони\\n+20% Радиус взрыва[-][/c]\\n[c][FF0000]Низкий урон при попадании[-][/c]\\n[c][FF00FF]40,000 Урона по Щитам в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
+            "English": "150 Megajoule Heavy Plasma Cannons for use on Warships.\\n[c][FFFFFF]RMB to Select Variant[-][/c]\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "150 Мегаджоулей тяжелые плазменные пушки для использования на военных кораблях.\n[c][FFFFFF]RMB для Выбора Варианта[-][/c]\n[c][FFBB00]Может использоваться только в Космосе[-][/c]\n[c][00FF00]+20% Урон от Взрыва против Металлических Блоков Брони[-][/c]\n[c][FF0000]Низкий Урон от Воздействия[-][/c]\n[c][FF00FF]40,000 Урон Щита в Минуту[-][/c]\n[c][FF8000]160,000 Урон в Минуту[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT3": {
-            "English": "A trio of advanced 150MJ Heavy Plasma Cannons embedded in a Battleship turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+25% Blast Damage vs Metal Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Трио передовых 150МДж тяжелых плазменных пушек, встроенных в установку башни линкора, содержащей систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+33% сопротивление взрыву\\n+25% урон от взрыва по блочным металлическим броням\\n+20% радиус взрыва[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]40 000 урона щиту в минуту[-][/c]\\n[c][FF8000]160 000 урона в минуту[-][/c]"
+            "English": "A trio of advanced 150MJ Heavy Plasma Cannons embedded in a Battleship turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "A trio of advanced 150MJ Heavy Plasma Cannons embedded in a Battleship turret mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+33% Blast Resistance\\n+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]"
         }
     },
     {
         "bkiWeaponCVPlasmaT3V2": {
-            "English": "A 150MJ Heavy Plasma Battery in a Spinal mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+25% Blast Damage vs Metal Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
-            "Russian": "Батарея тяжелой плазмы 150МДж в спинальном монтаже, содержащая систему охлаждения, необходимую для отвода тепла между выстрелами при работе в вакууме.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+25% Урона взрывом по Блоки металлической брони\\n+20% Радиус взрыва[-][/c]\\n[c][FF0000]Низкий урон при ударе[-][/c]\\n[c][FF00FF]40,000 Урона щитам в минуту[-][/c]\\n[c][FF8000]160,000 Урона в минуту[-][/c]"
+            "English": "A 150MJ Heavy Plasma Battery in a Spinal mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "A 150MJ Heavy Plasma Battery in a Spinal mount that contains the cooling system required to drain the heat between shots while operating in a vacuum.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+20% Blast Damage vs Metal Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]"
         }
     },
     {
@@ -17569,20 +17569,20 @@
     },
     {
         "itmCVPlasmaCannonChargeT1": {
-            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Plasma Cannons.\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
-            "Russian": "Erestrum Gel, взвешенный в одноразовом металлическом корпусе, который можно перегреть с помощью каскадной лазерной матрицы.\\nИспользуется в качестве боеприпаса в пушках класса боевых кораблей Плазменных Пушек.\\n[c][00FF00]+10% Урона Взрыва по Блокам Брони[-][/c]\\n[c][FF0000]Низкий Урон при Воздействии[-][/c]\\n[c][FF00FF]10,000 Единиц Урона Щита в Минуту[-][/c]"
+            "English": "Erestrum Gel suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Plasma Cannons.\\n[c][00FF00]+5% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low Impact Damage[-][/c]\\n[c][FF00FF]10,000 Shield Damage per minute[-][/c]",
+            "Russian": "Гель Естеррума подвешен в одноразовом металлическом корпусе, который можно перегреть каскадной лазерной системой.\nИспользуется как боеприпасы в плазменных пушках класса военных кораблей.\n[c][00FF00]+5% урон от взрыва против Блоков брони[-][/c]\n[c][FF0000]Низкий ударный урон[-][/c]\n[c][FF00FF]10,000 уронов щита в минуту[-][/c]"
         }
     },
     {
         "itmCVPlasmaCannonChargeT2": {
-            "English": "A Magnesium-doped Erestrum gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Advanced Plasma Cannons.\\n[c][00FF00]+17.5% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
-            "Russian": "Магний-допированная смесь геля Эреструм, взвешенная в одноразовом металлическом корпусе, который можно сверх нагреть с помощью каскадного лазерного массива.\\nИспользуется в качестве боеприпасов в корабельных классах передовых плазменных пушек.\\n[c][00FF00]+17.5% Ущерб от взрыва по блокам брони[-][/c]\\n[c][FF0000]Низкий ущерб от удара[-][/c]\\n[c][FF00FF]20,000 ед. ущерба щиту в минуту[-][/c]"
+            "English": "A Magnesium-doped Erestrum gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Advanced Plasma Cannons.\\n[c][00FF00]+10% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]",
+            "Russian": "A Magnesium-doped Erestrum gel mixture suspended in a disposable metal casing that can be superheated with a cascade laser array.\\nUsed as ammunition in warship-class Advanced Plasma Cannons.\\n[c][00FF00]+10% Урон от взрыва против Блоков Брони[-][/c]\\n[c][FF0000]Низкий ударный урон[-][/c]\\n[c][FF00FF]20 000 Урона щиту в минуту[-][/c]"
         }
     },
     {
         "itmCVPlasmaCannonChargeT3": {
-            "English": "A 150MJ Augmented Thermal Plasma Cell that only the reinforced barrel and reaction chamber of a Heavy Plasma Cannon can withstand without sustaining damage.\\n[c][00FF00]+25% Blast Damage vs Armor Blocks\\n+20% Blast Radius[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]",
-            "Russian": "Ячейка усиленной термоплазмы 150МДж, которую только усиленный ствол и реакционная камера Тяжелого Плазменного Пушки могут выдержать без получения повреждений.\\n[c][00FF00]+25% урона взрыва по блокам брони\\n+20% радиус взрыва[-][/c]\\n[c][FF0000]Низкий урон от удара[-][/c]\\n[c][FF00FF]40,000 ед. урона щиту в минуту[-][/c]"
+            "English": "A 150MJ Augmented Thermal Plasma Cell that only the reinforced barrel and reaction chamber of a Heavy Plasma Cannon can withstand without sustaining damage.\\n[c][00FF00]+20% Blast Damage vs Armor Blocks[-][/c]\\n[c][FF0000]Low impact damage[-][/c]\\n[c][FF00FF]40,000 Shield Damage per minute[-][/c]",
+            "Russian": "А 150МДж усиленная термальная плазменная ячейка, которую может выдержать только усиленный ствол и реакторный отсек тяжёлого плазменного пушки без повреждений.\n[c][00FF00]+20% урон от взрыва против блоков брони[-][/c]\n[c][FF0000]Низкий ударный урон[-][/c]\n[c][FF00FF]40 000 урона щитам в минуту[-][/c]"
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 36)[-][/c]",
-            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 36)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 37)[-][/c]",
+            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 37)[-][/c]"
         }
     },
     {
@@ -29706,12 +29706,6 @@
         }
     },
     {
-        "Withdrawl": {
-            "English": "[c][FF0000]Withdrawl[-][/c]",
-            "Russian": "[c][FF0000]Вывод[-][/c]"
-        }
-    },
-    {
         "igmEffectWire": {
             "English": "Maximum health is temporarily doubled\\nAccelerated Metabolism\\nAddiction",
             "Russian": "Максимальное здоровье временно удвоено\nУскоренный метаболизм\nЗависимость"
@@ -29721,12 +29715,6 @@
         "igmEffectIce": {
             "English": "Most environmental and harmful status effects will be ignored\\nHigh strain on body\\nAddiction",
             "Russian": "Наиболее экологические и вредные статусы будут игнорироваться\\nВысокая нагрузка на организм\\nПристрастие"
-        }
-    },
-    {
-        "igmEffectWithdrawl": {
-            "English": "Suffering from drug withdrawl\\nEffects can be lessened with a Detox Kit or continued drug usage",
-            "Russian": "Suffering from drug withdrawl\nEffects can be lessened with a Detox Kit or continued drug usage"
         }
     },
     {
@@ -29775,6 +29763,18 @@
         "bmFungalBloom": {
             "English": "Fungal Bloom",
             "Russian": "Грибной Расцвет"
+        }
+    },
+    {
+        "Withdrawal": {
+            "English": "[c][FF0000]Withdrawal[-][/c]",
+            "Russian": "[c][FF0000]Вывод[-][/c]"
+        }
+    },
+    {
+        "igmEffectWithdrawal": {
+            "English": "Suffering from drug withdrawal\\nEffects can be lessened with a Detox Kit or continued drug usage",
+            "Russian": "Страдает от отказа от наркотиков  \nЭффекты можно снизить при помощи набора для детокса или продолжая использовать наркотики"
         }
     }
 ]
