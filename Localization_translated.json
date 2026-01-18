@@ -12193,8 +12193,8 @@
     },
     {
         "bkiRTGenerator": {
-            "English": "A Polaris-Manufactured Radioisotope Thermoelectric Generator.\\nProduces a constant output of up to 3kW without consuming any fuel. Exceeding 3kW will consume Promethium fuel up to an additional 1000W.\\n[c][FF0000]Once installed, the RTG cannot be removed intact.[-][/c]",
-            "Russian": "Радиоизотопный термоэлектрический генератор производства Polaris.\\nВырабатывает постоянный выход до 3кВт без потребления любого топлива. Превышение 3кВт будет потреблять топливо из прометия до дополнительных 1000Вт.\\n[c][FF0000]После установки, РТГ нельзя удалить целым.[-][/c]"
+            "English": "A Polaris-Manufactured Radioisotope Thermoelectric Generator.\\nProduces a constant output of up to 3kW without consuming any fuel. Exceeding 3kW will consume Promethium fuel up to an additional 1000W.\\n[c][FF0000]Highly Radioactive[-][/c]",
+            "Russian": "Радиоизотопный термоэлектрический генератор, изготовленный компанией Polaris.\nПроизводит постоянный выход до 3 кВт без потребления топлива. При превышении 3 кВт будет использоваться топливо из прометия на дополнительные 1000 Вт.\n[c][FF0000]Сильно радиоактивный[-][/c]"
         }
     },
     {
@@ -13759,8 +13759,8 @@
     },
     {
         "bkiGroupArtillery": {
-            "English": "[c][66CCFF]Block Group[-][/c]: RMB to Access\\nArtillery Turret: 155mm Artillery Shell\\nPlasma Artillery Turrets: 140MJ Plasma Artillery Shell\\n[c][FF0000]Explosive Weapon: Low Damage vs Energy Shields[-][/c]\\n[c][00FF00]Plasma-Kinetic Weapon: Medium Damage vs Energy Shields[-][/c]",
-            "Russian": "[c][66CCFF]Группа Блоков[-][/c]: ПКМ для доступа\\nАртиллерийская Турель: 155мм Артиллерийский Снаряд\\nПлазменные Артиллерийские Турели: 140МДж Плазменный Артиллерийский Снаряд\\n[c][FF0000]Взрывное Оружие: Низкий Урон против Энергетических Щитов[-][/c]\\n[c][00FF00]Плазменно-кинетическое Оружие: Средний Урон против Энергетических Щитов[-][/c]"
+            "English": "[c][66CCFF]Block Group[-][/c]: RMB to Access\\nArtillery Turret: 155mm Artillery Shell\\nPlasma Artillery Turrets: 155mm Plasma Artillery Shell\\n[c][FF0000]Explosive Weapon: Low Damage vs Energy Shields[-][/c]\\n[c][00FF00]Plasma-Kinetic Weapon: Medium Damage vs Energy Shields[-][/c]",
+            "Russian": "[c][66CCFF]Блок Группа[-][/c]: ПКМ Для Доступа\nАртиллерийская Турель: 155мм Артиллерийский Снаряд\nПлазменные Артиллерийские Турели: 155мм Плазменный Артиллерийский Снаряд\n[c][FF0000]Взрывное Оружие: Низкий Урон Против Энергетических Щитов[-][/c]\n[c][00FF00]Плазмо-Кинетическое Оружие: Средний Урон Против Энергетических Щитов[-][/c]"
         }
     },
     {
@@ -21025,8 +21025,8 @@
     },
     {
         "invTitle": {
-            "English": "INVENTORY [c][00ffff](RE2 Build 37)[-][/c]",
-            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 37)[-][/c]"
+            "English": "INVENTORY [c][00ffff](RE2 Build 38)[-][/c]",
+            "Russian": "ИНВЕНТАРЬ [c][00ffff](RE2 Build 38)[-][/c]"
         }
     },
     {
@@ -29347,8 +29347,8 @@
     },
     {
         "bkiWeaponCVVulcanT3": {
-            "English": "An experimental super-heavy rotary cannon system equipped with rapid cooling and reloading designed for use in vaccuum. The design was deemed inefficient for official naval use, despite its efficacy.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+100% Impact Damage vs Entities\\n+25% Reload Speed[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]128,420 Damage per minute[-][/c]",
-            "Russian": "Экспериментальная сверхтяжелая система вращающегося орудия, оснащенная быстрым охлаждением и перезарядкой, предназначенная для использования в вакууме. Конструкция была признана неэффективной для официального военно-морского использования, несмотря на ее эффективность.\\n[c][FFBB00]Может использоваться только в космосе[-][/c]\\n[c][00FF00]+100% урона от удара по объектам\\n+25% скорость перезарядки[-][/c]\\n[c][FF00FF]20 000 урона щиту в минуту[-][/c]\\n[c][FF8000]128 420 урона в минуту[-][/c]"
+            "English": "An experimental super-compact rotary cannon system equipped with rapid cooling and reloading designed for use in vaccuum. The design was deemed inefficient for official naval use, despite its efficacy.\\n[c][FFBB00]Can only be used in Space[-][/c]\\n[c][00FF00]+100% Impact Damage vs Entities\\n+25% Reload Speed[-][/c]\\n[c][FF00FF]20,000 Shield Damage per minute[-][/c]\\n[c][FF8000]160,000 Damage per minute[-][/c]",
+            "Russian": "Экспериментальная сверхкомпактная вращающаяся пушка с системой быстрого охлаждения и перезарядки, предназначенная для использования в вакууме. Дизайн был признан неэффективным для официального военно-морского использования, несмотря на его эффективность.\\n[c][FFBB00]Можно использовать только в космосе[-][/c]\\n[c][00FF00]+100% Урон от удара против Сущностей\\n+25% Скорость Перезарядки[-][/c]\\n[c][FF00FF]20,000 Урон по щитам в минуту[-][/c]\\n[c][FF8000]160,000 Урон в минуту[-][/c]"
         }
     },
     {
@@ -29775,6 +29775,30 @@
         "igmEffectWithdrawal": {
             "English": "Suffering from drug withdrawal\\nEffects can be lessened with a Detox Kit or continued drug usage",
             "Russian": "Страдает от отказа от наркотиков  \nЭффекты можно снизить при помощи набора для детокса или продолжая использовать наркотики"
+        }
+    },
+    {
+        "FusionReactorShieldedLarge": {
+            "English": "Shielded Fusion Reactor",
+            "Russian": "Защищенный Фузионный Реактор"
+        }
+    },
+    {
+        "bkiFusionReactorShielded": {
+            "English": "A classified, experimental fusion reactor contained within advanced radiation and heat shielding making it completely undetectable to weapon targeting systems.\\nBecause of the additional complexity, more energy must be expended to maintain the cooling systems.\\n\\n[c][00FF00]Cannot be targeted by enemy turrets\\nHeavily Armored[-][/c]",
+            "Russian": "A classified, experimental fusion reactor contained within advanced radiation and heat shielding making it completely undetectable to weapon targeting systems.\nBecause of the additional complexity, more energy must be expended to maintain the cooling systems.\n\n[c][00FF00]Не может быть целевым для вражеских турелей\nТяжело бронирован[-][/c]"
+        }
+    },
+    {
+        "FurnaceCV": {
+            "English": "Mobile Furnace",
+            "Russian": "Мобильная Печь"
+        }
+    },
+    {
+        "bkiCVFurnace": {
+            "English": "A specially-designed Arc Furnace designed for use on Refinery Ships. Able to operate in zero-G and under acceleration without the catastrophic failure that occurs when trying to do the same using the static version.\\n[c][00FF00]Will automatically smelt metal ores into ingots from a connected container[-][/c]",
+            "Russian": "Особый Arc Furnace разработан для использования на кораблях-рефайнери. Может работать в условиях нулевой гравитации и при ускорении без катастрофического отказа, который возникает при попытке сделать то же самое с статической версией.\\n[c][00FF00]Автоматически плавит металлические руды в слитки из подключенного контейнера[-][/c]"
         }
     }
 ]
