@@ -12,7 +12,7 @@ Languages:
 - [ ] Portuguese (Euro)
 - [ ] Portuguese (Brazil)
 - [ ] Polish
-- [x] Russian [DRAFT]
+- [x] Russian [FULL]
 - [ ] Japanese
 - [ ] Chinese (simplified)
 - [ ] Chinese (traditional)
